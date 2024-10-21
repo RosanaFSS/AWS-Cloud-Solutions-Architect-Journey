@@ -13,7 +13,7 @@
 <p>Then I created my <strong><em>VPC</em></strong> running the following command line
 <pre><code> aws ec2 create-vpc --cidr-block 172.20.0.0/16 </code></pre>
 
-my <strong><em>VPC</em></strong> was created.</p>
+The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
 
 <pre><code>
 {
