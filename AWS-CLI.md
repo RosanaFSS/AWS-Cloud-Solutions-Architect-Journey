@@ -36,7 +36,7 @@ C:\Windows\System32&gt;aws ec2 create-vpc --cidr-block 172.20.0.0/16
 }
 </code></pre>
 
-
+<p>Here is the breakdown of each part of my output.</p>
 <ul>
     <li>CidrBlock: "172.20.0.0/16" shows that the VPC was created with the correct CIDR block you specified.</li>
     <li>DhcpOptionsId: This is the ID of the DHCP options set associated with the VPC.</li>
