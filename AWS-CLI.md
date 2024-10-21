@@ -69,14 +69,14 @@ The output of the <strong><em>Security Group</em></strong> created is the follow
 </code></pre>
 
 <h2>Configured Inbound Rules for the Security Group</h2>
-<pre><code># Allow SSH traffic (port 22) from any IP (caution: use more restricted CIDR if possible)
-aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 22 --cidr 0.0.0.0/0
+<h4>Allowed SSH traffic (port 22) from any IP</h4>
+<pre><code>aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 22 --cidr 0.0.0.0/0</code></pre>
 
-# Allow HTTP traffic (port 80) from any IP
-aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 80 --cidr 0.0.0.0/0
+<h4>Allowed HTTP traffic (port 80) from any IP</h4>
+<pre><code>aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 80 --cidr 0.0.0.0/0</code></pre>
 
-# If you want to allow HTTPS traffic (port 443) 
-aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 443 --cidr 0.0.0.0/0
+<h4>Allowed HTTPS traffic (port 443) </h4>
+<pre><code>aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 443 --cidr 0.0.0.0/0</code></pre>
 </code></pre>
 
 <h2>Created Private Subnet</h2>
