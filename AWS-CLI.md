@@ -5,7 +5,7 @@ asjkasjsajksakjsa
 
 ![image](https://github.com/user-attachments/assets/e0f49ac5-de4b-4de3-847c-39a4c1ed2fba)
 
-<p>After running<br>
+<p>After running
 <pre><code>
 aws ec2 create-vpc --cidr-block 172.20.0.0/16
 </code></pre>
