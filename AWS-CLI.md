@@ -331,9 +331,10 @@ I create the first one.</p>
 By default, the private route table will have local routes for communication within the VPC (e.g., 172.20.0.0/16), allowing instances in the private subnet to communicate with other instances within the same VPC.</p>
 
 
-<h4>Verified my Architecure</h4>
+<h2>Verified my Architecure</h2>
 
-![image](https://github.com/user-attachments/assets/7bb737d9-d7cd-4fe1-a02c-fbb91791a7cf)
+![image](https://github.com/user-attachments/assets/ca22d281-bf17-45d3-9c35-086962968085)
+
 
 
 
@@ -668,63 +669,3 @@ The tag lists the name of the IGW as "internet-gateway-rosana-santos-proz", whic
     ]
 }
 </code></pre>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
