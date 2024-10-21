@@ -1,4 +1,13 @@
-asjkasjsajksakjsa
+<h3>Programa PROZ AWS Arquitet@s</h3>
+<h1> Using the <code>AWS CLI</code> installed on Windows, I created a <strong><em>VPC</em></strong> that includes both a <strong><em>public and private subnet</em></strong> within the same Availability Zone, attached an <strong><em>Internet Gateway</em></strong>, and configured the <strong><em>Route Table</em></strong>.</h1>
+<p>October 21, 2024<br></p>
+
+<p>This highlighted in green is the architecture created.</p>
+
+![image](https://github.com/user-attachments/assets/5b0d78f3-a328-4811-a825-90341effb2ad)
+
+<p></p>
+<p>I started creating a VPC.</p>
 
 
 ![image](https://github.com/user-attachments/assets/af18e270-8288-4dc4-a407-0b189b5d1de8)
@@ -12,7 +21,6 @@ aws ec2 create-vpc --cidr-block 172.20.0.0/16
 I got the following output.</p>
 
 <pre><code>
-C:\Windows\System32&gt;aws ec2 create-vpc --cidr-block 172.20.0.0/16
 {
     "Vpc": {
         "CidrBlock": "172.20.0.0/16",
