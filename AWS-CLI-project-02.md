@@ -9,7 +9,7 @@
 
 ![image](https://github.com/user-attachments/assets/064bd82b-f4cf-42df-97ec-6e0b2ccb92d9)
 
-<h2>Created an EC2 instance</h2>
+<h2>Created an EC2 instance: <strong><code>ec2-rosana-santos-proz</code></strong></h2>
 <pre><code>C:\Windows\System32>aws ec2 run-instances --image-id ami-0989c1b438266c944 --count 1 --instance-type t2.micro --key-name rosana-santos-keys --security-group-ids sg-048adbbb7cda6e319 --subnet-id subnet-06275e0cf1c1039ae --associate-public-ip-address --block-device-mappings "[{\"DeviceName\":\"/dev/xvda\",\"Ebs\":{\"VolumeSize\":8,\"VolumeType\":\"gp3\"}}]" --tag-specifications "ResourceType=instance,Tags=[{Key=Name,Value=ec2-rosana-santos-proz}]"</code></pre>
 
 
