@@ -6,7 +6,7 @@
 <p>Soon the architecture will be inserted here.</p>
 
 <p></p>
-<p>First I configured the <strong><em>Region</em></strong> as sa-east-1.</p>
+<p>First I configured the <strong><em>Region</em></strong> as <code>sa-east-1</code>.</p>
 <pre><code>C:\Windows\System32>aws configure set region sa-east-1</code></pre>
 
 <p></p>
