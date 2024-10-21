@@ -71,6 +71,35 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 
 <p></p>
 <p>I created a <strong><em>Public Subnet</em></strong> .</p>
+<pre><code> aws ec2 create-subnet --vpc-id vpc-0ebf8715637e2e32a --cidr-block 172.20.2.0/24 --availability-zone sa-east-1a </code></pre>
+<p>My output was the following</p>
+<pre><code>
+{
+    "Subnet": {
+        "AvailabilityZone": "sa-east-1a",
+        "AvailabilityZoneId": "sae1-az1",
+        "AvailableIpAddressCount": 251,
+        "CidrBlock": "172.20.2.0/24",
+        "DefaultForAz": false,
+        "MapPublicIpOnLaunch": false,
+        "State": "available",
+        "SubnetId": "subnet-044776b45f04504d0",
+        "VpcId": "vpc-0ebf8715637e2e32a",
+        "OwnerId": "712107929769",
+        "AssignIpv6AddressOnCreation": false,
+        "Ipv6CidrBlockAssociationSet": [],
+        "SubnetArn": "arn:aws:ec2:sa-east-1:712107929769:subnet/subnet-044776b45f04504d0",
+        "EnableDns64": false,
+        "Ipv6Native": false,
+        "PrivateDnsNameOptionsOnLaunch": {
+            "HostnameType": "ip-name",
+            "EnableResourceNameDnsARecord": false,
+            "EnableResourceNameDnsAAAARecord": false
+        }
+    }
+</code></pre>
+
+![image](https://github.com/user-attachments/assets/de292524-0513-4461-a486-012e38584fad)
 
 
 <p>I created a <strong><em>Private Subnet</em></strong> .</p>
