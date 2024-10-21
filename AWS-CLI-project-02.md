@@ -2,8 +2,8 @@
 <h1> Create a simple <code><em>EC2</em></code> instance.</h1>
 <p>October 21, 2024<br></p><br>
 
-<h2>Created key pair>
-<pre><code>aws ec2 create-key-pair --key-name rosana-santos-keys --query 'KeyMaterial' --output text > rosana-santos-keys.pem</code></pre>
+<h2>Created key pair></h2>
+<pre><code>aws ec2 create-key-pair --key-name rosana-santos-keys --query 'KeyMaterial' --output text > rosana-santos-keys.pem</code</pre>
 
 ![image](https://github.com/user-attachments/assets/064bd82b-f4cf-42df-97ec-6e0b2ccb92d9)
 
@@ -11,8 +11,7 @@
 <pre><code>C:\Windows\System32>aws ec2 run-instances --image-id ami-0989c1b438266c944 --count 1 --instance-type t2.micro --key-name rosana-santos-keys --security-group-ids sg-048adbbb7cda6e319 --subnet-id subnet-06275e0cf1c1039ae --associate-public-ip-address --block-device-mappings "[{\"DeviceName\":\"/dev/xvda\",\"Ebs\":{\"VolumeSize\":8,\"VolumeType\":\"gp3\"}}]" --tag-specifications "ResourceType=instance,Tags=[{Key=Name,Value=ec2-rosana-santos-proz}]"</code></pre>
 
 
-The output indicates that my EC2 instance has been successfully created. Here are key details confirming the setup:
-
+<p>The output indicates that my EC2 instance has been successfully created. Here are key details confirming the setup:</p>
 AMI: ami-0989c1b438266c944 (Amazon Linux 2023)
 Instance Type: t2.micro
 Key Pair: rosana-santos-keys
@@ -22,6 +21,7 @@ Tags: Name set to ec2-rosana-santos-proz
 Block Device: Configured correctly as DeviceName=/dev/xvda
 The instance state is initially "pending", which means it's in the process of launching. It should transition to "running" soon after.
 
+<pre><code>
 {
     "Groups": [],
     "Instances": [
@@ -145,31 +145,7 @@ The instance state is initially "pending", which means it's in the process of la
     "OwnerId": "712107929769",
     "ReservationId": "r-05c58a5d49a76045c"
 }
-
-
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-C:\Windows\System32>
-
-
-
-
-
-
-
-
-
+</code></pre>
 
 
 
