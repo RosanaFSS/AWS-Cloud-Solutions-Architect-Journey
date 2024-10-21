@@ -53,9 +53,10 @@ The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
 
 <h2>Customized VPC name</h2>
 <p>Next I defined a specific <strong><em>name for my VPC</em></strong>.</p>
-<pre><code> aws ec2 create-tags --resources vpc-00590e188b434d1fb --tags Key=Name,Value=vpc-rosana-santos-proz </code></pre>
+<pre><code> aws ec2 create-tags --resources vpc-0e33f5da409fa3d35 --tags Key=Name,Value=vpc-rosana-santos-proz </code></pre>
 
-![image](https://github.com/user-attachments/assets/7fc040b5-da14-4086-a981-cde81802113d)
+![image](https://github.com/user-attachments/assets/b0473387-94be-4544-adb0-7651b2d8c3a6)
+
 
 <h2>Created a Security Group</h2>
 <pre><code>aws ec2 create-security-group --group-name rosana-santos-proz --description "Security Group for my PROZ Arquitet@s Program app" --vpc-id vpc-0e33f5da409fa3d35</code></pre>
@@ -331,7 +332,15 @@ By default, the private route table will have local routes for communication wit
 
 
 <h4>Verified my Architecure</h4>
+
+![image](https://github.com/user-attachments/assets/7bb737d9-d7cd-4fe1-a02c-fbb91791a7cf)
+
+
+
 <h2>Checked VPC</h2>
+
+![image](https://github.com/user-attachments/assets/e08f4e3a-5d49-4b4e-8972-2fe1241234ab)
+
 <pre><code>aws ec2 describe-vpcs --vpc-ids vpc-0e33f5da409fa3d35</code></pre>
 <p>Overall, the output confirms that my VPC vpc-0e33f5da409fa3d35 is set up with the specified CIDR block, is in the "available" state, and is not the default VPC, but a custom one you created. These details help ensure your network environment is correctly established for further resource deployment.</p>
 <pre><code>
