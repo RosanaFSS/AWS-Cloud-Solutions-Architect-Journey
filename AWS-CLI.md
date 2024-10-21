@@ -3,6 +3,7 @@
 <p>October 21, 2024<br></p><br>
 
 <p>This highlighted in green is the architecture that I created.</p>
+<p>Soon the architecture will be inserted here.</p>
 
 <p></p>
 <p>First I configred the <strong><em>Region</em></strong> as sa-east-1.
