@@ -43,6 +43,8 @@
 
 ![image](https://github.com/user-attachments/assets/8e478226-f5b5-45d3-afe6-6c688bb933af)
 
+<p>Internet Gateway created.</p>
+
 ![image](https://github.com/user-attachments/assets/72b28d8b-0851-4e74-b175-3c007115a8c1)
 
 ![image](https://github.com/user-attachments/assets/f8ea8c64-b650-4907-9f31-1c686a0fe250)
