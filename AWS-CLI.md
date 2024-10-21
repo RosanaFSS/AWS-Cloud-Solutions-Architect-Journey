@@ -162,21 +162,17 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 
 
 <h2>Created Route Tables</h2>
-<p></p>
-<p>I created two <strong><em>Route Tables</em></strong>..</p>
+<p>I created two <strong><em>Route Tables</em></strong>.</p>
 <pre><code>aws ec2 create-route-table --vpc-id <vpc-id></pre>
 
 <h2>Configured the Route Tables</h2>
-<p></p>
-<p>I created two <strong><em>Route Tables</em></strong>..</p>
+<p>I configured the <strong><em>Route Tables</em></strong>.</p>
 <pre><code>aws ec2 create-route-table --vpc-id <vpc-id></pre>
 
 <h2>Associated Subnets to its own Route Table</h2>
-<p></p>
 <pre><code>aws ec2 associate-route-table --route-table-id <public-route-table-id> --subnet-id <public-subnet-id></pre>
 
 <h2>Cheked the Architecure</h2>
-<p></p>
 <pre><code>aws ec2 describe-vpcs
 aws ec2 describe-subnets
 aws ec2 describe-internet-gateways
