@@ -57,6 +57,9 @@
 
 ![image](https://github.com/user-attachments/assets/43e59b6e-77e4-4972-8661-a0bb16e5388f)
 
+<p></p>
+<p>Public route table configured.</p>
+
 ![image](https://github.com/user-attachments/assets/41e156eb-e16f-45db-875a-355187ea9f5e)
 
 ![image](https://github.com/user-attachments/assets/f1a8ab13-fe77-4db6-9a31-62410564e82c)
