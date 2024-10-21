@@ -69,9 +69,9 @@
 
 ![image](https://github.com/user-attachments/assets/17a3245e-a431-44a6-acc5-c802ad0d13c7)
 
-<p>Route Table created. This one will be Private.</p>
-
 ![image](https://github.com/user-attachments/assets/f5bc5e25-f719-4d73-a834-cbd08cf6dba4)
+
+<p>Private route table created.</p>
 
 ![image](https://github.com/user-attachments/assets/5c14f18b-3798-4ca4-9f52-5d71464bbf38)
 
