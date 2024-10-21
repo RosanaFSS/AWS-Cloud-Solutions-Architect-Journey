@@ -152,6 +152,9 @@ The instance state is initially "pending", which means it's in the process of la
 }
 </code></pre>
 
+![image](https://github.com/user-attachments/assets/9376cb77-c798-4d99-82af-1d8944166f69)
+
+
 <h2>Checked instance status</h2>
 
 <p>It is running!!</p>
@@ -159,6 +162,27 @@ The instance state is initially "pending", which means it's in the process of la
 <pre><code>aws ec2 describe-instances --instance-ids i-05297d684c53e0c2c --query "Reservations[*].Instances[*].State.Name" --output text</code></pre>
 
 ![image](https://github.com/user-attachments/assets/7cb88562-dc9d-427a-9b0b-9a9da6dd558a)
+
+
+To connect to your instance using the Amazon EC2 console
+Open the Amazon EC2 console at https://console.aws.amazon.com/ec2/.
+
+In the navigation pane, choose Instances.
+
+Select the instance and choose Connect.
+
+Choose the EC2 Instance Connect tab.
+
+For Connection type, choose Connect using EC2 Instance Connect.
+
+If there is a choice, select the IP address to connect to. Otherwise, the IP address is selected automatically.
+
+For Username, verify the username.
+
+Choose Connect to open a terminal window.
+
+![image](https://github.com/user-attachments/assets/57bb3201-c720-47f1-a963-4ef90f505562)
+
 
 
 
