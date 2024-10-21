@@ -7,11 +7,11 @@
 
 <p></p>
 <p>First I configured the <strong><em>Region</em></strong> as <code>sa-east-1</code>.</p>
-<pre><code>aws configure list</code></pre>
+<pre><code>aws configure set region sa-east-1</code></pre>
 
 <p></p>
-<p>I confirmed the configration, especially the Region running the following command line.</p>
-<pre><code>aws configure set region sa-east-1</code></pre>
+<p>I confirmed the configuration, especially the Region running the following command line.</p>
+<pre><code>aws configure list</code></pre>
 
 <p>I recived the following output, what confirm that the Region is correct.</p>
 <pre><code>                   
@@ -34,13 +34,13 @@ The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
         "CidrBlock": "172.20.0.0/16",
         "DhcpOptionsId": "dopt-0c13202cb9899edc4",
         "State": "pending",
-        "VpcId": "vpc-0ebf8715637e2e32a",
+        "VpcId": "vpc-0e33f5da409fa3d35",
         "OwnerId": "712107929769",
         "InstanceTenancy": "default",
         "Ipv6CidrBlockAssociationSet": [],
         "CidrBlockAssociationSet": [
             {
-                "AssociationId": "vpc-cidr-assoc-05930ea08c6fb0097",
+                "AssociationId": "vpc-cidr-assoc-0159884409164b213",
                 "CidrBlock": "172.20.0.0/16",
                 "CidrBlockState": {
                     "State": "associated"
@@ -49,7 +49,7 @@ The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
         ],
         "IsDefault": false
     }
-}
+}     
 </code></pre>
 
 <p>And here I explain what means what part of the output.</p>
@@ -83,12 +83,12 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
         "DefaultForAz": false,
         "MapPublicIpOnLaunch": false,
         "State": "available",
-        "SubnetId": "subnet-044776b45f04504d0",
-        "VpcId": "vpc-0ebf8715637e2e32a",
+        "SubnetId": "subnet-00f8fe1d4c1787048",
+        "VpcId": "vpc-0e33f5da409fa3d35",
         "OwnerId": "712107929769",
         "AssignIpv6AddressOnCreation": false,
         "Ipv6CidrBlockAssociationSet": [],
-        "SubnetArn": "arn:aws:ec2:sa-east-1:712107929769:subnet/subnet-044776b45f04504d0",
+        "SubnetArn": "arn:aws:ec2:sa-east-1:712107929769:subnet/subnet-00f8fe1d4c1787048",
         "EnableDns64": false,
         "Ipv6Native": false,
         "PrivateDnsNameOptionsOnLaunch": {
@@ -97,9 +97,18 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
             "EnableResourceNameDnsAAAARecord": false
         }
     }
+}
 </code></pre>
 
-![image](https://github.com/user-attachments/assets/de292524-0513-4461-a486-012e38584fad)
+![image](https://github.com/user-attachments/assets/284722c3-84ff-4d93-b1f7-12a0266a9f8f)
+
+<p></p>
+<p>I defined a specifc name for this <strong><em>Public Subnet</em></strong> .</p>
+<pre><code> aws ec2 create-tags --resources subnet-00f8fe1d4c1787048 --tags Key=Name,Value=private-subnet-rosana-santos-proz </code></pre>
+
+![image](https://github.com/user-attachments/assets/8ae04818-0e38-4f69-87ef-7a1a2d8d4609)
+
+
 
 
 <p>I created a <strong><em>Private Subnet</em></strong> .</p>
