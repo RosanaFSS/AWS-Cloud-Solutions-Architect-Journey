@@ -5,7 +5,7 @@
 <p>This highlighted in green is the architecture that I created.</p>
 
 <p></p>
-<p>I started creating a VPC.</p>
+<p>I started creating a <strong><em>VPC</em></strong> .</p>
 
 <p>After running the following command line
 <pre><code> aws ec2 create-vpc --cidr-block 172.20.0.0/16 </code></pre>
@@ -47,8 +47,10 @@ my <strong><em>VPC</em></strong> was created.</p>
     <li>CidrBlockAssociationSet: Shows the CIDR block association details, confirming that the CIDR block is successfully associated with your VPC.</li>
 </ul>
 
-<p>I defined a specific name for my VPC.</p>
+<p>I defined a specific <strong><em>name for my VPC</em></strong> .</p>
 <pre><code> aws ec2 create-tags --resources vpc-00590e188b434d1fb --tags Key=Name,Value=vpc-rosana-santos-proz </code></pre>
 ![image](https://github.com/user-attachments/assets/7fc040b5-da14-4086-a981-cde81802113d)
+
+<p>I created a <strong><em>Publoc Subnet</em></strong> .</p>
 
 
