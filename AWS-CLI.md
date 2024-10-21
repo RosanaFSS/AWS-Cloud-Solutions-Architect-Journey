@@ -165,7 +165,7 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 
 <h2>Configured the Route Tables</h2>
 <p>I configured the <strong><em>Route Tables</em></strong>.</p>
-<pre><code>aws ec2 create-route-table --vpc-id <vpc-id</code>></pre>
+<pre><code>aws ec2 create-route-table --vpc-id <vpc-id></code></pre>
 
 <h2>Associated Subnets to its own Route Table</h2>
 <pre><code>aws ec2 associate-route-table --route-table-id <public-route-table-id> --subnet-id <public-subnet-id></public-subnet-id></public-route-table-id></code></pre>
@@ -175,8 +175,4 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 aws ec2 describe-subnets
 aws ec2 describe-internet-gateways
 aws ec2 describe-route-tables
-</pre>
-
-
-
-
+</code></pre>
