@@ -31,14 +31,15 @@
 
 ![image](https://github.com/user-attachments/assets/e1b89e04-9274-402d-8987-08e01550429d)
 
-<p>Route Table created.</p>
-
 ![image](https://github.com/user-attachments/assets/a0ab2594-e84b-4513-abaa-6af7a6320bc7)
 
+<p>Route Table created.</p>
 
 ![image](https://github.com/user-attachments/assets/96eb6530-7b49-4103-9141-1b3faed5327a)
 
 ![image](https://github.com/user-attachments/assets/f86439d7-6a13-411c-885a-cdc76cd49229)
+
+<p>Subnets associated to VPC.</p>
 
 ![image](https://github.com/user-attachments/assets/8e478226-f5b5-45d3-afe6-6c688bb933af)
 
