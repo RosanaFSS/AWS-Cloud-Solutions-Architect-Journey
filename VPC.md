@@ -62,10 +62,10 @@
 
 ![image](https://github.com/user-attachments/assets/41e156eb-e16f-45db-875a-355187ea9f5e)
 
-<p></p>
-<p>Subnet associated to public route table.</p>
-
 ![image](https://github.com/user-attachments/assets/f1a8ab13-fe77-4db6-9a31-62410564e82c)
+
+<p></p>
+<p>Public subnet associated to public route table.</p>
 
 ![image](https://github.com/user-attachments/assets/17a3245e-a431-44a6-acc5-c802ad0d13c7)
 
