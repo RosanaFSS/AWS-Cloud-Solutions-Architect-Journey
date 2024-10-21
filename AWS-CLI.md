@@ -28,7 +28,6 @@ secret_key     **********[REDACTED] shared-credentials-file
 <pre><code> aws ec2 create-vpc --cidr-block 172.20.0.0/16 </code></pre>
 
 The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
-
 <pre><code>
 {
     "Vpc": {
@@ -54,10 +53,31 @@ The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
 </code></pre>
 
 <h2>Customized VPC name</h2>
-<p>TNext a defined a specific <strong><em>name for my VPC</em></strong>.</p>
+<p>Next I defined a specific <strong><em>name for my VPC</em></strong>.</p>
 <pre><code> aws ec2 create-tags --resources vpc-00590e188b434d1fb --tags Key=Name,Value=vpc-rosana-santos-proz </code></pre>
 
 ![image](https://github.com/user-attachments/assets/7fc040b5-da14-4086-a981-cde81802113d)
+
+<h2>Created a Security Group</h2>
+<pre><code>aws ec2 create-security-group --group-name rosana-santos-proz --description "Security Group for my PROZ Arquitet@s Program app" --vpc-id vpc-0e33f5da409fa3d35</code></pre>
+
+The output of the <strong><em>Security Group</em></strong> created is the following</p>
+<pre><code>
+{
+    "GroupId": "sg-048adbbb7cda6e319"
+}
+</code></pre>
+
+<h2>Configured Inbound Rules for the Security Group</h2>
+<pre><code># Allow SSH traffic (port 22) from any IP (caution: use more restricted CIDR if possible)
+aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 22 --cidr 0.0.0.0/0
+
+# Allow HTTP traffic (port 80) from any IP
+aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 80 --cidr 0.0.0.0/0
+
+# If you want to allow HTTPS traffic (port 443) 
+aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 443 --cidr 0.0.0.0/0
+</code></pre>
 
 <h2>Created Private Subnet</h2>
 <p></p>
@@ -160,10 +180,6 @@ The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
 
 <h2>Associated the Subnets to its own Route Table</h2>
 <pre><code>aws ec2 associate-route-table --route-table-id <public-route-table-id> --subnet-id <public-subnet-id></public-subnet-id></public-route-table-id></code></pre>
-
-<h2>Created a Security Group</h2>
-<pre><code>aws ec2 create-security-group --group-name <your-sg-name> --description "Security Group for my VPC" --vpc-id vpc-<your-vpc-id>
-</code></pre>
 
 <h2>Cheked the Architecure</h2>
 <pre><code>aws ec2 describe-vpcs
