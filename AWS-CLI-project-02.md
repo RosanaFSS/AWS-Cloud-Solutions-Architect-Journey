@@ -3,6 +3,7 @@
 <p>October 21, 2024<br></p><br>
 
 <h2>Created key pair</h2>
+
 <pre><code>aws ec2 create-key-pair --key-name rosana-santos-keys --query 'KeyMaterial' --output text > rosana-santos-keys.pem</code</pre>
 
 
