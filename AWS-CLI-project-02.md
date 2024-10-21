@@ -151,6 +151,8 @@ The instance state is initially "pending", which means it's in the process of la
 
 <h2>Checked instance status</h2>
 
+<p>It is running!!</p>
+
 <pre><code>aws ec2 describe-instances --instance-ids i-05297d684c53e0c2c --query "Reservations[*].Instances[*].State.Name" --output text</code></pre>
 
 ![image](https://github.com/user-attachments/assets/7cb88562-dc9d-427a-9b0b-9a9da6dd558a)
