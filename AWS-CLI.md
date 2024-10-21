@@ -9,9 +9,6 @@
 <p></p>
 <p>I started creating a VPC.</p>
 
-
-![image](https://github.com/user-attachments/assets/af18e270-8288-4dc4-a407-0b189b5d1de8)
-
 ![image](https://github.com/user-attachments/assets/e0f49ac5-de4b-4de3-847c-39a4c1ed2fba)
 
 <p>After running
