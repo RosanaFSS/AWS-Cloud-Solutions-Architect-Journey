@@ -1,4 +1,4 @@
-<h3>Programa PROZ AWS Arquitet@s</h3>
+<h3>PROZ AWS Arquitet@s Program</h3>
 <h1> Using the <code>AWS CLI</code> installed on Windows, I created a <strong><em>VPC</em></strong> that includes both a <strong><em>public and private subnet</em></strong> within the same Availability Zone, attached an <strong><em>Internet Gateway</em></strong>, and configured the <strong><em>Route Table</em></strong>.</h1>
 <p>October 21, 2024<br></p>
 
