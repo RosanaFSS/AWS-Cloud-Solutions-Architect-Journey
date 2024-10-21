@@ -149,4 +149,40 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 
 ![image](https://github.com/user-attachments/assets/28ae79d7-188d-46ba-b450-d5fd2c05f8d0)
 
+<h2>Created an Internet Gateway</h2>
+<p></p>
+<p>I created an <strong><em>Internet Gateway</em></strong> running the following command line</p>
+<pre><code>aws ec2 create-internet-gateway</code></pre>
+
+
+<h2>Attached Internet Gateway to the VPC</h2>
+<p></p>
+<p>I attached the <strong><em>Internet Gateway</em></strong> to the <strong><em>VPC</em></strong>.</p>
+<pre><code>aws ec2 attach-internet-gateway --internet-gateway-id <igw-id> --vpc-id <vpc-id>></pre>
+
+
+<h2>Created Route Tables</h2>
+<p></p>
+<p>I created two <strong><em>Route Tables</em></strong>..</p>
+<pre><code>aws ec2 create-route-table --vpc-id <vpc-id></pre>
+
+<h2>Configured the Route Tables</h2>
+<p></p>
+<p>I created two <strong><em>Route Tables</em></strong>..</p>
+<pre><code>aws ec2 create-route-table --vpc-id <vpc-id></pre>
+
+<h2>Associated Subnets to its own Route Table</h2>
+<p></p>
+<pre><code>aws ec2 associate-route-table --route-table-id <public-route-table-id> --subnet-id <public-subnet-id></pre>
+
+<h2>Cheked the Architecure</h2>
+<p></p>
+<pre><code>aws ec2 describe-vpcs
+aws ec2 describe-subnets
+aws ec2 describe-internet-gateways
+aws ec2 describe-route-tables
+</pre>
+
+
+
 
