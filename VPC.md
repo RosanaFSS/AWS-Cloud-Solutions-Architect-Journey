@@ -2,6 +2,8 @@
 <h1> Created a VPC with a Public and a Private subnet in the same AZ with an Internet Gateway, and configured the Route Table.</h1>
 <p>October 20, 2024<br></p>
 
+<p>This highlighted in green is the architecture created.</p>
+
 ![image](https://github.com/user-attachments/assets/5b0d78f3-a328-4811-a825-90341effb2ad)
 
 ![image](https://github.com/user-attachments/assets/5e2a3b51-5ef6-4fe1-9d9f-7afa11fa8809)
