@@ -1,4 +1,6 @@
 
+Created a VPC with a Public and a Private subnet in the same AZ with an Internet Gateway. Configured the Route Table.
+
 ![image](https://github.com/user-attachments/assets/5b0d78f3-a328-4811-a825-90341effb2ad)
 
 A TAREFA SERÁ CRIAR UMA VPC, UMA SUB-REDE PÚBLICA E
