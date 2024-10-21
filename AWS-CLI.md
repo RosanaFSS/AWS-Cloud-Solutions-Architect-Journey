@@ -5,6 +5,10 @@
 <p>This highlighted in green is the architecture that I created.</p>
 
 <p></p>
+<p>First I configred the <strong><em>Region</em></strong> as sa-east-1.
+<pre><code></p>C:\Windows\System32>aws configure set region sa-east-1</code></pre>
+
+<p></p>
 <p>I started creating a <strong><em>VPC</em></strong> .</p>
 
 <p>After running the following command line
@@ -52,6 +56,10 @@ my <strong><em>VPC</em></strong> was created.</p>
 
 ![image](https://github.com/user-attachments/assets/7fc040b5-da14-4086-a981-cde81802113d)
 
-<p>I created a <strong><em>Publioc Subnet</em></strong> .</p>
+<p></p>
+<p>I created a <strong><em>Public Subnet</em></strong> .</p>
+
+
+<p>I created a <strong><em>Private Subnet</em></strong> .</p>
 
 
