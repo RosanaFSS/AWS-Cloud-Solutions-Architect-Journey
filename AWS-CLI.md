@@ -9,7 +9,7 @@
 <p>First I configured the <strong><em>Region</em></strong> as <code>sa-east-1</code>.</p>
 <pre><code>aws configure set region sa-east-1</code></pre>
 
-<h2>Cheched Region</h2>
+<h2>Checked Region</h2>
 <p>I confirmed the configuration, especially the Region running the following command line.</p>
 <pre><code>aws configure list</code></pre>
 
