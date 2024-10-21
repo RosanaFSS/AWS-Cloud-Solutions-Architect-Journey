@@ -75,6 +75,9 @@
 
 ![image](https://github.com/user-attachments/assets/5c14f18b-3798-4ca4-9f52-5d71464bbf38)
 
+<p></p>
+<p>Private subnet successfully associated to private route table.</p>
+
 ![image](https://github.com/user-attachments/assets/0881a39d-e238-4ae2-b80c-9dc1b9d98332)
 
 ![image](https://github.com/user-attachments/assets/5932733b-e0e2-4299-b2a4-e77cf94aa90a)
