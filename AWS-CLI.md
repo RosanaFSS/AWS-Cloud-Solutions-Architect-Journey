@@ -52,6 +52,7 @@ my <strong><em>VPC</em></strong> was created.</p>
 </ul>
 
 <p>I defined a specific name for my VPC.</p>
+<pre><code> aws ec2 create-tags --resources vpc-00590e188b434d1fb --tags Key=Name,Value=vpc-rosana-santos-proz </code></pre>
 ![image](https://github.com/user-attachments/assets/7fc040b5-da14-4086-a981-cde81802113d)
 
 
