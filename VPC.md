@@ -33,7 +33,7 @@
 
 ![image](https://github.com/user-attachments/assets/a0ab2594-e84b-4513-abaa-6af7a6320bc7)
 
-<p>Route Table created.</p>
+<p>Route Table created. This one will be Public.</p>
 
 ![image](https://github.com/user-attachments/assets/96eb6530-7b49-4103-9141-1b3faed5327a)
 
@@ -68,6 +68,8 @@
 <p>Public subnet associated to public route table.</p>
 
 ![image](https://github.com/user-attachments/assets/17a3245e-a431-44a6-acc5-c802ad0d13c7)
+
+<p>Route Table created. This one will be Private.</p>
 
 ![image](https://github.com/user-attachments/assets/f5bc5e25-f719-4d73-a834-cbd08cf6dba4)
 
