@@ -7,12 +7,10 @@
 
 <p></p>
 <p>First I configured the <strong><em>Region</em></strong> as <code>sa-east-1</code>.</p>
-<pre><code>C:\Windows\System32>aws configure set region sa-east-1</code></pre>
+<pre><code>aws configure set region sa-east-1</code></pre>
 
 <p></p>
-<p>Then I created my <strong><em>VPC</em></strong> .</p>
-
-<p>running the following command line
+<p>Then I created my <strong><em>VPC</em></strong> running the following command line
 <pre><code> aws ec2 create-vpc --cidr-block 172.20.0.0/16 </code></pre>
 
 my <strong><em>VPC</em></strong> was created.</p>
