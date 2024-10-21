@@ -1,5 +1,6 @@
-
-Created a VPC with a Public and a Private subnet in the same AZ with an Internet Gateway. Configured the Route Table.
+<h1>Programa PROZ AWS Arquitet@s</h1>.
+<h3> Created a VPC with a Public and a Private subnet in the same AZ with an Internet Gateway. Configured the Route Table.</h3>
+<p>October 20, 2024<br></p>
 
 ![image](https://github.com/user-attachments/assets/5b0d78f3-a328-4811-a825-90341effb2ad)
 
