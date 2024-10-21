@@ -7,7 +7,20 @@
 
 <p></p>
 <p>First I configured the <strong><em>Region</em></strong> as <code>sa-east-1</code>.</p>
+<pre><code>aws configure list</code></pre>
+
+<p></p>
+<p>I confirmed the configration, especially the Region running the following command line.</p>
 <pre><code>aws configure set region sa-east-1</code></pre>
+
+<p>I recived the following output, what confirm that the Region is correct.</p>
+<pre><code>                   
+      Name                    Value             Type        Location
+      ----                    -----             ----        --------
+   profile                <not set>             None        None
+access_key     **********[REDACTED] shared-credentials-file
+secret_key     **********[REDACTED] shared-credentials-file
+    region                sa-east-1       config-file        ~/.aws/config </code></pre>
 
 <p></p>
 <p>Then I created my <strong><em>VPC</em></strong> running the following command line
@@ -51,7 +64,7 @@ The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
 </ul>
 
 <p><br>
-Next a defined a specific <strong><em>name for my VPC</em></strong> .</p>
+Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 <pre><code> aws ec2 create-tags --resources vpc-00590e188b434d1fb --tags Key=Name,Value=vpc-rosana-santos-proz </code></pre>
 
 ![image](https://github.com/user-attachments/assets/7fc040b5-da14-4086-a981-cde81802113d)
