@@ -1,10 +1,10 @@
 <h3>PROZ AWS Arquitet@s Program</h3>
 <h1> Create a simple <code><em>EC2</em></code> instance.</h1>
-<p>October 21, 2024<br></p><br>
+<p>October 21, 2024<br></p>
 
 <h2>Created key pair</h2>
 
-<pre><code>aws ec2 create-key-pair --key-name rosana-santos-keys --query 'KeyMaterial' --output text > rosana-santos-keys.pem</code</pre>
+<pre><code>aws ec2 create-key-pair --key-name rosana-santos-keys --query 'KeyMaterial' --output text > rosana-santos-keys.pem</code></pre>
 
 
 ![image](https://github.com/user-attachments/assets/064bd82b-f4cf-42df-97ec-6e0b2ccb92d9)
