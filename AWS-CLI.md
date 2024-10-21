@@ -4,8 +4,6 @@
 
 <p>This highlighted in green is the architecture that I created.</p>
 
-![image](https://github.com/user-attachments/assets/5b0d78f3-a328-4811-a825-90341effb2ad)
-
 <p></p>
 <p>I started creating a VPC.</p>
 
