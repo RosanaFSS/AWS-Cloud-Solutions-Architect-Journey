@@ -12,9 +12,8 @@
 ![image](https://github.com/user-attachments/assets/e0f49ac5-de4b-4de3-847c-39a4c1ed2fba)
 
 <p>After running the following command line
-<pre><code>
-aws ec2 create-vpc --cidr-block 172.20.0.0/16
-</code></pre>
+<pre><code> aws ec2 create-vpc --cidr-block 172.20.0.0/16 </code></pre>
+
 my <strong><em>VPC</em></strong> was created.</p>
 
 <pre><code>
@@ -51,3 +50,8 @@ my <strong><em>VPC</em></strong> was created.</p>
     <li>InstanceTenancy: "default" means instances launched in the VPC will have the default tenancy.</li>
     <li>CidrBlockAssociationSet: Shows the CIDR block association details, confirming that the CIDR block is successfully associated with your VPC.</li>
 </ul>
+
+<p>I defined a specific name for my VPC.</p>
+![image](https://github.com/user-attachments/assets/7fc040b5-da14-4086-a981-cde81802113d)
+
+
