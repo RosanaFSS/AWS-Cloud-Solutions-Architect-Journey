@@ -50,7 +50,8 @@ The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
     <li>CidrBlockAssociationSet: Shows the CIDR block association details, confirming that the CIDR block is successfully associated with your VPC.</li>
 </ul>
 
-<p>I defined a specific <strong><em>name for my VPC</em></strong> .</p>
+<p><br>
+Next a defined a specific <strong><em>name for my VPC</em></strong> .</p>
 <pre><code> aws ec2 create-tags --resources vpc-00590e188b434d1fb --tags Key=Name,Value=vpc-rosana-santos-proz </code></pre>
 
 ![image](https://github.com/user-attachments/assets/7fc040b5-da14-4086-a981-cde81802113d)
