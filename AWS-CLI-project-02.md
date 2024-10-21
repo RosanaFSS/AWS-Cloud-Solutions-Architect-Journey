@@ -4,10 +4,12 @@
 
 <h2>Created key pair: <strong><em></em><code>rosana-santos-keys-proz</em></code></strong></h2>
 
-<pre><code>aws ec2 create-key-pair --key-name rosana-santos-keys-proz --query 'KeyMaterial' --output text > rosana-santos-keys-proz.pem</code></pre>
+<pre><code>aws ec2 create-key-pair --key-name elfo --output text > C:\[REDACTED]\elfo.pem</code></pre>
 
 
-![image](https://github.com/user-attachments/assets/e8d5d910-85c8-4c59-90b5-c48e70d27f70)
+![image](https://github.com/user-attachments/assets/722bebe1-aaba-4b01-97c1-b00cc0e3c645)
+
+
 
 
 <h2>Created an EC2 instance: <strong><em></em><code>ec2-rosana-santos-proz</em></code></strong></h2>
