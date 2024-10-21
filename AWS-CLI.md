@@ -541,7 +541,9 @@ By default, the private route table will have local routes for communication wit
 
 <h2>Checked Internet Gateway</h2>
 <pre><code>aws ec2 describe-internet-gateways --filters "Name=attachment.vpc-id,Values=vpc-0e33f5da409fa3d35"</code></pre>
-<p>The output provide detailed information about the Route Tables and their Associations. </p>
+<p>The output correctly shows that your Internet Gateway (IGW) is attached to my VPC (vpc-0e33f5da409fa3d35).<br>
+Shows that the IGW is in the "available" state and attached to the correct VPC.<br>
+The tag lists the name of the IGW as "internet-gateway-rosana-santos-proz", which is a useful label for identifying it.</p>
 <pre><code>
 {
     "InternetGateways": [
@@ -568,7 +570,7 @@ By default, the private route table will have local routes for communication wit
 
 <h2>Checked Security Group</h2>
 <pre><code>aws ec2 describe-security-groups --filters "Name=vpc-id,Values=vpc-0e33f5da409fa3d35"</code></pre>
-<p>The output provide detailed information about the Route Tables and their Associations. </p>
+<p>The output for the Security Groups appears correct and well-configured. </p>
 <pre><code>
 {
     "SecurityGroups": [
