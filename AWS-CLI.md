@@ -13,7 +13,7 @@
 <p>I confirmed the configuration, especially the Region running the following command line.</p>
 <pre><code>aws configure list</code></pre>
 
-<p>I recived the following output, what confirm that the Region is correct.</p>
+<p>I received the following output, what confirm that the Region is correct.</p>
 <pre><code>                   
       Name                    Value             Type        Location
       ----                    -----             ----        --------
@@ -72,7 +72,7 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 
 <h2>Private Subnet</h2>
 <p></p>
-<p>I created a <strong><em>Private Subnet</em></strong> .</p>
+<p>I created a <strong><em>Private Subnet</em></strong> running the following command line</p>
 <pre><code> aws ec2 create-subnet --vpc-id vpc-0ebf8715637e2e32a --cidr-block 172.20.2.0/24 --availability-zone sa-east-1a </code></pre>
 <p>My output was the following</p>
 <pre><code>
@@ -111,7 +111,6 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 ![image](https://github.com/user-attachments/assets/8ae04818-0e38-4f69-87ef-7a1a2d8d4609)
 
 <h2>Public Subnet</h2>
-
 <p>I created a <strong><em>Public Subnet</em></strong> running the following command line, and this time I´m already defining its customized name.</p>
 <pre><code> aws ec2 create-subnet --vpc-id vpc-0e33f5da409fa3d35 --cidr-block 172.20.16.0/24 --availability-zone sa-east-1a --tag-specifications "ResourceType=subnet,Tags=[{Key=Name,Value=public-subnet-rosana-santos-proz}]"</code></pre>
 <p>My output was the following</p>
@@ -147,7 +146,6 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
     }
 }
 </code></pre>
-
 
 ![image](https://github.com/user-attachments/assets/28ae79d7-188d-46ba-b450-d5fd2c05f8d0)
 
