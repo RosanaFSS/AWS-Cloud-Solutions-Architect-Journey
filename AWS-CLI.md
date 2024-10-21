@@ -70,13 +70,48 @@ The output of the <strong><em>Security Group</em></strong> created is the follow
 <h2>Configured Inbound Rules for the Security Group</h2>
 <h4>Allowed SSH traffic (port 22) from any IP</h4>
 <pre><code>aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 22 --cidr 0.0.0.0/0</code></pre>
+<pre><code>
+{
+    "Return": true,
+    "SecurityGroupRules": [
+        {
+            "SecurityGroupRuleId": "sgr-09a89823013ce769c",
+            "GroupId": "sg-048adbbb7cda6e319",
+            "GroupOwnerId": "712107929769",
+            "IsEgress": false,
+            "IpProtocol": "tcp",
+            "FromPort": 22,
+            "ToPort": 22,
+            "CidrIpv4": "0.0.0.0/0"
+        }
+    ]
+}
+</code></pre>
+
 
 <h4>Allowed HTTP traffic (port 80) from any IP</h4>
-<pre><code>aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 80 --cidr 0.0.0.0/0</code></pre>
-
-<h4>Allowed HTTPS traffic (port 443) </h4>
-<pre><code>aws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 443 --cidr 0.0.0.0/0</code></pre>
+<pre><code>aaws ec2 authorize-security-group-ingress --group-id sg-048adbbb7cda6e319 --protocol tcp --port 80 --cidr 0.0.0.0/0</code></pre>
+<pre><code>
+{
+    "Return": true,
+    "SecurityGroupRules": [
+        {
+            "SecurityGroupRuleId": "sgr-02829d929e511c35b",
+            "GroupId": "sg-048adbbb7cda6e319",
+            "GroupOwnerId": "712107929769",
+            "IsEgress": false,
+            "IpProtocol": "tcp",
+            "FromPort": 80,
+            "ToPort": 80,
+            "CidrIpv4": "0.0.0.0/0"
+        }
+    ]
+}
 </code></pre>
+
+<h2>Outbound rules for Security Group</h2>
+<p>Security groups by default allo all outbound traffic, ensuring that instances can initiate requests to the internet or other AWS services.<br>
+There’s typically no need to set specific outbound rules unless you have particular restrictions or security policies in place. </p>
 
 <h2>Created Private Subnet</h2>
 <p></p>
@@ -161,24 +196,125 @@ The output of the <strong><em>Security Group</em></strong> created is the follow
 <p></p>
 <p>I created an <strong><em>Internet Gateway</em></strong> running the following command line</p>
 <pre><code>aws ec2 create-internet-gateway</code></pre>
+<p>My output was the following</p>
+<pre><code>
+{
+    "InternetGateway": {
+        "Attachments": [],
+        "InternetGatewayId": "igw-0ce6321c099d8c5e2",
+        "OwnerId": "712107929769",
+        "Tags": []
+    }
+}      
+</code></pre>
+
+<p>I customized the Internet Gateway name</p>
+<pre><code>aws ec2 create-tags --resources igw-0ce6321c099d8c5e2 --tags Key=Name,Value=internet-gateway-rosana-santos-proz</code></pre>
+<p>There was no output</p>
 
 <h2>Attached the Internet Gateway to the VPC</h2>
 <p></p>
-<p>I attached the <strong><em>Internet Gateway</em></strong> to the <strong><em>VPC</em></strong>.</p>
-<pre><code>aws ec2 attach-internet-gateway --internet-gateway-id <igw-id> --vpc-id <vpc-id></vpc-id></code></pre>
+<p>I attached the <strong><em>Internet Gateway</em></strong> to the <strong><em>VPC</em></strong>, enabling internet access for resources in my public subnets.</p>
+<pre><code>aws ec2 attach-internet-gateway --internet-gateway-id igw-0ce6321c099d8c5e2 --vpc-id vpc-0e33f5da409fa3d35<vpc-id></code></pre>
+<p>There was no output</p>
+
+<h2>Checked if Internet Gateway is attached to the VPC</h2>
+<pre><code>aws ec2 describe-internet-gateways --internet-gateway-ids igw-0ce6321c099d8c5e2</code></pre>
+<p>By inspecting my output the Internet Gateway is successfully attached to your VPC. </p>
+<pre><code>
+{
+    "InternetGateways": [
+        {
+            "Attachments": [
+                {
+                    "State": "available",
+                    "VpcId": "vpc-0e33f5da409fa3d35"
+                }
+            ],
+            "InternetGatewayId": "igw-0ce6321c099d8c5e2",
+            "OwnerId": "712107929769",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "internet-gateway-rosana-santos-proz"
+                }
+            ]
+        }
+    ]
+}    
+</code></pre>
+
+![image](https://github.com/user-attachments/assets/f32d23c8-c55f-4309-bab3-3888b0055f30)
+
 
 <h2>Created Route Tables</h2>
 <h4>One for the Public subnet and the other for the Private subnet</h4>
-<p>I created two <strong><em>Route Tables</em></strong>.</p>
-<pre><code>aws ec2 create-route-table --vpc-id <vpc-id></code></pre>
+<p>I created two <strong><em>Route Tables</em></strong>.<br><br>
+I create the first one.</p>
+<pre><code>aws ec2 create-route-table --vpc-id vpc-0e33f5da409fa3d35</code></pre>
+<p>The output indicates that the route table was successfully created</p>
+<pre><code>
+{
+    "RouteTable": {
+        "Associations": [],
+        "PropagatingVgws": [],
+        "RouteTableId": "rtb-0b080c0655ebaf781",
+        "Routes": [
+            {
+                "DestinationCidrBlock": "172.20.0.0/16",
+                "GatewayId": "local",
+                "Origin": "CreateRouteTable",
+                "State": "active"
+            }
+        ],
+        "Tags": [],
+        "VpcId": "vpc-0e33f5da409fa3d35",
+        "OwnerId": "712107929769"
+    },
+    "ClientToken": "b42fce45-3914-4fff-993e-4d52af0a5bcf"
+}
+</code></pre>
 
-<h2>Configured the Route Tables</h2>
-<h4>One for the Public subnet and the other for the Private subnet</h4>
-<p>I configured the <strong><em>Route Tables</em></strong>.</p>
-<pre><code>aws ec2 create-route-table --vpc-id <vpc-id></code></pre>
+<p>I create the second one.</p>
+<pre><code>aws ec2 create-route-table --vpc-id vpc-0e33f5da409fa3d35</code></pre>
+<p>The output indicates that the route table was successfully created</p>
+<pre><code>
+{
+    "RouteTable": {
+        "Associations": [],
+        "PropagatingVgws": [],
+        "RouteTableId": "rtb-00b25531b4f76f886",
+        "Routes": [
+            {
+                "DestinationCidrBlock": "172.20.0.0/16",
+                "GatewayId": "local",
+                "Origin": "CreateRouteTable",
+                "State": "active"
+            }
+        ],
+        "Tags": [],
+        "VpcId": "vpc-0e33f5da409fa3d35",
+        "OwnerId": "712107929769"
+    },
+    "ClientToken": "026a6185-e103-4326-a3e1-1299c1b7c1cf"
+}
+</code></pre>
+
+<h2>Associate Route Tables with Subnets</h2>
+<h4>Associated the Public Route Table to the Public Subnet</h4>
+<pre><code>aws ec2 associate-route-table --route-table-id rtb-0b080c0655ebaf781 --subnet-id subnet-06275e0cf1c1039ae</code></pre>
+
+![image](https://github.com/user-attachments/assets/b649caa5-6f65-49b7-a19d-21b83cbf170f)
+
+<h4>Associated the Private Route Table to the Private Subnet</h4>
+<pre><code>aws ec2 associate-route-table --route-table-id rtb-00b25531b4f76f886 --subnet-id subnet-00f8fe1d4c1787048</code></pre>
+
+![image](https://github.com/user-attachments/assets/d92b8518-0276-4043-b45e-95d336b4a5cf)
+
+
 
 <h2>Associated the Subnets to its own Route Table</h2>
-<pre><code>aws ec2 associate-route-table --route-table-id <public-route-table-id> --subnet-id <public-subnet-id></public-subnet-id></public-route-table-id></code></pre>
+<pre><code>aws ec2 associate-route-table --route-table-id rtb-0b080c0655ebaf781 --subnet-id subnet-06275e0cf1c1039ae</code></pre>
 
 <h2>Cheked the Architecure</h2>
 <pre><code>aws ec2 describe-vpcs
