@@ -82,6 +82,8 @@
 
 ![image](https://github.com/user-attachments/assets/5932733b-e0e2-4299-b2a4-e77cf94aa90a)
 
+<p>Resource map visualization: VPC + private subnet + public subnet + internet gateway!</p>
+
 ![image](https://github.com/user-attachments/assets/a4572c47-5d43-49a0-b802-b96fd132de45)
 
 
