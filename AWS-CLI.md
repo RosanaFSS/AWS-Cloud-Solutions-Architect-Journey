@@ -6,8 +6,8 @@
 <p>Soon the architecture will be inserted here.</p>
 
 <p></p>
-<p>First I configured the <strong><em>Region</em></strong> as sa-east-1.
-<pre><code></p>C:\Windows\System32>aws configure set region sa-east-1</code></pre>
+<p>First I configured the <strong><em>Region</em></strong> as sa-east-1.</p>
+<pre><code>C:\Windows\System32>aws configure set region sa-east-1</code></pre>
 
 <p></p>
 <p>Then I created my <strong><em>VPC</em></strong> .</p>
