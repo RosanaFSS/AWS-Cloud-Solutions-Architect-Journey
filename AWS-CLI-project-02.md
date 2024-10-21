@@ -5,6 +5,7 @@
 <h2>Created key pair</h2>
 <pre><code>aws ec2 create-key-pair --key-name rosana-santos-keys --query 'KeyMaterial' --output text > rosana-santos-keys.pem</code</pre>
 
+
 ![image](https://github.com/user-attachments/assets/064bd82b-f4cf-42df-97ec-6e0b2ccb92d9)
 
 <h2>Created an EC2 instance</h2>
