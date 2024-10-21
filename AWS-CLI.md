@@ -15,7 +15,7 @@
 <pre><code>
 aws ec2 create-vpc --cidr-block 172.20.0.0/16
 </code></pre>
-my VPC was created.</p>
+my <strong><em>VPC</em></strong> was created.</p>
 
 <pre><code>
 {
