@@ -313,12 +313,407 @@ I create the first one.</p>
 
 
 
-<h2>Associated the Subnets to its own Route Table</h2>
-<pre><code>aws ec2 associate-route-table --route-table-id rtb-0b080c0655ebaf781 --subnet-id subnet-06275e0cf1c1039ae</code></pre>
-
-<h2>Cheked the Architecure</h2>
-<pre><code>aws ec2 describe-vpcs
-aws ec2 describe-subnets
-aws ec2 describe-internet-gateways
-aws ec2 describe-route-tables
+<h2>Configure Route Tables</h2>
+<h4>Configured Public Route Table</h4>
+<p>For the route table associated with the public subnet, I added a route to the Internet Gateway. This allows instances in the public subnet to send and receive traffic from the internet. </p>
+<pre><code>aws ec2 create-route --route-table-id rtb-0b080c0655ebaf781 --destination-cidr-block 0.0.0.0/0 --gateway-id igw-0ce6321c099d8c5e2</code></pre>
+<pre><code>
+{
+    "Return": true
+} 
 </code></pre>
+
+![image](https://github.com/user-attachments/assets/5f1059cc-b509-453b-bf41-4d0cba5f79f0)
+
+<h4>Private Route Table</h4>
+<p>Typically doesn't require additional routes unless you plan additional setups like NAT.<br>
+By default, the private route table will have local routes for communication within the VPC (e.g., 172.20.0.0/16), allowing instances in the private subnet to communicate with other instances within the same VPC.</p>
+
+
+<h4>Verified my Architecure</h4>
+<h2>Checked VPC</h2>
+<pre><code>aws ec2 describe-vpcs --vpc-ids vpc-0e33f5da409fa3d35</code></pre>
+<p>Overall, the output confirms that my VPC vpc-0e33f5da409fa3d35 is set up with the specified CIDR block, is in the "available" state, and is not the default VPC, but a custom one you created. These details help ensure your network environment is correctly established for further resource deployment.</p>
+<pre><code>
+{
+    "Vpcs": [
+        {
+            "CidrBlock": "172.20.0.0/16",
+            "DhcpOptionsId": "dopt-0c13202cb9899edc4",
+            "State": "available",
+            "VpcId": "vpc-0e33f5da409fa3d35",
+            "OwnerId": "712107929769",
+            "InstanceTenancy": "default",
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "vpc-cidr-assoc-0159884409164b213",
+                    "CidrBlock": "172.20.0.0/16",
+                    "CidrBlockState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "IsDefault": false
+        }
+    ]
+}
+</code></pre>
+
+<h2>Checked Subnets</h2>
+<pre><code>aws ec2 describe-subnets --filters "Name=vpc-id,Values=vpc-0e33f5da409fa3d35"</code></pre>
+<p>Overall, the output indicates that your subnets are correctly configured and exist within your specified VPC. </p>
+<pre><code>
+{
+    "Subnets": [
+        {
+            "AvailabilityZone": "sa-east-1a",
+            "AvailabilityZoneId": "sae1-az1",
+            "AvailableIpAddressCount": 251,
+            "CidrBlock": "172.20.16.0/24",
+            "DefaultForAz": false,
+            "MapPublicIpOnLaunch": false,
+            "MapCustomerOwnedIpOnLaunch": false,
+            "State": "available",
+            "SubnetId": "subnet-06275e0cf1c1039ae",
+            "VpcId": "vpc-0e33f5da409fa3d35",
+            "OwnerId": "712107929769",
+            "AssignIpv6AddressOnCreation": false,
+            "Ipv6CidrBlockAssociationSet": [],
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "public-subnet-rosana-santos-proz"
+                }
+            ],
+            "SubnetArn": "arn:aws:ec2:sa-east-1:712107929769:subnet/subnet-06275e0cf1c1039ae",
+            "EnableDns64": false,
+            "Ipv6Native": false,
+            "PrivateDnsNameOptionsOnLaunch": {
+                "HostnameType": "ip-name",
+                "EnableResourceNameDnsARecord": false,
+                "EnableResourceNameDnsAAAARecord": false
+            }
+        },
+        {
+            "AvailabilityZone": "sa-east-1a",
+            "AvailabilityZoneId": "sae1-az1",
+            "AvailableIpAddressCount": 251,
+            "CidrBlock": "172.20.2.0/24",
+            "DefaultForAz": false,
+            "MapPublicIpOnLaunch": false,
+            "MapCustomerOwnedIpOnLaunch": false,
+            "State": "available",
+            "SubnetId": "subnet-00f8fe1d4c1787048",
+            "VpcId": "vpc-0e33f5da409fa3d35",
+            "OwnerId": "712107929769",
+            "AssignIpv6AddressOnCreation": false,
+            "Ipv6CidrBlockAssociationSet": [],
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "private-subnet-rosana-santos-proz"
+                }
+            ],
+            "SubnetArn": "arn:aws:ec2:sa-east-1:712107929769:subnet/subnet-00f8fe1d4c1787048",
+            "EnableDns64": false,
+            "Ipv6Native": false,
+            "PrivateDnsNameOptionsOnLaunch": {
+                "HostnameType": "ip-name",
+                "EnableResourceNameDnsARecord": false,
+                "EnableResourceNameDnsAAAARecord": false
+            }
+        }
+    ]
+}
+</code></pre>
+
+<h2>Checked Route Tables</h2>
+<pre><code>aws ec2 describe-route-tables --filters "Name=vpc-id,Values=vpc-0e33f5da409fa3d35"</code></pre>
+<p>The output provide detailed information about the Route Tables and their Associations. </p>
+<p>Public Route Table: Properly configured with a route to the Internet Gateway and associated with a public subnet. </p>
+<p>Private Route Table: Has only local routes as expected for a standard private subnet without internet access.</p>
+<pre><code>
+{
+    "RouteTables": [
+        {
+            "Associations": [],
+            "PropagatingVgws": [],
+            "RouteTableId": "rtb-0ff42e26f3a9e635a",
+            "Routes": [
+                {
+                    "DestinationCidrBlock": "172.20.0.0/16",
+                    "GatewayId": "local",
+                    "Origin": "CreateRouteTable",
+                    "State": "active"
+                }
+            ],
+            "Tags": [],
+            "VpcId": "vpc-0e33f5da409fa3d35",
+            "OwnerId": "712107929769"
+        },
+        {
+            "Associations": [
+                {
+                    "Main": false,
+                    "RouteTableAssociationId": "rtbassoc-0228bcb3964d53945",
+                    "RouteTableId": "rtb-0b080c0655ebaf781",
+                    "SubnetId": "subnet-06275e0cf1c1039ae",
+                    "AssociationState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "PropagatingVgws": [],
+            "RouteTableId": "rtb-0b080c0655ebaf781",
+            "Routes": [
+                {
+                    "DestinationCidrBlock": "172.20.0.0/16",
+                    "GatewayId": "local",
+                    "Origin": "CreateRouteTable",
+                    "State": "active"
+                },
+                {
+                    "DestinationCidrBlock": "0.0.0.0/0",
+                    "GatewayId": "igw-0ce6321c099d8c5e2",
+                    "Origin": "CreateRoute",
+                    "State": "active"
+                }
+            ],
+            "Tags": [],
+            "VpcId": "vpc-0e33f5da409fa3d35",
+            "OwnerId": "712107929769"
+        },
+        {
+            "Associations": [
+                {
+                    "Main": true,
+                    "RouteTableAssociationId": "rtbassoc-0f942340842675dde",
+                    "RouteTableId": "rtb-029c843971a422742",
+                    "AssociationState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "PropagatingVgws": [],
+            "RouteTableId": "rtb-029c843971a422742",
+            "Routes": [
+                {
+                    "DestinationCidrBlock": "172.20.0.0/16",
+                    "GatewayId": "local",
+                    "Origin": "CreateRouteTable",
+                    "State": "active"
+                }
+            ],
+            "Tags": [],
+            "VpcId": "vpc-0e33f5da409fa3d35",
+            "OwnerId": "712107929769"
+        },
+        {
+            "Associations": [
+                {
+                    "Main": false,
+                    "RouteTableAssociationId": "rtbassoc-082ef20f61b8f83d2",
+                    "RouteTableId": "rtb-00b25531b4f76f886",
+                    "SubnetId": "subnet-00f8fe1d4c1787048",
+                    "AssociationState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "PropagatingVgws": [],
+            "RouteTableId": "rtb-00b25531b4f76f886",
+            "Routes": [
+                {
+                    "DestinationCidrBlock": "172.20.0.0/16",
+                    "GatewayId": "local",
+                    "Origin": "CreateRouteTable",
+                    "State": "active"
+                }
+            ],
+            "Tags": [],
+            "VpcId": "vpc-0e33f5da409fa3d35",
+            "OwnerId": "712107929769"
+        }
+    ]
+}
+</code></pre>
+
+
+<h2>Checked Internet Gateway</h2>
+<pre><code>aws ec2 describe-internet-gateways --filters "Name=attachment.vpc-id,Values=vpc-0e33f5da409fa3d35"</code></pre>
+<p>The output provide detailed information about the Route Tables and their Associations. </p>
+<pre><code>
+{
+    "InternetGateways": [
+        {
+            "Attachments": [
+                {
+                    "State": "available",
+                    "VpcId": "vpc-0e33f5da409fa3d35"
+                }
+            ],
+            "InternetGatewayId": "igw-0ce6321c099d8c5e2",
+            "OwnerId": "712107929769",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "internet-gateway-rosana-santos-proz"
+                }
+            ]
+        }
+    ]
+}
+</code></pre>
+
+
+<h2>Checked Security Group</h2>
+<pre><code>aws ec2 describe-security-groups --filters "Name=vpc-id,Values=vpc-0e33f5da409fa3d35"</code></pre>
+<p>The output provide detailed information about the Route Tables and their Associations. </p>
+<pre><code>
+{
+    "SecurityGroups": [
+        {
+            "Description": "default VPC security group",
+            "GroupName": "default",
+            "IpPermissions": [
+                {
+                    "IpProtocol": "-1",
+                    "IpRanges": [],
+                    "Ipv6Ranges": [],
+                    "PrefixListIds": [],
+                    "UserIdGroupPairs": [
+                        {
+                            "GroupId": "sg-0469db061c7df5a13",
+                            "UserId": "712107929769"
+                        }
+                    ]
+                }
+            ],
+            "OwnerId": "712107929769",
+            "GroupId": "sg-0469db061c7df5a13",
+            "IpPermissionsEgress": [
+                {
+                    "IpProtocol": "-1",
+                    "IpRanges": [
+                        {
+                            "CidrIp": "0.0.0.0/0"
+                        }
+                    ],
+                    "Ipv6Ranges": [],
+                    "PrefixListIds": [],
+                    "UserIdGroupPairs": []
+                }
+            ],
+            "VpcId": "vpc-0e33f5da409fa3d35"
+        },
+        {
+            "Description": "Security Group for my PROZ Arquitet@s Program app",
+            "GroupName": "rosana-santos-proz",
+            "IpPermissions": [
+                {
+                    "FromPort": 80,
+                    "IpProtocol": "tcp",
+                    "IpRanges": [
+                        {
+                            "CidrIp": "0.0.0.0/0"
+                        }
+                    ],
+                    "Ipv6Ranges": [],
+                    "PrefixListIds": [],
+                    "ToPort": 80,
+                    "UserIdGroupPairs": []
+                },
+                {
+                    "FromPort": 22,
+                    "IpProtocol": "tcp",
+                    "IpRanges": [
+                        {
+                            "CidrIp": "0.0.0.0/0"
+                        }
+                    ],
+                    "Ipv6Ranges": [],
+                    "PrefixListIds": [],
+                    "ToPort": 22,
+                    "UserIdGroupPairs": []
+                }
+            ],
+            "OwnerId": "712107929769",
+            "GroupId": "sg-048adbbb7cda6e319",
+            "IpPermissionsEgress": [
+                {
+                    "IpProtocol": "-1",
+                    "IpRanges": [
+                        {
+                            "CidrIp": "0.0.0.0/0"
+                        }
+                    ],
+                    "Ipv6Ranges": [],
+                    "PrefixListIds": [],
+                    "UserIdGroupPairs": []
+                }
+            ],
+            "VpcId": "vpc-0e33f5da409fa3d35"
+        }
+    ]
+}
+</code></pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
