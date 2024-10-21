@@ -6,13 +6,13 @@
 <p>Soon the architecture will be inserted here.</p>
 
 <p></p>
-<p>First I configred the <strong><em>Region</em></strong> as sa-east-1.
+<p>First I configured the <strong><em>Region</em></strong> as sa-east-1.
 <pre><code></p>C:\Windows\System32>aws configure set region sa-east-1</code></pre>
 
 <p></p>
-<p>I started creating a <strong><em>VPC</em></strong> .</p>
+<p>Then I created my <strong><em>VPC</em></strong> .</p>
 
-<p>After running the following command line
+<p>running the following command line
 <pre><code> aws ec2 create-vpc --cidr-block 172.20.0.0/16 </code></pre>
 
 my <strong><em>VPC</em></strong> was created.</p>
