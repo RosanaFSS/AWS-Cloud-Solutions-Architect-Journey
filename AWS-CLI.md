@@ -22,6 +22,7 @@ access_key     **********[REDACTED] shared-credentials-file
 secret_key     **********[REDACTED] shared-credentials-file
     region                sa-east-1       config-file        ~/.aws/config </code></pre>
 
+<h2>VPC</h2>
 <p></p>
 <p>Then I created my <strong><em>VPC</em></strong> running the following command line
 <pre><code> aws ec2 create-vpc --cidr-block 172.20.0.0/16 </code></pre>
@@ -69,8 +70,9 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 
 ![image](https://github.com/user-attachments/assets/7fc040b5-da14-4086-a981-cde81802113d)
 
+<h2>Private Subnet</h2>
 <p></p>
-<p>I created a <strong><em>Public Subnet</em></strong> .</p>
+<p>I created a <strong><em>Private Subnet</em></strong> .</p>
 <pre><code> aws ec2 create-subnet --vpc-id vpc-0ebf8715637e2e32a --cidr-block 172.20.2.0/24 --availability-zone sa-east-1a </code></pre>
 <p>My output was the following</p>
 <pre><code>
@@ -108,9 +110,45 @@ Next a defined a specific <strong><em>name for my VPC</em></strong>.</p>
 
 ![image](https://github.com/user-attachments/assets/8ae04818-0e38-4f69-87ef-7a1a2d8d4609)
 
+<h2>Public Subnet</h2>
+
+<p>I created a <strong><em>Public Subnet</em></strong> running the following command line, and this time I´m already defining its customized name.</p>
+<pre><code> aws ec2 create-subnet --vpc-id vpc-0e33f5da409fa3d35 --cidr-block 172.20.16.0/24 --availability-zone sa-east-1a --tag-specifications "ResourceType=subnet,Tags=[{Key=Name,Value=public-subnet-rosana-santos-proz}]"</code></pre>
+<p>My output was the following</p>
+<pre><code>
+{
+    "Subnet": {
+        "AvailabilityZone": "sa-east-1a",
+        "AvailabilityZoneId": "sae1-az1",
+        "AvailableIpAddressCount": 251,
+        "CidrBlock": "172.20.16.0/24",
+        "DefaultForAz": false,
+        "MapPublicIpOnLaunch": false,
+        "State": "available",
+        "SubnetId": "subnet-06275e0cf1c1039ae",
+        "VpcId": "vpc-0e33f5da409fa3d35",
+        "OwnerId": "712107929769",
+        "AssignIpv6AddressOnCreation": false,
+        "Ipv6CidrBlockAssociationSet": [],
+        "Tags": [
+            {
+                "Key": "Name",
+                "Value": "public-subnet-rosana-santos-proz"
+            }
+        ],
+        "SubnetArn": "arn:aws:ec2:sa-east-1:712107929769:subnet/subnet-06275e0cf1c1039ae",
+        "EnableDns64": false,
+        "Ipv6Native": false,
+        "PrivateDnsNameOptionsOnLaunch": {
+            "HostnameType": "ip-name",
+            "EnableResourceNameDnsARecord": false,
+            "EnableResourceNameDnsAAAARecord": false
+        }
+    }
+}
+</code></pre>
 
 
-
-<p>I created a <strong><em>Private Subnet</em></strong> .</p>
+![image](https://github.com/user-attachments/assets/28ae79d7-188d-46ba-b450-d5fd2c05f8d0)
 
 
