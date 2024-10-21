@@ -23,8 +23,7 @@ secret_key     **********[REDACTED] shared-credentials-file
     region                sa-east-1       config-file        ~/.aws/config </code></pre>
 
 <h2>Created VPC</h2>
-<p></p>
-<p>Then I created my <strong><em>VPC</em></strong> running the following command line
+<p>Then I created my <strong><em>VPC</em></strong> running the following command line</p>P
 <pre><code> aws ec2 create-vpc --cidr-block 172.20.0.0/16 </code></pre>
 
 The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
