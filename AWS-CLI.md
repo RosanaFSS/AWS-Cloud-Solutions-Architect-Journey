@@ -39,7 +39,7 @@ The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
 }
 </code></pre>
 
-<p>Here is the breakdown of each part of my output.</p>
+<p>And here I explain what means what part of the output.</p>
 <ul>
     <li>CidrBlock: "172.20.0.0/16" shows that the VPC was created with the correct CIDR block you specified.</li>
     <li>DhcpOptionsId: This is the ID of the DHCP options set associated with the VPC.</li>
