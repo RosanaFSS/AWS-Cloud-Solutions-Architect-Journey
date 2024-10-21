@@ -32,15 +32,15 @@ The breakdown of the <strong><em>VPC</em></strong> I created is following</p>
 {
     "Vpc": {
         "CidrBlock": "172.20.0.0/16",
-        "DhcpOptionsId": "dopt-00b416862a2f77fb1",
+        "DhcpOptionsId": "dopt-0c13202cb9899edc4",
         "State": "pending",
-        "VpcId": "vpc-00590e188b434d1fb",
+        "VpcId": "vpc-0ebf8715637e2e32a",
         "OwnerId": "712107929769",
         "InstanceTenancy": "default",
         "Ipv6CidrBlockAssociationSet": [],
         "CidrBlockAssociationSet": [
             {
-                "AssociationId": "vpc-cidr-assoc-0ec9980bc043c81b5",
+                "AssociationId": "vpc-cidr-assoc-05930ea08c6fb0097",
                 "CidrBlock": "172.20.0.0/16",
                 "CidrBlockState": {
                     "State": "associated"
