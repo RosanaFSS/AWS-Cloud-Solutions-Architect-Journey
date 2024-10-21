@@ -49,6 +49,8 @@
 
 ![image](https://github.com/user-attachments/assets/f8ea8c64-b650-4907-9f31-1c686a0fe250)
 
+<p>Internet Gateway attached to VPC.</p>
+
 ![image](https://github.com/user-attachments/assets/bff78bac-f01b-49ee-b3da-08ea39aecf58)
 
 ![image](https://github.com/user-attachments/assets/e6d2f1b2-7cbd-409a-a3ba-f9627c6ebb9a)
