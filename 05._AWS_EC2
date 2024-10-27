@@ -1,0 +1,23 @@
+<h3>PROZ AWS Arquitet@s Program</h3>
+<h1> Using the <code><em>AWS CLI</em></code> installed on Windows, I created a <code><em>VPC</em></code> that includes both a <code><em>public and private subnet</em></code> within the same Availability Zone, attached an <code><em>Internet Gateway</em></code>, and configured <code><em>Route Tables</em></code>.</h1>
+<p>October 21, 2024<br></p><br>
+
+<p>This highlighted in green is the architecture that I created.</p>
+<p>Soon the architecture will be inserted here.</p>
+
+<h2>Configured Region</h2>
+<p>First I configured the <strong><em>Region</em></strong> as <code>sa-east-1</code>.</p>
+<pre><code>aws configure set region sa-east-1</code></pre>
+
+<h2>Checked Region</h2>
+<p>I confirmed the configuration, especially the Region running the following command line.</p>
+<pre><code>aws configure list</code></pre>
+
+<p>I received the following output, what confirm that the Region is correct.</p>
+<pre><code>                   
+      Name                    Value             Type        Location
+      ----                    -----             ----        --------
+   profile                <not set>             None        None
+access_key     **********[REDACTED] shared-credentials-file
+secret_key     **********[REDACTED] shared-credentials-file
+    region                sa-east-1       config-file        ~/.aws/config </code></pre>
