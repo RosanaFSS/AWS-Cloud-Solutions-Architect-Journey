@@ -1,2 +1,2 @@
-# AWS-PROZ
+# AWS hands-on
 Cloud Architect Program
