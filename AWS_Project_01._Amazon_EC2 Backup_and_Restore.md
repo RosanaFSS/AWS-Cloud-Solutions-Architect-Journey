@@ -1,4 +1,4 @@
-<h3>AWS Hands-on Tutorials</h3><br>
+<h3>AWS Hands-on Tutorials</h3>
 <p>October 27 2024<br></p><br>
 <h1><code><em>Amazon EC2</em></code> Backup and Restore using <code><em>AWS Backup</em></code></h1><br>
 
