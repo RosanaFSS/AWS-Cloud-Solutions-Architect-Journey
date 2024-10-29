@@ -1,6 +1,4 @@
 <h3>AWS Hands-on Tutorials</h3><br>
-Reference: https://aws.amazon.com/getting-started/hands-on/amazon-ec2-backup-and-restore-using-aws-backup/?ref=gsrchandson&id=itprohandson
-
 <p>October 27 2024<br></p><br>
 <h1><code><em>Amazon EC2</em></code> Backup and Restore using <code><em>AWS Backup</em></code></h1><br>
 
@@ -274,4 +272,6 @@ We created a backup of one <code><em>Amazon EC2</em></code> instance and perform
 ![image](https://github.com/user-attachments/assets/9be30bdd-bfb8-4098-9c25-8dede7404a13)
 
 
+
+Reference: https://aws.amazon.com/getting-started/hands-on/amazon-ec2-backup-and-restore-using-aws-backup/?ref=gsrchandson&id=itprohandson
 
