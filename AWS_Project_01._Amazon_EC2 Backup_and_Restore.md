@@ -1,5 +1,9 @@
 <h3>AWS Hands-on Tutorials</h3>
 <p>October 27 2024<br></p><br>
+
+![image](https://github.com/user-attachments/assets/731bfaff-0b4f-4866-8f4c-bdce2e76fe57)
+
+
 <h1><code><em>Amazon EC2</em></code> Backup and Restore using <code><em>AWS Backup</em></code></h1>
 
 <p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
