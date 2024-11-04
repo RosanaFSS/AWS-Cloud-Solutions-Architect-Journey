@@ -33,11 +33,16 @@
 </ul>
    4. Choose <code>Create VPC</code>.</p>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{VPC created}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{VPC created.}}$$ </h1>
 
 <p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/3a3eeffe-25de-4182-ae7a-902c6b6ec910"> </p>
 
-<p align="center">  <ffff> </p>
+   5. Verify the state of the <code>VPC</code> created.</p>
+
+   <h1 align="center"> $$\textcolor{white}{\textnormal{VPC is available.created}}$$ </h1>
+
+<p align="center">  <img width="400px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
+
 
 
 
