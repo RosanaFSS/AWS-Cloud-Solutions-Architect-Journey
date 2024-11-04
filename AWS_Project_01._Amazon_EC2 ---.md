@@ -17,12 +17,12 @@
     <li>Connect to Amazon EC2 instances using Session Manager, a capability of AWS Systems Manager.</li>
 </ul></p><br>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{Task 1. Create an Amazon VPC}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{Task 1. Create an Amazon VPC in a Region}}$$ </h1>
 <p align="center">In this task, we will create a new Amazon VPC in the AWS Cloud. </p>
 
 <p align="center">With <code>Amazon VPC</code>, you can provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address ranges, creation of subnets, and configuration of route tables and network gateways. You can also use the enhanced security options in Amazon VPC to provide more granular access to and from the Amazon EC2 instances in your virtual network.</p>
 
-<p align="center">  <img width="400px" src="https://github.com/user-attachments/assets/e9d234c8-4458-46ae-9a5a-765fd31701cc"> </p>
+<p align="center">  <img width="200px" src="https://github.com/user-attachments/assets/e9d7e6cc-6dc6-4b9f-8fb8-3db3a670babe"> </p>
 
 <p>1. At the top of the <code>AWS Managememt Console</code>, in the search bar, search for and choose <code>VPC</code>.</p>
    2. In the left navigation pane, choose <code>Your VPCs</code>.</p>
