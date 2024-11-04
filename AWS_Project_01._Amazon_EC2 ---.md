@@ -159,6 +159,8 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
     <li><code>VPC</code>: select <code>VPC</code> from the dropdown menu.</li>
 </ul>
    <p>- 29 - Choose <code>Create Route Table</code>.</p>   
+   <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/b6675178-3388-4847-b063-65cd9b0b72e9"> </p>
+   
    <p>- 30 - Choose the <code>Routes</code> tab in the lower half of the page.</p>
    <p>- 31 - Choose <code>Edit Routes</code>.</p>
    <p>- 32 - Choose <code>Add route</code> and then configure the following:</p>
