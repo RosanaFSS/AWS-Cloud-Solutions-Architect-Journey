@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Welcome!](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User Flag](#1.2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;&nbsp;&nbsp;
 
-<h2 align="center"> Task 1. Welcome!<a id='1'></a></h2>
+<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 1. Welcome!}}$$<a id='1'></a></h1>
 
 <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 1. Create an Amazon VPC in a Region<a id='1'</a>}}$$ </h1>
 <p align="center">In this task, we will create a new Amazon VPC in the AWS Cloud. </p>
