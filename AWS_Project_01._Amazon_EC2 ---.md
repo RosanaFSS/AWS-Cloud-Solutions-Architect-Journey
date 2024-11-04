@@ -1,4 +1,4 @@
-<h3>AWS Hands-on</h3>
+<h1>AWSBuilding and Amazon VPC infrastructure</h1>
 <p>November 4, 2024<br></p>
 
 
@@ -169,6 +169,18 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
     <li><code>Target</code>: choose <code>Internet gteway</code> in the dropdown menu, and then choose the displayed Internet gateway ID.</li>
 </ul>
    <p>- 33 - Choose <code>Save changes</code>.</p>
+
+   <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/61189c8c-b116-4267-9b57-7a0a0b948290"> </p>
+
+   <p>- 34 - Choose <code>Subnet associations</code> tab.</p>
+   <p>- 35 - Choose <code>Edit subnet associations</code>.</p>
+   <p>- 36 - Select <code>Public Subnet</code> tab.</p>
+   <p>- 37 - Choose <code>Save Associations</code>.</p>
+
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully updated subnet associations for Public Route Table!}}$$ </h2>
+   <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/e3b7e021-0d8a-4e35-83d4-0b3b22024a2a"> </p>
+
+
 
 
 
