@@ -73,6 +73,11 @@
 </ul>
    <p>11. Choose <code>Create subnet</code>.</p>
 
+   <p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/341fc24f-9d8c-404b-a2c2-33bcc087e277"> </p>
+
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Private subnet created successfully.}}$$ </h2>
+
+
 
 
 
