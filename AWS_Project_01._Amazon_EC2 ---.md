@@ -113,6 +113,6 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/b3b5824f-5159-4ef9-8f2e-f7c38bc888a2"> </p>
 
-   <p>Now my VPC has two subnets. However, these subnetes are isolated and cannot communicate with resources outside the VPC. Next, I will configure the public subnet to connect to the internet through an interna gateway.</p>
+   <p>Now my VPC has two subnets. However, these subnets are isolated and cannot communicate with resources outside the VPC. Next, I will configure the public subnet to connect to the internet through an interna gateway.</p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully created a public and a private subnet in the VPC.}}$$ </h2>
