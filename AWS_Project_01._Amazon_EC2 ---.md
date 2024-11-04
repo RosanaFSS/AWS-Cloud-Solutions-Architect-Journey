@@ -24,29 +24,29 @@
 
 <p align="center">  <img width="200px" src="https://github.com/user-attachments/assets/e9d7e6cc-6dc6-4b9f-8fb8-3db3a670babe"> </p>
 
-   <p>01. At the top of the <code>AWS Managememt Console</code>, in the search bar, search for and choose <code>VPC</code>.</p>
-   <p>02. In the left navigation pane, choose <code>Your VPCs</code>.</p>
-   <p>03. Choose <code>Create VPC</code> and configure the following:</p>
+   <p>- 01 - At the top of the <code>AWS Managememt Console</code>, in the search bar, search for and choose <code>VPC</code>.</p>
+   <p>- 02 - In the left navigation pane, choose <code>Your VPCs</code>.</p>
+   <p>- 03 - Choose <code>Create VPC</code> and configure the following:</p>
 <ul style="list-style-type:square">
     <li>Resources to create: Choose  VPC only.</li>
     <li>Name tag - optional: Enter Lab VPC.</li>
     <li>Pv4 CIDR: Enter 10.0.0.0/16./li>
 </ul>
-   <p>04. Choose <code>Create VPC</code>.</p>
+   <p>- 04 - Choose <code>Create VPC</code>.</p>
 
 <h2 align="center"> $$\textcolor{white}{\textnormal{VPC created successfully.}}$$ </h2>
 
 <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/3a3eeffe-25de-4182-ae7a-902c6b6ec910"> </p><br>
 
-   <p>05. Verify the state of the <code>VPC</code> created.</p>
+   <p>- 05 - Verify the state of the <code>VPC</code> created.</p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{VPC is available!}}$$ </h2>
 
 <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
 
-   <p>06. From the same page, choose <code>Actions</code>code> and choose <code>Edit VPC SettingsVPC</code>.</p>
-   <p>07. From the <code>DNS settings</code> section, select <code>Enable DNS hostnames</code>.</p>
-   <p>08. Choose <code>Save</code>.</p>
+   <p>- 06 - From the same page, choose <code>Actions</code>code> and choose <code>Edit VPC SettingsVPC</code>.</p>
+   <p>- 07 - From the <code>DNS settings</code> section, select <code>Enable DNS hostnames</code>.</p>
+   <p>- 08 - Choose <code>Save</code>.</p>
 
 <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/103bfb20-842b-4977-80c0-69ac3ab34fef"> </p>
 
@@ -65,49 +65,49 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
 
 <p align="center">Note: A subnet is a sub-range of IP addresses within a network. You can launch AWS resources into a specified subnet. Use a public subnet for resources that must be connected to the internet, and use a private subnet for resources that are to remain isolated from the internet. </p>
 
-   <p>09. In the left navigation pane, choose <code>Subnets</code>.</p>
-   <p>10. Choose <code>Create subnet</code> and configure the following:</p>
+   <p>- 09 - In the left navigation pane, choose <code>Subnets</code>.</p>
+   <p>- 10 - Choose <code>Create subnet</code> and configure the following:</p>
 <ul style="list-style-type:square">
     <li><code>VPC ID</code>: select Lab VPC from the dropdown menu.</li>
     <li><code>Subnet name</code>: enter Public Subnet.</li>
     <li><code>Availability Zone</code>: select the first Availability Zone in the list. (Do not choose No Preference.)</li>
     <li><code>IPV4 CIDR</code> block: enter 10.0.0.0/24.</li>
 </ul>
-   <p>11. Choose <code>Create subnet</code>.</p>
+   <p>- 11 - Choose <code>Create subnet</code>.</p>
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/341fc24f-9d8c-404b-a2c2-33bcc087e277"> </p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Public subnet created successfully!}}$$ </h2>
 
-   <p>12. Verify the state of the private subnet created.</p>
+   <p>- 12 - Verify the state of the private subnet created.</p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Public Subnet available!}}$$ </h2>
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/1282c920-bfb4-43db-b790-a5aae714c055"> </p>
 
-   <p>13. Select <code>Public Subnet</code>.</p>
-   <p>14. Choose <code>Actions</code> and choose <code>Edit subnet settings</code>.</p>
-   <p>15. From the <code>Auto-assign IP settings</code> section, select <code>Enable auto-assign public IPv4 address</code>.</p>
-   <p>15. Choose <code>Save</code>.</p>
+   <p>- 13 - Select <code>Public Subnet</code>.</p>
+   <p>- 14 - Choose <code>Actions</code> and choose <code>Edit subnet settings</code>.</p>
+   <p>- 15 - From the <code>Auto-assign IP settings</code> section, select <code>Enable auto-assign public IPv4 address</code>.</p>
+   <p>- 16 - Choose <code>Save</code>.</p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Public subnet settings changed successfully!}}$$ </h2>
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/f5e0c368-41a2-4239-bbe6-dea2461abe68"> </p>
 
    <p> Now let´s create a private subnet, which is for resources that will remain isolated from the internet.
-   <p>16. Choose <code>Creat subnet</code>, and then configure the following: .</p>
+   <p>- 17 - Choose <code>Creat subnet</code>, and then configure the following: .</p>
 <ul style="list-style-type:square">
     <li><code>VPC ID</code>: select Lab VPC from the dropdown menu.</li>
     <li><code>Subnet name</code>: enter Private Subnet.</li>
     <li><code>Availability Zone</code>: select the first Availability Zone in the list. (Do not choose No Preference.)</li>
     <li><code>IPV4 CIDR</code> block: enter 10.0.0.0/23.</li>
 </ul>
-   <p>17. Choose <code>Create subnet</code>.</p>
+   <p>- 18 - Choose <code>Create subnet</code>.</p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Private subnet created successfully!}}$$ </h2>
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/5796eda4-6071-4432-af4d-ebe3cee48472"> </p>
 
-   <p>12. Verify the state of the private subnet created.</p>
+   <p>- 19 - Verify the state of the private subnet created.</p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Public Subnet available!}}$$ </h2>
 
@@ -116,3 +116,40 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
    <p>Now my VPC has two subnets. However, these subnets are isolated and cannot communicate with resources outside the VPC. Next, I will configure the public subnet to connect to the internet through an interna gateway.</p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully created a public and a private subnet in the VPC.}}$$ </h2>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 3. Create an internet gateway}}$$ </h1>
+<p align="center">In this task, I will create an internet gateway so that internet traffic can access the public subnet. To grant access to or from the internet for instances in a subnet in a VPC, I will create an internet gateway and attach it to my VPC. Then I will add a route to my subnet´s route table that directs internet-bound traffic to the internet gate. </p><br>
+<p align="center">Learn more: An internet gateway serves two purposes: To provide a target in your VPC route tables for internet-bound traffic, and to perform network address translation (NAT) for instances that have been assigned public IPv4 addres. </p>
+
+   <p>- 20 - In the left naviagetion pane, choose <code>Internet gateways</code>.</p>
+   <p>- 21 - Choose <code>Create Internet gateway</code> and configure the following:</p>
+<ul style="list-style-type:square">
+    <li><code>Name Tag</code>: senter Lab IGW.</li>
+</ul>
+   <p>- 22 - Choose <code>Create Internet gateway</code>.</p>
+
+<h2 align="center"> $$\textcolor{white}{\textnormal{Internet gateway was created successfully!}}$$ </h2>
+<p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/94ad9bbe-1828-42ad-b007-4cfb92a6ebc0"> </p>
+
+   <p>- 23 - From the same page, choose <code>Actions</code> and choose <code>Attach to VPC</code>.</p>
+   <p>- 24 - For <code>Available VPs</code>, select the <code>VPC</code> created from the dropdown menu.</p>
+   <p>- 25 - Choose <code>Attach Internet gateway</code>.</p>
+
+<h2 align="center"> $$\textcolor{white}{\textnormal{Internet gateway successfully attached to VPC!}}$$ </h2>
+<p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/9b01203c-fa4c-4e63-a8c6-850a07f91b78"> </p>
+
+   <p>- 26 - Verify Internet gateway state.</p>
+   
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Internet gateway stateis attached!}}$$ </h2>
+
+   <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/142bb5c3-5b6a-4e92-9643-d909582e2dfa"> </p>
+   <p align="center">The internet gateway is now attached to your Lab VPC. Even though you have created an internet gateway and attached it to your VPC, you must also configure the route table of the public subnet to use the internet gate </p><br>
+
+  <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully createdted an internet gateway so that internet traffic can access the public subnet.}}$$ </h2>
+
+
+
+
+
+
+   
