@@ -6,10 +6,8 @@
 <p>It´s key part of my AWS hands-on journey.</p>
 <p>Let´s get started!!</p>
 
-
-
-<h2>Objective</h2>
-<p>In this tutorial, we will:
+<h2 align="center"> $$\textcolor{#3bd62d}{\textnormal{Objectives}}$$ </h2>
+<p align="center"> After completing this lab, you should know how to do the following::</p
 <ul style="list-style-type:square">
     <li>Understand private and public subnets and why they can or cannot communicate with Amazon S3.</li>
     <li>Configure VPC endpoints using the AWS Management Console and AWS Command Line Interface (AWS CLI)</li>
