@@ -27,7 +27,7 @@
 
 <p>At the top of the <code>AWS Managememt Console</code>, in the search bar, search for and choose <cpde>VPC</cpde>.<br>
    In the left navigation pane, choose Your VPCs</code>.<br>
-   Choose Create VPC and configure the following:<br>
+   Choose Create VPC and configure the following:
 <ul style="list-style-type:square">
     <li>Resources to create: Choose  VPC only.</li>
     <li>Name tag - optional: Enter Lab VPC.</li>
