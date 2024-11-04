@@ -9,10 +9,14 @@
 <h1 align="center"> $$\textcolor{white}{\textnormal{Objectives}}$$ </h1>
 <p align="center"> After completing this lab, you should know how to do the following:</p>
 <ul style="list-style-type:square">
-    <li>Understand private and public subnets and why they can or cannot communicate with Amazon S3.</li>
-    <li>Configure VPC endpoints using the AWS Management Console and AWS Command Line Interface (AWS CLI)</li>
-    <li>Interact with Amazon S3 through a VPC endpoint in a private subnet. /li>
-    <li>Create a VPC endpoint policy to restrict resource access.</li>
+    <li>Create an Amazon VPC.</li>
+    <li>Create public and private subnets.<li>
+    <li>Create an internet gateway.</li>
+    <li>Configure a route table and associate it to a subnet.</li>
+    <li>Create an Amazon Elastic Compute Cloud (Amazon EC2) instance and make the instance publicly accessible.</li>
+    <li>Isolate an Amazon EC2 instance in a private subnet.</li>
+    <li>Isolate an Amazon EC2 instance in a private subnet.</li>
+    <li>Connect to Amazon EC2 instances using Session Manager, a capability of AWS Systems Manager.</li>
 </ul></p>
 
 <p align="center">In this task, we will create a new Amazon VPC in the AWS Cloud. </p>
