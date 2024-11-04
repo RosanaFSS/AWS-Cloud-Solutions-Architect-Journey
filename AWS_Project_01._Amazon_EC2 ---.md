@@ -140,7 +140,7 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
 
    <p>- 26 - Verify Internet gateway state.</p>
    
-   <h2 align="center"> $$\textcolor{white}{\textnormal{Internet gateway stateis attached!}}$$ </h2>
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Internet gateway state is attached!}}$$ </h2>
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/142bb5c3-5b6a-4e92-9643-d909582e2dfa"> </p>
    <p align="center">The internet gateway is now attached to your Lab VPC. Even though you have created an internet gateway and attached it to your VPC, you must also configure the route table of the public subnet to use the internet gate </p><br>
@@ -180,8 +180,26 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
    <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully updated subnet associations for Public Route Table!}}$$ </h2>
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/e3b7e021-0d8a-4e35-83d4-0b3b22024a2a"> </p>
 
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 5. Creating a public security group.}}$$ </h1>
 
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 6. Lauching an Amazon EC2 instance into a public subnet.}}$$ </h1>
 
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 7. Connecting to a public instance through HTTP.}}$$ </h1>
 
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 8. Connecting to the Amazon EC2 instance in the public subnet through Session Manager.}}$$ </h1>
 
-   
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 9. Creating a NAT gateway and configuring routing in the private subnet.}}$$ </h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 10. Creating a security group for private resources.}}$$ </h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 11. Launching an Amazon EC2 instance into a private subnet.}}$$ </h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 12. Connecting to the Amazon EC2 instance in the private subnet.}}$$ </h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 13. Testing connectivity to the private instance from the public intance.}}$$ </h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 14. Retrieving instance metadata.}}$$ </h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 15. Understanding the basic of IPv6 networking on AWS.}}$$ </h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Conclusion.}}$$ </h1>
