@@ -15,7 +15,7 @@
     <li>Isolate an Amazon EC2 instance in a private subnet.</li>
     <li>Isolate an Amazon EC2 instance in a private subnet.</li>
     <li>Connect to Amazon EC2 instances using Session Manager, a capability of AWS Systems Manager.</li>
-</ul></p>
+</ul></p><br>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{Task 1.  Create and Amazon VPC}}$$ </h1>
 <p align="center">In this task, we will create a new Amazon VPC in the AWS Cloud. </p>
