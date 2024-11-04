@@ -25,15 +25,15 @@
   <img width="400px" src="https://github.com/user-attachments/assets/26915386-9a84-43b2-bb2f-597b90f6f3bc">
 </p>
 
-<p>At the top of the <code>AWS Managememt Console</code>, in the search bar, search for and choose <cpde>VPC</cpde>. </p>
-<p>In the left navigation pane, choose Your VPCs</code>./p>
-<pChoose Create VPC and configure the following::
+<p>At the top of the <code>AWS Managememt Console</code>, in the search bar, search for and choose <cpde>VPC</cpde>.<br>
+   In the left navigation pane, choose Your VPCs</code>.<br>
+   Choose Create VPC and configure the following:<br>
 <ul style="list-style-type:square">
     <li>Resources to create: Choose  VPC only.</li>
     <li>Name tag - optional: Enter Lab VPC.</li>
     <li>Pv4 CIDR: Enter 10.0.0.0/16./li>
-    <li>Choose Create VPC.</li>
-</ul></p>
+</ul><br>
+Choose <code>Create VPC</code>.</p>
 
 
 
