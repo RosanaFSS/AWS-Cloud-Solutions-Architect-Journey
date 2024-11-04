@@ -54,7 +54,8 @@
 
 <h2 align="center"> $$\textcolor{white}{\textnormal{VPC settings modified successfully.}}$$ </h2>
 <p align="center"> Any Amazon EC2 instances launched into this Amazon VPC now automatically receive a DNS hostname. You can also create a more meaningful DNS name (for example, app.company.com) using records in Amazon Route 53. </p><br>
-<p align="center"> <p align="center"> Congratulations! You have successfully created your own VPC and now you can launch the AWS resources in this defined virtual network </p><br><br>
+
+<h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! You have successfully created your own VPC and now you can launch the AWS resources in this defined virtual network.}}$$ </h2>
 
 <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 2. Create public and private subnets}}$$ </h1>
 <p align="center">In this task, you create a public subnet and a private subnet in the lab VPC. To add a new subnet to your VPC, you must specify an IPv4 CIDR block for the subnet from the range of your VPC. You can specify the Availability Zone in which you want the subnet to reside. You can have multiple subnets in the same Availability Zone. </p>
@@ -110,6 +111,10 @@
    <h2 align="center"> $$\textcolor{white}{\textnormal{Public Subnet available!}}$$ </h2>
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/b3b5824f-5159-4ef9-8f2e-f7c38bc888a2"> </p>
+
+   <p>Now my VPC has two subnets. However, these subnetes are isolated and cannot communicate with resources outside the VPC. Next, I will configure the public subnet to connect to the internet through an interna gateway.</p>
+
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully created a public and a private subnet in the VPC.}}$$ </h2>
 
 
 
