@@ -34,13 +34,13 @@
 </ul>
    4. Choose <code>Create VPC</code>.</p>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{VPC is created.}}$$ </h1>
+<h2 align="center"> $$\textcolor{white}{\textnormal{VPC is created.}}$$ </h2>
 
 <p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/3a3eeffe-25de-4182-ae7a-902c6b6ec910"> </p><br>
 
    <p>5. Verify the state of the <code>VPC</code> created.</p>
 
-   <h1 align="center"> $$\textcolor{white}{\textnormal{VPC is available.}}$$ </h1>
+   <h2 align="center"> $$\textcolor{white}{\textnormal{VPC is available.}}$$ </h2>
 
 <p align="center">  <img width="400px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
 
@@ -52,7 +52,7 @@
 
 <p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/d9f72f65-af6f-4092-a540-6c68b0114e17"> </p>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{VPC settings modified successfully.}}$$ </h1>
+<h2 align="center"> $$\textcolor{white}{\textnormal{VPC settings modified successfully.}}$$ </h2>
 <p align="center"> Any Amazon EC2 instances launched into this Amazon VPC now automatically receive a DNS hostname. You can also create a more meaningful DNS name (for example, app.company.com) using records in Amazon Route 53. </p><br>
 <p align="center"> <p align="center"> Congratulations! You have successfully created your own VPC and now you can launch the AWS resources in this defined virtual network </p><br> 
 
