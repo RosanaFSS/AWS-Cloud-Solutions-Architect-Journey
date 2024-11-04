@@ -8,7 +8,7 @@
 <p align="center"> After completing this lab, you should know how to do the following:</p>
 <ul style="list-style-type:square">
     <li>Create an Amazon VPC.</li>
-    <li>Create public and private subnets.<li>
+    <li>Create public and private subnets.</li>
     <li>Create an internet gateway.</li>
     <li>Configure a route table and associate it to a subnet.</li>
     <li>Create an Amazon Elastic Compute Cloud (Amazon EC2) instance and make the instance publicly accessible.</li>
@@ -52,6 +52,7 @@
 <p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/d9f72f65-af6f-4092-a540-6c68b0114e17"> </p>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{VPC settings modified successfully.}}$$ </h1>
+<p align="center"> Any Amazon EC2 instances launched into this Amazon VPC now automatically receive a DNS hostname. You can also create a more meaningful DNS name (for example, app.company.com) using records in Amazon Route 53. </p>
 
 
 
