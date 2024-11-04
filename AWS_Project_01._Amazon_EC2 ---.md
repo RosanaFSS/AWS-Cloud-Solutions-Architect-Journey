@@ -33,9 +33,8 @@
 </ul>
    4. Choose <code>Create VPC</code>.</p>
 
+<p align="center">  <img width="400px" src="https://github.com/user-attachments/assets/3a3eeffe-25de-4182-ae7a-902c6b6ec910"> </p>
 
-
-![image](https://github.com/user-attachments/assets/3a3eeffe-25de-4182-ae7a-902c6b6ec910)
 
 
 
