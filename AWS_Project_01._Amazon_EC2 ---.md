@@ -36,7 +36,7 @@
 
 <h2 align="center"> $$\textcolor{white}{\textnormal{VPC created successfully.}}$$ </h2>
 
-<p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/3a3eeffe-25de-4182-ae7a-902c6b6ec910"> </p><br>
+<p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/3a3eeffe-25de-4182-ae7a-902c6b6ec910"> </p><br>
 
    <p>05. Verify the state of the <code>VPC</code> created.</p>
 
@@ -81,7 +81,15 @@
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Subnet available!}}$$ </h2>
 
-<p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
+   <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/1282c920-bfb4-43db-b790-a5aae714c055"> </p>
+
+   <p>13. Select <code>Public Subnet</code>.</p>
+   <p>14. Choose <code>Actions</code> and choose <code>Edit subnet settings</code>.</p>
+   <p>15. From the <code>Auto-assign IP settings</code> section, select <code>Enable auto-assign public IPv4 address</code>.</p>
+   <p>15. Choose <code>Save</code>.</p>
+
+
+
 
 
 
