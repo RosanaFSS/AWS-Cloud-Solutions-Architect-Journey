@@ -32,7 +32,7 @@
     <li>Resources to create: Choose  VPC only.</li>
     <li>Name tag - optional: Enter Lab VPC.</li>
     <li>Pv4 CIDR: Enter 10.0.0.0/16./li>
-</ul><br>
+</ul>
    4. Choose <code>Create VPC</code>.</p>
 
 
