@@ -1,4 +1,4 @@
-<h1>AWS, Building and Amazon VPC infrastructure</h1>
+<h1>AWS, Building an Amazon VPC infrastructure</h1>
 <p>November 4, 2024<br></p>
 
 
