@@ -55,8 +55,8 @@
 <h2 align="center"> $$\textcolor{white}{\textnormal{VPC settings modified successfully.}}$$ </h2>
 <p align="center"> Any Amazon EC2 instances launched into this Amazon VPC now automatically receive a DNS hostname. You can also create a more meaningful DNS name (for example, app.company.com) using records in Amazon Route 53. </p><br>
 
-<h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! You have successfully created your own VPC}}$$</h2>
-<h2 align="center"> $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this defined virtual network.}}$$</h2>
+<h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! You have successfully created your own VPC}}$$
+$$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this defined virtual network.}}$$</h2>
 
 <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 2. Create public and private subnets}}$$ </h1>
 <p align="center">In this task, you create a public subnet and a private subnet in the lab VPC. To add a new subnet to your VPC, you must specify an IPv4 CIDR block for the subnet from the range of your VPC. You can specify the Availability Zone in which you want the subnet to reside. You can have multiple subnets in the same Availability Zone. </p>
