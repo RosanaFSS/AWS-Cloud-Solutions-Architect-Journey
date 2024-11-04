@@ -148,7 +148,25 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
   <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully createdted an internet gateway so that internet traffic can access the public subnet.}}$$ </h2>
 
 
+<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 4. Routing intern traffic in the public subnet to the Internet gateway.}}$$ </h1>
+<p align="center">In this task, I will create a route table and add a route to the route table to direct internet-bound traffic to my internet gateway and associate my public subnets with my route table. Each subnet in my VPC must be associated with a route table; the table controls the routing for the subnet. A subnet can only be associated with one route table at a time, but you can associate multiple subnets with the same route table.</p>
+<p align="center"> Learn more: A route table contains a set of rules, called routes, that are used to determine where network traffic is directed. To use an internet gateway, your subnet´s route table must contain a route that directs internet-bound traffic to the internet gateway. You can scope the route to all destinations not explicitly known to the route table (0.0.0.0/0 for IPv4 or ::/0 for IPv6), or you can scope the route to a narrower range of IP addresses. If your subnet is associated with a route table that has a route to an internet gateway, it&apos;s known as a publi</p>
 
+   <p>- 27 - In the left navigation pane, choose <code>Route Tables</code>.</p>
+   <p>- 28 - Choose <code>Create Route Table</code>, and then configure the following:</p>
+<ul style="list-style-type:square">
+    <li><code>Name Optional</code>: enter Public Route Table.</li>
+    <li><code>VPC</code>: select <code>VPC</code> from the dropdown menu.</li>
+</ul>
+   <p>- 29 - Choose <code>Create Route Table</code>.</p>   
+   <p>- 30 - Choose the <code>Routes</code> tab in the lower half of the page.</p>
+   <p>- 31 - Choose <code>Edit Routes</code>.</p>
+   <p>- 32 - Choose <code>Add route</code> and then configure the following:</p>
+<ul style="list-style-type:square">
+    <li><code>Destination</code>: enter 0.0.0.0/0.</li>
+    <li><code>Target</code>: choose <code>Internet gteway</code> in the dropdown menu, and then choose the displayed Internet gateway ID.</li>
+</ul>
+   <p>- 33 - Choose <code>Save changes</code>.</p>
 
 
 
