@@ -9,7 +9,7 @@
 <h1 align="center"> $$\textcolor{white}{\textnormal{Objectives}}$$ </h1>
 <p align="center"> After completing this lab, you should know how to do the following:</p>
 <ul style="list-style-type:square">
-    < align="center"> <li>Understand private and public subnets and why they can or cannot communicate with Amazon S3.</li>
+    <p align="center"> <li>Understand private and public subnets and why they can or cannot communicate with Amazon S3.</li> </p>
     <li>Configure VPC endpoints using the AWS Management Console and AWS Command Line Interface (AWS CLI)</li>
     <li>Interact with Amazon S3 through a VPC endpoint in a private subnet. /li>
     <li>Create a VPC endpoint policy to restrict resource access.</li>
