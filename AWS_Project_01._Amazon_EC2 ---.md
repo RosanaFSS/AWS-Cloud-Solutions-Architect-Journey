@@ -42,15 +42,15 @@
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{VPC is available!}}$$ </h2>
 
-<p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
+<p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
 
    <p>06. From the same page, choose <code>Actions</code>code> and choose <code>Edit VPC SettingsVPC</code>.</p>
    <p>07. From the <code>DNS settings</code> section, select <code>Enable DNS hostnames</code>.</p>
    <p>08. Choose <code>Save</code>.</p>
 
-<p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/103bfb20-842b-4977-80c0-69ac3ab34fef"> </p>
+<p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/103bfb20-842b-4977-80c0-69ac3ab34fef"> </p>
 
-<p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/d9f72f65-af6f-4092-a540-6c68b0114e17"> </p>
+<p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/d9f72f65-af6f-4092-a540-6c68b0114e17"> </p>
 
 <h2 align="center"> $$\textcolor{white}{\textnormal{VPC settings modified successfully.}}$$ </h2>
 <p align="center"> Any Amazon EC2 instances launched into this Amazon VPC now automatically receive a DNS hostname. You can also create a more meaningful DNS name (for example, app.company.com) using records in Amazon Route 53. </p><br>
@@ -73,15 +73,15 @@
 </ul>
    <p>11. Choose <code>Create subnet</code>.</p>
 
-   <p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/341fc24f-9d8c-404b-a2c2-33bcc087e277"> </p>
+   <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/341fc24f-9d8c-404b-a2c2-33bcc087e277"> </p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Private subnet created successfully.}}$$ </h2>
 
-   <p>12. Verify the state of the subnet created.</p>
+   <p>12. Verify the state of the private subnet created.</p>
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Subnet available!}}$$ </h2>
 
-<p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
+<p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
 
 
 
