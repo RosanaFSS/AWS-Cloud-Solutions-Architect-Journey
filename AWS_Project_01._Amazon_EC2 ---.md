@@ -42,7 +42,7 @@
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{VPC is available.}}$$ </h2>
 
-<p align="center">  <img width="400px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
+<p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
 
    <p>6. From the same page, choose <code>Actions</code>code> and choose <code>Edit VPC SettingsVPC</code>.</p>
    <p>7. From the <code>DNS settings</code> section, select <code>Enable DNS hostnames</code>.</p>
@@ -59,7 +59,7 @@
 <h1 align="center"> $$\textcolor{white}{\textnormal{Task 2. Create public and private subnets}}$$ </h1>
 <p align="center">In this task, you create a public subnet and a private subnet in the lab VPC. To add a new subnet to your VPC, you must specify an IPv4 CIDR block for the subnet from the range of your VPC. You can specify the Availability Zone in which you want the subnet to reside. You can have multiple subnets in the same Availability Zone. </p>
 
-<p align="center">  <img width="400px" src="https://github.com/user-attachments/assets/81b525d4-c4fc-43ee-9e1b-dacdea06c22c"> </p>
+<p align="center">  <img width="200px" src="https://github.com/user-attachments/assets/81b525d4-c4fc-43ee-9e1b-dacdea06c22c"> </p>
 
 
 
