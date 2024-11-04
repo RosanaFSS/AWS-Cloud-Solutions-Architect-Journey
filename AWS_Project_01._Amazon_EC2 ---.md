@@ -17,6 +17,38 @@
     <li>Connect to Amazon EC2 instances using Session Manager, a capability of AWS Systems Manager.</li>
 </ul></p><br>
 
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 1. Create an Amazon VPC in a Region}}$$<a id='1'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 2. Create public and private subnets}}$$<a id='2'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 3. Create an internet gateway}}$$<a id='3'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 4. Routing intern traffic in the public subnet to the Internet gateway}}$$<a id='4'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 5. Creating a public security group}}$$<a id='5'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 6. Lauching an Amazon EC2 instance into a public subnet}}$$<a id='6'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 7. Connecting to a public instance through HTTP}}$$<a id='7'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 8. Connecting to the Amazon EC2 instance in the public subnet through Session Manager}}$$<a id='8'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 9. Creating a NAT gateway and configuring routing in the private subnet}}$$<a id='9'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 10. Creating a security group for private resources}}$$<a id='10'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 11. Launching an Amazon EC2 instance into a private subnet}}$$<a id='11'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 12. Connecting to the Amazon EC2 instance in the private subnet}}$$<a id='12'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 13. Testing connectivity to the private instance from the public intance}}$$<a id='13'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 14. Retrieving instance metadata}}$$<a id='14'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 15. Understanding the basic of IPv6 networking on AWS}}$$<a id='15'></a></h1>
+
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Conclusion}}$$<a id='16'></a></h1>
+
 
 <h2><p align="center">Summary<a id='0'></a></h2>
 
@@ -122,7 +154,7 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
 
    <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully created a public and a private subnet in the VPC.}}$$ </h2>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 3. Create an internet gateway}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 3. Create an internet gateway}}$$<a id='3'></a></h1>
 <p align="center">In this task, I will create an internet gateway so that internet traffic can access the public subnet. To grant access to or from the internet for instances in a subnet in a VPC, I will create an internet gateway and attach it to my VPC. Then I will add a route to my subnet´s route table that directs internet-bound traffic to the internet gate. </p><br>
 <p align="center">Learn more: An internet gateway serves two purposes: To provide a target in your VPC route tables for internet-bound traffic, and to perform network address translation (NAT) for instances that have been assigned public IPv4 addres. </p>
 
@@ -152,8 +184,7 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
 
   <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully createdted an internet gateway so that internet traffic can access the public subnet.}}$$ </h2>
 
-
-<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 4. Routing intern traffic in the public subnet to the Internet gateway.}}$$ </h1>
+<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 4. Routing intern traffic in the public subnet to the Internet gateway}}$$<a id='4'></a></h1>
 <p align="center">In this task, I will create a route table and add a route to the route table to direct internet-bound traffic to my internet gateway and associate my public subnets with my route table. Each subnet in my VPC must be associated with a route table; the table controls the routing for the subnet. A subnet can only be associated with one route table at a time, but you can associate multiple subnets with the same route table.</p>
 <p align="center"> Learn more: A route table contains a set of rules, called routes, that are used to determine where network traffic is directed. To use an internet gateway, your subnet´s route table must contain a route that directs internet-bound traffic to the internet gateway. You can scope the route to all destinations not explicitly known to the route table (0.0.0.0/0 for IPv4 or ::/0 for IPv6), or you can scope the route to a narrower range of IP addresses. If your subnet is associated with a route table that has a route to an internet gateway, it&apos;s known as a publi</p>
 
@@ -185,26 +216,26 @@ $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this
    <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! I have successfully updated subnet associations for Public Route Table!}}$$ </h2>
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/e3b7e021-0d8a-4e35-83d4-0b3b22024a2a"> </p>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 5. Creating a public security group.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 5. Creating a public security group}}$$<a id='5'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 6. Lauching an Amazon EC2 instance into a public subnet.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 6. Lauching an Amazon EC2 instance into a public subnet}}$$<a id='6'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 7. Connecting to a public instance through HTTP.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 7. Connecting to a public instance through HTTP}}$$<a id='7'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 8. Connecting to the Amazon EC2 instance in the public subnet through Session Manager.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 8. Connecting to the Amazon EC2 instance in the public subnet through Session Manager}}$$<a id='8'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 9. Creating a NAT gateway and configuring routing in the private subnet.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 9. Creating a NAT gateway and configuring routing in the private subnet}}$$<a id='9'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 10. Creating a security group for private resources.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 10. Creating a security group for private resources}}$$<a id='10'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 11. Launching an Amazon EC2 instance into a private subnet.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 11. Launching an Amazon EC2 instance into a private subnet}}$$<a id='11'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 12. Connecting to the Amazon EC2 instance in the private subnet.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 12. Connecting to the Amazon EC2 instance in the private subnet}}$$<a id='12'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 13. Testing connectivity to the private instance from the public intance.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 13. Testing connectivity to the private instance from the public intance}}$$<a id='13'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 14. Retrieving instance metadata.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 14. Retrieving instance metadata}}$$<a id='14'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 15. Understanding the basic of IPv6 networking on AWS.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 15. Understanding the basic of IPv6 networking on AWS}}$$<a id='15'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Conclusion.}}$$ </h1>
+   <h1 align="center"> $$\textcolor{orange}{\textnormal{Conclusion}}$$<a id='16'></a></h1>
