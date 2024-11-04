@@ -75,11 +75,11 @@
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/341fc24f-9d8c-404b-a2c2-33bcc087e277"> </p>
 
-   <h2 align="center"> $$\textcolor{white}{\textnormal{Private subnet created successfully!}}$$ </h2>
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Prublic subnet created successfully!}}$$ </h2>
 
    <p>12. Verify the state of the private subnet created.</p>
 
-   <h2 align="center"> $$\textcolor{white}{\textnormal{Subnet available!}}$$ </h2>
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Public Subnet available!}}$$ </h2>
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/1282c920-bfb4-43db-b790-a5aae714c055"> </p>
 
@@ -88,7 +88,7 @@
    <p>15. From the <code>Auto-assign IP settings</code> section, select <code>Enable auto-assign public IPv4 address</code>.</p>
    <p>15. Choose <code>Save</code>.</p>
 
-   <h2 align="center"> $$\textcolor{white}{\textnormal{Private subnet settings changed successfully!}}$$ </h2>
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Public subnet settings changed successfully!}}$$ </h2>
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/f5e0c368-41a2-4239-bbe6-dea2461abe68"> </p>
 
