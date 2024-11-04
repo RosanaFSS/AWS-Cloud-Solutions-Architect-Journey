@@ -102,9 +102,8 @@
 </ul>
    <p>17. Choose <code>Create subnet</code>.</p>
 
-   <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/5796eda4-6071-4432-af4d-ebe3cee48472"> </p>
-
    <h2 align="center"> $$\textcolor{white}{\textnormal{Private subnet created successfully!}}$$ </h2>
+   <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/5796eda4-6071-4432-af4d-ebe3cee48472"> </p>
 
    <p>12. Verify the state of the private subnet created.</p>
 
