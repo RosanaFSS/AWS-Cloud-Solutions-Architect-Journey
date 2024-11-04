@@ -39,9 +39,12 @@
 
    <p>5. Verify the state of the <code>VPC</code> created.</p>
 
-   <h1 align="center"> $$\textcolor{white}{\textnormal{VPC is available.created}}$$ </h1>
+   <h1 align="center"> $$\textcolor{white}{\textnormal{VPC is available.}}$$ </h1>
 
 <p align="center">  <img width="400px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
+
+   <p>6. From the same page, choose <code>Actions</code>code> and choose <code>Edit VPC SettingsVPC</code>.</p>
+   <p>8. From the <code>DNS settings</code> section, select <code>Enable DNS hostnames</code>.</p>
 
 
 
