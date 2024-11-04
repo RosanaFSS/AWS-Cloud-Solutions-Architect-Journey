@@ -20,12 +20,8 @@
 
 <p>In this task, you create a new Amazon VPC in the AWS Cloud. </p>
 
-<center>
-<img src="https://github.com/user-attachments/assets/26915386-9a84-43b2-bb2f-597b90f6f3bc"
-height="200" width="200">
-</center>
+<center> <img src="https://github.com/user-attachments/assets/26915386-9a84-43b2-bb2f-597b90f6f3bc" height="400"> </center> 
 
-![image](https://github.com/user-attachments/assets/26915386-9a84-43b2-bb2f-597b90f6f3bc)
 
 
 ![image](https://github.com/user-attachments/assets/3a3eeffe-25de-4182-ae7a-902c6b6ec910)
