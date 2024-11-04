@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Welcome!](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User Flag](#1.2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;&nbsp;&nbsp;
 
-<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 1.Create an Amazon VPC in a Region}}$$<a id='1'></a></h1>
+<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 1. Create an Amazon VPC in a Region}}$$<a id='1'></a></h1>
 <p align="center">In this task, we will create a new Amazon VPC in the AWS Cloud. </p>
 
 <p align="center">With <code>Amazon VPC</code>, you can provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address ranges, creation of subnets, and configuration of route tables and network gateways. You can also use the enhanced security options in Amazon VPC to provide more granular access to and from the Amazon EC2 instances in your virtual network.</p>
@@ -63,7 +63,7 @@
 <h2 align="center"> $$\textcolor{white}{\textnormal{Congratulations! You have successfully created your own VPC}}$$
 $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this defined virtual network.}}$$</h2><br>
 
-<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 2. Create public and private subnets}}$$ </h1>
+<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 2. Create public and private subnets}}$$<a id='2'></a></h1>
 <p align="center">In this task, you create a public subnet and a private subnet in the lab VPC. To add a new subnet to your VPC, you must specify an IPv4 CIDR block for the subnet from the range of your VPC. You can specify the Availability Zone in which you want the subnet to reside. You can have multiple subnets in the same Availability Zone. </p>
 
 <p align="center">  <img width="200px" src="https://github.com/user-attachments/assets/81b525d4-c4fc-43ee-9e1b-dacdea06c22c"> </p>
