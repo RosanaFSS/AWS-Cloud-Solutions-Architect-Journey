@@ -69,13 +69,13 @@
     <li><code>VPC ID</code>: select Lab VPC from the dropdown menu.</li>
     <li><code>Subnet name</code>: enter Public Subnet.</li>
     <li><code>Availability Zone</code>: select the first Availability Zone in the list. (Do not choose No Preference.)</li>
-    <li><code>IPV4 CIDR</code> block: enter 10.0.0.0/24</li>
+    <li><code>IPV4 CIDR</code> block: enter 10.0.0.0/24.</li>
 </ul>
    <p>11. Choose <code>Create subnet</code>.</p>
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/341fc24f-9d8c-404b-a2c2-33bcc087e277"> </p>
 
-   <h2 align="center"> $$\textcolor{white}{\textnormal{Prublic subnet created successfully!}}$$ </h2>
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Public subnet created successfully!}}$$ </h2>
 
    <p>12. Verify the state of the private subnet created.</p>
 
@@ -91,6 +91,24 @@
    <h2 align="center"> $$\textcolor{white}{\textnormal{Public subnet settings changed successfully!}}$$ </h2>
 
    <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/f5e0c368-41a2-4239-bbe6-dea2461abe68"> </p>
+
+   <p> Now let´s create a private subnet, which is for resources that will remain isolated from the internet.
+   <p>16. Choose <code>Creat subnet</code>, and then configure the following: .</p>
+<ul style="list-style-type:square">
+    <li><code>VPC ID</code>: select Lab VPC from the dropdown menu.</li>
+    <li><code>Subnet name</code>: enter Private Subnet.</li>
+    <li><code>Availability Zone</code>: select the first Availability Zone in the list. (Do not choose No Preference.)</li>
+    <li><code>IPV4 CIDR</code> block: enter 10.0.0.0/23.</li>
+</ul>
+   <p>17. Choose <code>Create subnet</code>.</p>
+
+   <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/341fc24f-9d8c-404b-a2c2-33bcc087e277"> </p>
+
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Private subnet created successfully!}}$$ </h2>
+
+   <p>12. Verify the state of the private subnet created.</p>
+
+   <h2 align="center"> $$\textcolor{white}{\textnormal{Public Subnet available!}}$$ </h2>
 
 
 
