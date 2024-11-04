@@ -17,7 +17,7 @@
     <li>Connect to Amazon EC2 instances using Session Manager, a capability of AWS Systems Manager.</li>
 </ul></p><br>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{Task 1. Create an Amazon VPC in a Region}}$$ </h1>
+<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 1. Create an Amazon VPC in a Region}}$$ </h1>
 <p align="center">In this task, we will create a new Amazon VPC in the AWS Cloud. </p>
 
 <p align="center">With <code>Amazon VPC</code>, you can provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address ranges, creation of subnets, and configuration of route tables and network gateways. You can also use the enhanced security options in Amazon VPC to provide more granular access to and from the Amazon EC2 instances in your virtual network.</p>
@@ -56,7 +56,7 @@
 <p align="center"> Any Amazon EC2 instances launched into this Amazon VPC now automatically receive a DNS hostname. You can also create a more meaningful DNS name (for example, app.company.com) using records in Amazon Route 53. </p><br>
 <p align="center"> <p align="center"> Congratulations! You have successfully created your own VPC and now you can launch the AWS resources in this defined virtual network </p><br><br>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{Task 2. Create public and private subnets}}$$ </h1>
+<h1 align="center"> $$\textcolor{orange}{\textnormal{Task 2. Create public and private subnets}}$$ </h1>
 <p align="center">In this task, you create a public subnet and a private subnet in the lab VPC. To add a new subnet to your VPC, you must specify an IPv4 CIDR block for the subnet from the range of your VPC. You can specify the Availability Zone in which you want the subnet to reside. You can have multiple subnets in the same Availability Zone. </p>
 
 <p align="center">  <img width="200px" src="https://github.com/user-attachments/assets/81b525d4-c4fc-43ee-9e1b-dacdea06c22c"> </p>
