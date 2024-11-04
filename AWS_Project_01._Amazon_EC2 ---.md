@@ -52,7 +52,8 @@
 <p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/d9f72f65-af6f-4092-a540-6c68b0114e17"> </p>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{VPC settings modified successfully.}}$$ </h1>
-<p align="center"> Any Amazon EC2 instances launched into this Amazon VPC now automatically receive a DNS hostname. You can also create a more meaningful DNS name (for example, app.company.com) using records in Amazon Route 53. </p>
+<p align="center"> Any Amazon EC2 instances launched into this Amazon VPC now automatically receive a DNS hostname. You can also create a more meaningful DNS name (for example, app.company.com) using records in Amazon Route 53. </p><br>
+<p align="center"> <p align="center"> Congratulations! You have successfully created your own VPC and now you can launch the AWS resources in this defined virtual network </p><br> 
 
 
 
