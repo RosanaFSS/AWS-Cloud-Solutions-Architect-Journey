@@ -1,4 +1,4 @@
-<h3>AWS Hands-on, Securing Amazon S3 VPC Endpoint Communications</h3>
+<h3>AWS Hands-on</h3>
 <p>November 4, 2024<br></p>
 
 
