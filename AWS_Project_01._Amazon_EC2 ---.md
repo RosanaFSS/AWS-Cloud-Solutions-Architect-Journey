@@ -49,7 +49,7 @@
 
 <p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/103bfb20-842b-4977-80c0-69ac3ab34fef"> </p><br>
 
-<p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/d9f72f65-af6f-4092-a540-6c68b0114e17"> </p><br>
+<p align="center">  <img width="800px" src="https://github.com/user-attachments/assets/d9f72f65-af6f-4092-a540-6c68b0114e17"> </p>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{VPC settings modified successfully.}}$$ </h1>
 
