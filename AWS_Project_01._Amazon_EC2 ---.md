@@ -18,13 +18,22 @@
 </ul></p>
 
 
-<p>In this task, you create a new Amazon VPC in the AWS Cloud. </p>
+<p>In this task, we will create a new Amazon VPC in the AWS Cloud. </p>
+<p>With <code>Amazon VPC</code>, you can provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address ranges, creation of subnets, and configuration of route tables and network gateways. You can also use the enhanced security options in Amazon VPC to provide more granular access to and from the Amazon EC2 instances in your virtual network.</p>
 
 <p align="center">
   <img width="400px" src="https://github.com/user-attachments/assets/26915386-9a84-43b2-bb2f-597b90f6f3bc">
 </p>
 
-<center> <img src="https://github.com/user-attachments/assets/26915386-9a84-43b2-bb2f-597b90f6f3bc" height="400"> </center> 
+<p>At the top of the <code>AWS Managememt Console</code>, in the search bar, search for and choose <cpde>VPC</cpde>. </p>
+<p>In the left navigation pane, choose Your VPCs</code>./p>
+<pChoose Create VPC and configure the following::
+<ul style="list-style-type:square">
+    <li>Resources to create: Choose  VPC only.</li>
+    <li>Name tag - optional: Enter Lab VPC.</li>
+    <li>Pv4 CIDR: Enter 10.0.0.0/16./li>
+    <li>Choose Create VPC.</li>
+</ul></p>
 
 
 
