@@ -44,7 +44,8 @@
 <p align="center">  <img width="400px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
 
    <p>6. From the same page, choose <code>Actions</code>code> and choose <code>Edit VPC SettingsVPC</code>.</p>
-   <p>8. From the <code>DNS settings</code> section, select <code>Enable DNS hostnames</code>.</p>
+   <p>7. From the <code>DNS settings</code> section, select <code>Enable DNS hostnames</code>.</p>
+   <p>8. Choose <code>Save</code>.</p>
 
 
 
