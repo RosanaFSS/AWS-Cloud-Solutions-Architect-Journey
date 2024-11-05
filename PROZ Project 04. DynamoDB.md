@@ -18,9 +18,11 @@
 
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{Create an Amazon DynamoDB database}}$$ </h1>
-<h3 align="center"> $$\textcolor{white}{\textnormal{Access Amazon DynamoDB service through AWS Management Console}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Access Amazon DynamoDB service through AWS Management Console.}}$$ </h3>
 
 <p align="center"> <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </p><br>
+
+<h3 align="center"> $$\textcolor{white}{\textnormal{Select Create Table.}}$$ </h3>
 
 <p align="center"> <img height="320px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </p><br>
 
