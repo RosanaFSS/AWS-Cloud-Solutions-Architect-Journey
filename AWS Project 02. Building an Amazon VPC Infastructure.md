@@ -19,7 +19,6 @@
     <li>Test connectivity to the private instance from the public instance.</li>
     <li>Retrieve instance metadata</li>
     <li>Understand the basic of IPv6 networking on AWS</li>
-    <li></li>
 </ul></p><br>
 
 
