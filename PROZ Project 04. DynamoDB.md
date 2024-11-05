@@ -8,8 +8,8 @@
 <ul style="list-style-type:square">
     <li>Create an Amazon DynamoDB table.</li>
     <li>Access the table created.</li>
-    <li>Update the database creating new itens.</li>
-    <li>Query database itens.</li>
+    <li>Update the table creating new itens.</li>
+    <li>Query table itens.</li>
     <li>Repeat the process inserting new itens.</li>
     <li>Query dtabase through PartiQL.</li>
     <li>Query through secondary indexes.</li>
