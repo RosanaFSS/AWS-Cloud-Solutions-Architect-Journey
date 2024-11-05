@@ -65,7 +65,7 @@
 $$\textcolor{white}{\textnormal{and now you can launch the AWS resources in this defined virtual network.}}$$</h2><br>
 
 <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 2. Create public and private subnets}}$$<a id='2'></a></h1>
-<p align="center">In this task, you create a public subnet and a private subnet in the lab VPC. To add a new subnet to your VPC, you must specify an IPv4 CIDR block for the subnet from the range of your VPC. You can specify the Availability Zone in which you want the subnet to reside. You can have multiple subnets in the same Availability Zone. </p>
+<p align="center">In this task, we will create a public subnet and a private subnet in the lab VPC. To add a new subnet to our VPC, we must specify an IPv4 CIDR block for the subnet from the range of our VPC. We can specify the Availability Zone in which we want the subnet to reside. We can have multiple subnets in the same Availability Zone. </p>
 
 <p align="center">  <img width="200px" src="https://github.com/user-attachments/assets/81b525d4-c4fc-43ee-9e1b-dacdea06c22c"> </p>
 
