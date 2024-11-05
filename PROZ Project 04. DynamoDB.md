@@ -13,7 +13,7 @@
     <li>5. Repeat the process inserting new itens.</li>
     <li>6. Query dtabase through PartiQL.</li>
     <li>7. Query through secondary indexes.</li>
-    <li>8.Integrate back-end and DynamoDB.</li>
+    <li>8. Integrate back-end and DynamoDB.</li>
 </ul></p><br>
 
 
