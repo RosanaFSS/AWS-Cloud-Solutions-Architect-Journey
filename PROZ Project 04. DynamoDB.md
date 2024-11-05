@@ -6,15 +6,16 @@
 
 <h1 align="left"> $$\textcolor{white}{\textnormal{Tasks}}$$ </h1>
 <ul style="list-style-type:square">
-    <li>1. Sign in to the AWS Console and open the DynamoDB console.</li>
-    <li>2. Create an Amazon DynamoDB table.</li>
-    <li>3. Access the table created.</li>
-    <li>4. Write and read data to a DynamoDB table.</li>
-    <li>5. Update and visualize data in a DynamoDB table.</li>
-    <li>6. Repeat the process inserting new itens and attributes.</li>
-    <li>7. Query table through PartiQL.</li>
-    <li>8. Query through secondary indexes.</li>
-    <li>9. Integrate back-end and DynamoDB.</li>
+    <li> 1. Sign in to the AWS Console and open the DynamoDB console.</li>
+    <li> 2. Create an Amazon DynamoDB table.</li>
+    <li> 3. Access the table created.</li>
+    <li> 4. Write and read data to a DynamoDB table.</li>
+    <li> 5. Update and visualize data in a DynamoDB table.</li>
+    <li> 6. Repeat the process inserting new itens and attributes.</li>
+    <li> 7. Query table through PartiQL.</li>
+    <li> 8. Query through secondary indexes.</li>
+    <li> 9. Integrate back-end and DynamoDB.</li>
+    <li>10. Clean u´p.</li>
 </ul></p><br>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{1. Sign in to the AWS Console and open the DynamoDB console.}}$$ </h1>
