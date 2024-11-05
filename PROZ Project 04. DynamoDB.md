@@ -6,7 +6,7 @@
 
 <h1 align="left"> $$\textcolor{white}{\textnormal{Tasks}}$$ </h1>
 <ul style="list-style-type:square">
-    <li>Create a DynamoDB database.</li>
+    <li>Create an Amazon DynamoDB database.</li>
     <li>Access the database created.</li>
     <li>Update the database creating new itens.</li>
     <li>Query database itens.</li>
