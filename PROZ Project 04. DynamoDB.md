@@ -11,11 +11,10 @@
     <li>3. Update the table creating new itens.</li>
     <li>4. Query table itens.</li>
     <li>5. Repeat the process inserting new itens.</li>
-    <li>6. Query dtabase through PartiQL.</li>
+    <li>6. Query table through PartiQL.</li>
     <li>7. Query through secondary indexes.</li>
     <li>8. Integrate back-end and DynamoDB.</li>
 </ul></p><br>
-
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{1. Create an Amazon DynamoDB table.}}$$ </h1>
 
@@ -86,6 +85,8 @@
 ![image](https://github.com/user-attachments/assets/4b235d1d-b517-41fb-993e-00b9e3b0c177)
 
 ![image](https://github.com/user-attachments/assets/fa2e96ab-1294-4fce-99aa-c8dc4cdb10cf)
+
+<h1 align="center"> $$\textcolor{white}{\textnormal{6. Query table through PartiQL.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/1224005b-4dd1-4b4d-a170-2419e5cc5c4a)
 
