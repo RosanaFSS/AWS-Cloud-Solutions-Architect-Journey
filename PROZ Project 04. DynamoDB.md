@@ -44,6 +44,7 @@
 
 ![image](https://github.com/user-attachments/assets/10e39053-00dd-44e2-ba30-e5ca6bf7f03e)
 
+<h1 align="center"> $$\textcolor{white}{\textnormal{5. Visualize table itens.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/56d36f0f-688c-45c5-af2c-ca8bcb5e8bb8)
 
