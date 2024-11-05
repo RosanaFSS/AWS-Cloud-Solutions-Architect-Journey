@@ -6,9 +6,8 @@
 <p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. It´s key part of my AWS hands-on journey. Let´s get started!!</p>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{Objectives}}$$ </h1>
-<p align="center"> After completing this lab, you should know how to do the following:</p>
 <ul style="list-style-type:square">
-    <li>Create an Amazon VPC.</li>
+    <li>Create an Amazon VPC in a Region.</li>
     <li>Create public and private subnets.</li>
     <li>Create an internet gateway.</li>
     <li>Configure a route table and associate it to a subnet.</li>
