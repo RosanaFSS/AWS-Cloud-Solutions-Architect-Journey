@@ -10,7 +10,7 @@
     <li>2. Create an Amazon DynamoDB table.</li>
     <li>3. Access the table created.</li>
     <li>4. Update the table creating new itens.</li>
-    <li>5. Query table itens.</li>
+    <li>5. Visualize table itens.</li>
     <li>6. Repeat the process inserting new itens.</li>
     <li>7. Query table through PartiQL.</li>
     <li>8. Query through secondary indexes.</li>
