@@ -17,7 +17,7 @@
 </ul></p><br>
 
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{Create an Amazon DynamoDB database}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{Create an Amazon DynamoDB table.}}$$ </h1>
 
 <h4 align="center">Access Amazon DynamoDB service through AWS Management Console.<br>
                  <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </h4>
