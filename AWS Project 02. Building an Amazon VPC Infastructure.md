@@ -9,7 +9,7 @@
 <ul style="list-style-type:square">
     <li>Create an Amazon VPC in a Region.</li>
     <li>Create public and private subnets.</li>
-    <li>Create an internet gateway.</li>
+    <li>Create an Internet gateway.</li>
     <li>Configure a route table and associate it to a subnet.</li>
     <li>Create an Amazon Elastic Compute Cloud (Amazon EC2) instance and make the instance publicly accessible.</li>
     <li>Isolate an Amazon EC2 instance in a private subnet.</li>
