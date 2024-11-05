@@ -1,5 +1,5 @@
 <h3>PROZ AWS Arquitet@s Program</h3>
-<h1>DynamoDB & Lambda</h1>
+<h1>Amazon DynamoDB & AWS Lambda</h1>
 <p>November 5, 2024<br></p>
 
 <p align="center"> <img height="250px" src="https://github.com/user-attachments/assets/236bcbec-c267-482a-888b-ac7584f1bff6"> </p>
