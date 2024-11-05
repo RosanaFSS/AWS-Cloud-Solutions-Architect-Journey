@@ -56,6 +56,8 @@
 
 ![image](https://github.com/user-attachments/assets/36ca7560-4829-474c-a773-9ef84440b509)
 
+<h1 align="center"> $$\textcolor{white}{\textnormal{6. Query table through PartiQL.}}$$ </h1>
+
 ![image](https://github.com/user-attachments/assets/32cd0582-c9bd-4d94-accf-107d70d41c53)
 
 ![image](https://github.com/user-attachments/assets/1a19d8b9-c635-4602-9fe0-701e8565a24e)
