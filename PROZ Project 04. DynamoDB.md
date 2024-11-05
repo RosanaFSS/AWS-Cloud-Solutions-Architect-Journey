@@ -19,5 +19,13 @@
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{Create a DynamoDB database}}$$ </h1>
 
-<p align="center"> <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </p>
+<p align="center"> <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </p><br>
+
+<p align="center"> <img height="320px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </p><br>
+
+<p align="center"> <img height="320px" src="https://github.com/user-attachments/assets/8584b8b1-75df-4dd7-bc26-b1e7a34c2dab"> </p><br>
+
+
+
+
 
