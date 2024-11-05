@@ -40,7 +40,7 @@
 
 ![image](https://github.com/user-attachments/assets/ff61c100-c413-49d5-ad09-ce8135c181f6)
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{3. Update the table creating new itens.}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{4. Update the table creating new itens.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/10e39053-00dd-44e2-ba30-e5ca6bf7f03e)
 
