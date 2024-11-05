@@ -20,49 +20,49 @@
 <h1 align="center"> $$\textcolor{white}{\textnormal{1. Sign in to the AWS Console and open the DynamoDB console.}}$$ </h1>
 
 <h3 align="center">Access Amazon DynamoDB service through AWS Management Console.<br>
-                 <img width="750px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </h3>
+                 <img width="850px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </h3>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{2. Create an Amazon DynamoDB table.}}$$ </h1>
 
 <h3 align="center">Choose Create Table. Enter the Table details:Table name (music), Partition Key (artist), and Sort Key (song_title).<br>
-                 <img width="750px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </h3>
+                 <img width="850px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </h3>
 
 <h3 align="center">Consider for this study case Default Settings.<br>
-                 <img width="750px" src="https://github.com/user-attachments/assets/8584b8b1-75df-4dd7-bc26-b1e7a34c2dab"> </h3>
+                 <img width="850px" src="https://github.com/user-attachments/assets/8584b8b1-75df-4dd7-bc26-b1e7a34c2dab"> </h3>
 
 <h3 align="center">After clicking Creat Table it will take a brief while to complete the operation.<br>
-                 <img width="750px" src="https://github.com/user-attachments/assets/53fba642-da38-48eb-96f8-7ef473c2aa09"> </h3>
+                 <img width="850px" src="https://github.com/user-attachments/assets/53fba642-da38-48eb-96f8-7ef473c2aa09"> </h3>
 
 <h3 align="center">Table created successfully!<br>
-                 <img width="750px" src="https://github.com/user-attachments/assets/836bb0fb-9b99-4fd2-8e38-a7e355940582"> </h3>
+                 <img width="850px" src="https://github.com/user-attachments/assets/836bb0fb-9b99-4fd2-8e38-a7e355940582"> </h3>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{3. Access the table created.}}$$ </h1>
 
-![image](https://github.com/user-attachments/assets/ff61c100-c413-49d5-ad09-ce8135c181f6)
+<p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/ff61c100-c413-49d5-ad09-ce8135c181f6"> </p>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{4. Update the table creating new itens.}}$$ </h1>
 
-![image](https://github.com/user-attachments/assets/10e39053-00dd-44e2-ba30-e5ca6bf7f03e)
+<p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/10e39053-00dd-44e2-ba30-e5ca6bf7f03e"> </p>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{5. Visualize table itens.}}$$ </h1>
 
-![image](https://github.com/user-attachments/assets/56d36f0f-688c-45c5-af2c-ca8bcb5e8bb8)
+<p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/56d36f0f-688c-45c5-af2c-ca8bcb5e8bb8"> </p>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{6. Repeat the process inserting new itens and attributes.}}$$ </h1>
 
-![image](https://github.com/user-attachments/assets/449fadb1-b6e5-4ae1-bd03-021abc94ecf9)
+<p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/449fadb1-b6e5-4ae1-bd03-021abc94ecf9"> </p>
 
-![image](https://github.com/user-attachments/assets/8fcfec3e-cf96-4ac7-b8b9-332cdf174b54)
+<p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/8fcfec3e-cf96-4ac7-b8b9-332cdf174b54"> </p>
 
-![image](https://github.com/user-attachments/assets/63b18f8b-542f-4498-adb7-91317ce8fc0a)
+<p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/63b18f8b-542f-4498-adb7-91317ce8fc0a"> </p>
 
-![image](https://github.com/user-attachments/assets/3d9f0b83-d67a-4137-ad68-27c2735570dc)
+<p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/3d9f0b83-d67a-4137-ad68-27c2735570dc"> </p>
 
-![image](https://github.com/user-attachments/assets/646b146d-bbe1-491a-a138-466a058bf977)
+<p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/646b146d-bbe1-491a-a138-466a058bf977"> </p>
 
-![image](https://github.com/user-attachments/assets/36ca7560-4829-474c-a773-9ef84440b509)
+<p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/36ca7560-4829-474c-a773-9ef84440b509"> </p>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{6. Query table through PartiQL.}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{7. Query table through PartiQL.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/32cd0582-c9bd-4d94-accf-107d70d41c53)
 
