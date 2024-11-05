@@ -74,6 +74,8 @@
 
 ![image](https://github.com/user-attachments/assets/6431f575-62ac-4f44-8500-881ffae21517)
 
+<h1 align="center"> $$\textcolor{white}{\textnormal{8. Query through secondary indexes.}}$$ </h1>
+
 ![image](https://github.com/user-attachments/assets/1c1adb08-fe1e-420c-81a0-45dc4c9aea75)
 
 ![image](https://github.com/user-attachments/assets/f5a4c60f-1544-4a30-9049-5d417bb12299)
@@ -90,7 +92,6 @@
 ![image](https://github.com/user-attachments/assets/1f3e8158-ec3b-4735-80c3-4da11f54d4a6)
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{8. Query through secondary indexes.}}$$ </h1>
-
 
 ![image](https://github.com/user-attachments/assets/4b235d1d-b517-41fb-993e-00b9e3b0c177)
 
