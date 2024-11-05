@@ -15,3 +15,6 @@
     <li>Query through secondary indexes.</li>
     <li>Integrate back-end and DynamoDB.</li>
 </ul></p><br>
+
+
+<h1 align="left"> $$\textcolor{white}{\textnormal{Create an AmazonDB database}}$$ </h1>
