@@ -6,22 +6,26 @@
 
 <h1 align="left"> $$\textcolor{white}{\textnormal{Tasks}}$$ </h1>
 <ul style="list-style-type:square">
-    <li>1. Create an Amazon DynamoDB table.</li>
-    <li>2. Access the table created.</li>
-    <li>3. Update the table creating new itens.</li>
-    <li>4. Query table itens.</li>
-    <li>5. Repeat the process inserting new itens.</li>
-    <li>6. Query table through PartiQL.</li>
-    <li>7. Query through secondary indexes.</li>
-    <li>8. Integrate back-end and DynamoDB.</li>
+    <li>1. Sign in to the AWS Console and open the DynamoDB console.</li>
+    <li>2. Create an Amazon DynamoDB table.</li>
+    <li>3. Access the table created.</li>
+    <li>4. Update the table creating new itens.</li>
+    <li>5. Query table itens.</li>
+    <li>6. Repeat the process inserting new itens.</li>
+    <li>7. Query table through PartiQL.</li>
+    <li>8. Query through secondary indexes.</li>
+    <li>9. Integrate back-end and DynamoDB.</li>
 </ul></p><br>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{1. Create an Amazon DynamoDB table.}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{1. Sign in to the AWS Console and open the DynamoDB console.}}$$ </h1>
 
 <h3 align="center">Access Amazon DynamoDB service through AWS Management Console.<br>
                  <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </h3>
 
-<h3 align="center">Select Create Table.<br>
+<h1 align="center"> $$\textcolor{white}{\textnormal{2. Create an Amazon DynamoDB table.}}$$ </h1>
+
+<h3 align="center">Choose Create Table.<br>
+                  >Enter the Table details:Table name, Partition key, and Sort key.
                  <img height="320px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </h3>
 
 <h3 align="center">Consider for this study case Default Settings.<br>
