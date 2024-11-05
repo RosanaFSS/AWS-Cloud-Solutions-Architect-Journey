@@ -10,49 +10,19 @@
     <li>Create an Amazon VPC in a Region.</li>
     <li>Create public and private subnets.</li>
     <li>Create an Internet gateway.</li>
-    <li>Configure a route table and associate it to a subnet.</li>
-    <li>Create an Amazon Elastic Compute Cloud (Amazon EC2) instance and make the instance publicly accessible.</li>
-    <li>Isolate an Amazon EC2 instance in a private subnet.</li>
-    <li>Isolate an Amazon EC2 instance in a private subnet.</li>
-    <li>Connect to Amazon EC2 instances using Session Manager, a capability of AWS Systems Manager.</li>
+    <li>Route intern traffic in the public subnet to the Internet gateway.</li>
+    <li>Create a public Security Group.</li>
+    <li>Launch an Amazon EC2 instance into a public subnet.</li>
+    <li>Connect to a public instance through HTTP.</li>
+    <li>Connect to the Amazon EC2 instance in the public subnet through Session Manager.</li>
+    <li>Create a NAT gateway and configure routing in the private subnet.</li>
+    <li>Test connectivity to the private instance from the public instance.</li>
+    <li>Retrieve instance metadata</li>
+    <li>Understand the basic of IPv6 networking on AWS</li>
+    <li></li>
 </ul></p><br>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 1. Create an Amazon VPC in a Region}}$$<a id='1'></a></h1>
 
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 2. Create public and private subnets}}$$<a id='2'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 3. Create an internet gateway}}$$<a id='3'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 4. Routing intern traffic in the public subnet to the Internet gateway}}$$<a id='4'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 5. Creating a public security group}}$$<a id='5'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 6. Lauching an Amazon EC2 instance into a public subnet}}$$<a id='6'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 7. Connecting to a public instance through HTTP}}$$<a id='7'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 8. Connecting to the Amazon EC2 instance in the public subnet through Session Manager}}$$<a id='8'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 9. Creating a NAT gateway and configuring routing in the private subnet}}$$<a id='9'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 10. Creating a security group for private resources}}$$<a id='10'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 11. Launching an Amazon EC2 instance into a private subnet}}$$<a id='11'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 12. Connecting to the Amazon EC2 instance in the private subnet}}$$<a id='12'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 13. Testing connectivity to the private instance from the public intance}}$$<a id='13'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 14. Retrieving instance metadata}}$$<a id='14'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 15. Understanding the basic of IPv6 networking on AWS}}$$<a id='15'></a></h1>
-
-   <h1 align="center"> $$\textcolor{orange}{\textnormal{Conclusion}}$$<a id='16'></a></h1>
-
-
-<h2><p align="center">Summary<a id='0'></a></h2>
-
-&nbsp;&nbsp;&nbsp;&nbsp; [Welcome!](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User Flag](#1.2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <h1 align="center"> $$\textcolor{orange}{\textnormal{Task 1. Create an Amazon VPC in a Region}}$$<a id='1'></a></h1>
 <p align="center">In this task, we will create a new Amazon VPC in the AWS Cloud. </p>
