@@ -11,7 +11,7 @@
     <li>3. Access the table created.</li>
     <li>4. Update the table creating new itens.</li>
     <li>5. Visualize table itens.</li>
-    <li>6. Repeat the process inserting new itens.</li>
+    <li>6. Repeat the process inserting new itens and attributes.</li>
     <li>7. Query table through PartiQL.</li>
     <li>8. Query through secondary indexes.</li>
     <li>9. Integrate back-end and DynamoDB.</li>
@@ -47,6 +47,8 @@
 <h1 align="center"> $$\textcolor{white}{\textnormal{5. Visualize table itens.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/56d36f0f-688c-45c5-af2c-ca8bcb5e8bb8)
+
+<h1 align="center"> $$\textcolor{white}{\textnormal{6. Repeat the process inserting new itens and attributes.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/449fadb1-b6e5-4ae1-bd03-021abc94ecf9)
 
