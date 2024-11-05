@@ -25,7 +25,7 @@
 <p align="center">Select Create Table.<br>
                  <img height="320px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </p>
 
-<p align="center">Consider for this study case Defualt Settings..<br>
+<p align="center">Consider for this study case Default Settings.<br>
                  <img height="320px" src="https://github.com/user-attachments/assets/8584b8b1-75df-4dd7-bc26-b1e7a34c2dab"> </p>
 
 
