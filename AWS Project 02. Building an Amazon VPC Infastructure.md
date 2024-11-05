@@ -1,6 +1,6 @@
 <h3> -----  under construction  --- </h3>
 <h1>AWS, Building an Amazon VPC infrastructure</h1>
-<p>November 4, 2024<br></p>
+<p>November 5, 2024<br></p>
 
 
 <p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. It´s key part of my AWS hands-on journey. Let´s get started!!</p>
