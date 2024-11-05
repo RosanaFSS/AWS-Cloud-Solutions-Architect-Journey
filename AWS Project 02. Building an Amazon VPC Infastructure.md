@@ -36,7 +36,7 @@
 <ul style="list-style-type:square">
     <li>Resources to create: Choose  VPC only.</li>
     <li>Name tag - optional: Enter Lab VPC.</li>
-    <li>Pv4 CIDR: Enter 10.0.0.0/16./li>
+    <li>IPv4 CIDR: Enter 10.0.0.0/16.</li>
 </ul>
    <p>- 04 - Choose <code>Create VPC</code>.</p>
 
