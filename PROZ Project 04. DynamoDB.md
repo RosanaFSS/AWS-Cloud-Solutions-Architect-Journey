@@ -34,7 +34,7 @@
 <h4 align="center">Table created successfully!<br>
                  <img height="320px" src="https://github.com/user-attachments/assets/836bb0fb-9b99-4fd2-8e38-a7e355940582"> </h4>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{Access the table created.}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{2. Access the table created.}}$$ </h1>
 
 
 ![image](https://github.com/user-attachments/assets/ff61c100-c413-49d5-ad09-ce8135c181f6)
