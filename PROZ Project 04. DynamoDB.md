@@ -89,12 +89,13 @@
 
 ![image](https://github.com/user-attachments/assets/1f3e8158-ec3b-4735-80c3-4da11f54d4a6)
 
+<h1 align="center"> $$\textcolor{white}{\textnormal{8. Query through secondary indexes.}}$$ </h1>
+
 
 ![image](https://github.com/user-attachments/assets/4b235d1d-b517-41fb-993e-00b9e3b0c177)
 
 ![image](https://github.com/user-attachments/assets/fa2e96ab-1294-4fce-99aa-c8dc4cdb10cf)
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{6. Query table through PartiQL.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/1224005b-4dd1-4b4d-a170-2419e5cc5c4a)
 
@@ -106,7 +107,7 @@
 
 ![image](https://github.com/user-attachments/assets/edccbbbc-97ae-467e-ab95-9514eef4aaab)
 
-<p>Lambda</p>
+<h1 align="center"> $$\textcolor{white}{\textnormal{9. Integrate back-end and DynamoDB.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/745a2d15-9419-46ba-bc12-bb2c6c5ba469)
 
@@ -129,49 +130,4 @@
 ![image](https://github.com/user-attachments/assets/adb6e98a-7c39-4186-8ef0-4f531bce5a56)
 
 ![image](https://github.com/user-attachments/assets/dcc78b02-4761-4c73-8e4e-7d23dc1fb737)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
