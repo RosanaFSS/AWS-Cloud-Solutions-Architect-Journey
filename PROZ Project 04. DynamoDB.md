@@ -9,8 +9,8 @@
     <li>1. Sign in to the AWS Console and open the DynamoDB console.</li>
     <li>2. Create an Amazon DynamoDB table.</li>
     <li>3. Access the table created.</li>
-    <li>4. Update the table creating new itens.</li>
-    <li>5. Visualize table itens.</li>
+    <li>4. Write and read data to a DynamoDB table.</li>
+    <li>5. Update and visualize data in a DynamoDB table.</li>
     <li>6. Repeat the process inserting new itens and attributes.</li>
     <li>7. Query table through PartiQL.</li>
     <li>8. Query through secondary indexes.</li>
@@ -40,11 +40,11 @@
 
 <p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/ff61c100-c413-49d5-ad09-ce8135c181f6"> </p>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{4. Update the table creating new itens.}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{4. Write and read data to a DynamoDB table.}}$$ </h1>
 
 <p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/10e39053-00dd-44e2-ba30-e5ca6bf7f03e"> </p>
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{5. Visualize table itens.}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{5. Update and visualize data in a DynamoDB table.}}$$ </h1>
 
 <p align="center"> <img width="850px" src="https://github.com/user-attachments/assets/56d36f0f-688c-45c5-af2c-ca8bcb5e8bb8"> </p>
 
@@ -90,8 +90,6 @@
 
 
 ![image](https://github.com/user-attachments/assets/1f3e8158-ec3b-4735-80c3-4da11f54d4a6)
-
-<h1 align="center"> $$\textcolor{white}{\textnormal{8. Query through secondary indexes.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/4b235d1d-b517-41fb-993e-00b9e3b0c177)
 
