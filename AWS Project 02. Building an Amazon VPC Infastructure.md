@@ -50,7 +50,7 @@
 
 <p align="center">  <img width="1000px" src="https://github.com/user-attachments/assets/b2a54727-ea73-4aba-9042-73e593955e08"> </p>
 
-   <p>- 06 - From the same page, choose <code>Actions</code>code> and choose <code>Edit VPC Settings</code>.</p>
+   <p>- 06 - From the same page, choose <code>Actions</code> and choose <code>Edit VPC Settings</code>.</p>
    <p>- 07 - From the <code>DNS settings</code> section, select <code>Enable DNS hostnames</code>.</p>
    <p>- 08 - Choose <code>Save</code>.</p>
 
