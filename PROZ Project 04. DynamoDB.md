@@ -1,8 +1,5 @@
 
-<p align="center"> <img height="400px" src="https://github.com/user-attachments/assets/236bcbec-c267-482a-888b-ac7584f1bff6"> </p>
-
-![image](https://github.com/user-attachments/assets/236bcbec-c267-482a-888b-ac7584f1bff6)
-
+<p align="center"> <img height="200px" src="https://github.com/user-attachments/assets/236bcbec-c267-482a-888b-ac7584f1bff6"> </p>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{Objectives}}$$ </h1>
 <ul style="list-style-type:square">
