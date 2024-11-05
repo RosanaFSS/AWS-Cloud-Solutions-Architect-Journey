@@ -4,7 +4,7 @@
 
 <p align="center"> <img height="250px" src="https://github.com/user-attachments/assets/236bcbec-c267-482a-888b-ac7584f1bff6"> </p>
 
-<h1 align="left"> $$\textcolor{white}{\textnormal{Objectives}}$$ </h1>
+<h1 align="left"> $$\textcolor{white}{\textnormal{Tasks}}$$ </h1>
 <ul style="list-style-type:square">
     <li>Create a DynamoDB database.</li>
     <li>Access the database created.</li>
@@ -17,7 +17,8 @@
 </ul></p><br>
 
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{Create a DynamoDB database}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{Create an Amazon DynamoDB database}}$$ </h1>
+<h3 align="left"> $$\textcolor{white}{\textnormal{Access Amazon DynamoDB service through AWS Management Console}}$$ </h3>
 
 <p align="center"> <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </p><br>
 
