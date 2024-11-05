@@ -84,7 +84,30 @@
 
 ![image](https://github.com/user-attachments/assets/b0ba06cc-d48d-4e43-86cf-bebea6ec5fee)
 
-![image](https://github.com/user-attachments/assets/7838200a-a0a2-4820-b23c-86cb7361c9c9)
+![image](https://github.com/user-attachments/assets/acb88ce2-662b-4ef4-84f7-a67c9ef5735c)
+
+![image](https://github.com/user-attachments/assets/edccbbbc-97ae-467e-ab95-9514eef4aaab)
+
+<p>Lambda</p>
+
+![image](https://github.com/user-attachments/assets/745a2d15-9419-46ba-bc12-bb2c6c5ba469)
+
+![image](https://github.com/user-attachments/assets/3e4366c1-726f-4804-b261-e781dd07ac02)
+
+![image](https://github.com/user-attachments/assets/4681d0f0-718c-476a-91e1-ff0e519fe038)
+
+![image](https://github.com/user-attachments/assets/a109baa5-4005-4168-9a53-e37ef9268faa)
+
+![image](https://github.com/user-attachments/assets/7cb89968-57f6-47de-bbfd-a9d8f6e8ee67)
+
+![image](https://github.com/user-attachments/assets/50f2515c-603b-409d-80d7-c52f0b2febc4)
+
+
+
+
+
+
+
 
 
 
