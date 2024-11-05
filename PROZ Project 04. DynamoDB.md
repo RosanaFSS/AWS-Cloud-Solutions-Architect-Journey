@@ -15,7 +15,7 @@
     <li> 7. Query table through PartiQL.</li>
     <li> 8. Query through secondary indexes.</li>
     <li> 9. Integrate back-end and DynamoDB.</li>
-    <li>10. Clean u´p.</li>
+    <li>10. Clean up.</li>
 </ul></p><br>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{1. Sign in to the AWS Console and open the DynamoDB console.}}$$ </h1>
@@ -128,6 +128,8 @@
 ![image](https://github.com/user-attachments/assets/75348a02-c119-4920-96e4-793fc47efb05)
 
 ![image](https://github.com/user-attachments/assets/adb6e98a-7c39-4186-8ef0-4f531bce5a56)
+
+<h1 align="center"> $$\textcolor{white}{\textnormal{10. Clean up.}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/dcc78b02-4761-4c73-8e4e-7d23dc1fb737)
 
