@@ -20,7 +20,7 @@
 <h1 align="center"> $$\textcolor{white}{\textnormal{1. Sign in to the AWS Console and open the DynamoDB console.}}$$ </h1>
 
 <h3 align="center">Access Amazon DynamoDB service through AWS Management Console.<br>
-                 <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </h3>
+                 <img width="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </h3>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{2. Create an Amazon DynamoDB table.}}$$ </h1>
 
