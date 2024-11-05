@@ -24,8 +24,7 @@
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{2. Create an Amazon DynamoDB table.}}$$ </h1>
 
-<h3 align="center">Choose Create Table.<br>
-                  >Enter the Table details:Table name, Partition key, and Sort key.
+<h3 align="center">Choose Create Table. Enter the Table details:Table name (music), Partition key (artist), and Sort key (song title).
                  <img height="320px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </h3>
 
 <h3 align="center">Consider for this study case Default Settings.<br>
