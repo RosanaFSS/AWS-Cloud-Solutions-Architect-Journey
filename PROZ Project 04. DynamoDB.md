@@ -24,17 +24,17 @@
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{2. Create an Amazon DynamoDB table.}}$$ </h1>
 
-<h3 align="center">Choose Create Table. Enter the Table details:Table name (music), Partition Key (artist), and Sort Key (song_title).
-                 <img width="320px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </h3>
+<h3 align="center">Choose Create Table. Enter the Table details:Table name (music), Partition Key (artist), and Sort Key (song_title).<br>
+                 <img width="600px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </h3>
 
 <h3 align="center">Consider for this study case Default Settings.<br>
-                 <img width="320px" src="https://github.com/user-attachments/assets/8584b8b1-75df-4dd7-bc26-b1e7a34c2dab"> </h3>
+                 <img width="600px" src="https://github.com/user-attachments/assets/8584b8b1-75df-4dd7-bc26-b1e7a34c2dab"> </h3>
 
 <h3 align="center">After clicking Creat Table it will take a brief while to complete the operation.<br>
-                 <img width="320px" src="https://github.com/user-attachments/assets/53fba642-da38-48eb-96f8-7ef473c2aa09"> </h3>
+                 <img width="600px" src="https://github.com/user-attachments/assets/53fba642-da38-48eb-96f8-7ef473c2aa09"> </h3>
 
 <h3 align="center">Table created successfully!<br>
-                 <img width="320px" src="https://github.com/user-attachments/assets/836bb0fb-9b99-4fd2-8e38-a7e355940582"> </h3>
+                 <img width="600px" src="https://github.com/user-attachments/assets/836bb0fb-9b99-4fd2-8e38-a7e355940582"> </h3>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{2. Access the table created.}}$$ </h1>
 
