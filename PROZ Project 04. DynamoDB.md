@@ -6,7 +6,7 @@
 
 <h1 align="left"> $$\textcolor{white}{\textnormal{Objectives}}$$ </h1>
 <ul style="list-style-type:square">
-    <li>Create an DynamoDB database.</li>
+    <li>Create a DynamoDB database.</li>
     <li>Access the database created.</li>
     <li>Update the database creating new itens.</li>
     <li>Query database itens.</li>
@@ -17,4 +17,4 @@
 </ul></p><br>
 
 
-<h1 align="left"> $$\textcolor{white}{\textnormal{Create an DynamoDB database}}$$ </h1>
+<h1 align="left"> $$\textcolor{white}{\textnormal{Create a DynamoDB database}}$$ </h1>
