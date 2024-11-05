@@ -6,18 +6,18 @@
 
 <h1 align="left"> $$\textcolor{white}{\textnormal{Tasks}}$$ </h1>
 <ul style="list-style-type:square">
-    <li>Create an Amazon DynamoDB table.</li>
-    <li>Access the table created.</li>
-    <li>Update the table creating new itens.</li>
-    <li>Query table itens.</li>
-    <li>Repeat the process inserting new itens.</li>
-    <li>Query dtabase through PartiQL.</li>
-    <li>Query through secondary indexes.</li>
-    <li>Integrate back-end and DynamoDB.</li>
+    <li>1. Create an Amazon DynamoDB table.</li>
+    <li>2. Access the table created.</li>
+    <li>3. Update the table creating new itens.</li>
+    <li>4. Query table itens.</li>
+    <li>5. Repeat the process inserting new itens.</li>
+    <li>6. Query dtabase through PartiQL.</li>
+    <li>7. Query through secondary indexes.</li>
+    <li>8.Integrate back-end and DynamoDB.</li>
 </ul></p><br>
 
 
-<h1 align="center"> $$\textcolor{white}{\textnormal{Create an Amazon DynamoDB table.}}$$ </h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{1. Create an Amazon DynamoDB table.}}$$ </h1>
 
 <h4 align="center">Access Amazon DynamoDB service through AWS Management Console.<br>
                  <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </h4>
