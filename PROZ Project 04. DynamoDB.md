@@ -19,21 +19,20 @@
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{Create an Amazon DynamoDB database}}$$ </h1>
 
-<h3 align="center">Access Amazon DynamoDB service through AWS Management Console.<br>
-                 <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </h3>
+<h4 align="center">Access Amazon DynamoDB service through AWS Management Console.<br>
+                 <img height="320px" src="https://github.com/user-attachments/assets/8bec975c-a2c0-4578-9202-ee5f61a360b5"> </h4>
 
-<p align="center">Select Create Table.<br>
-                 <img height="320px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </p>
+<h4 align="center">Select Create Table.<br>
+                 <img height="320px" src="https://github.com/user-attachments/assets/dddd2c01-65d3-44b3-bba2-d3400724e330"> </h4>
 
-<p align="center">Consider for this study case Default Settings.<br>
-                 <img height="320px" src="https://github.com/user-attachments/assets/8584b8b1-75df-4dd7-bc26-b1e7a34c2dab"> </p>
+<h4 align="center">Consider for this study case Default Settings.<br>
+                 <img height="320px" src="https://github.com/user-attachments/assets/8584b8b1-75df-4dd7-bc26-b1e7a34c2dab"> </h4>
 
-<p align="center">After clicking Creat Table it will take a brief while to complete the operation.<br>
-                 <img height="320px" src="https://github.com/user-attachments/assets/53fba642-da38-48eb-96f8-7ef473c2aa09"> </p>
+<h4 align="center">After clicking Creat Table it will take a brief while to complete the operation.<br>
+                 <img height="320px" src="https://github.com/user-attachments/assets/53fba642-da38-48eb-96f8-7ef473c2aa09"> </h4>
 
-
-<p align="center">Table created successfully!<br>
-                 <img height="320px" src="https://github.com/user-attachments/assets/836bb0fb-9b99-4fd2-8e38-a7e355940582"> </p>
+<h4 align="center">Table created successfully!<br>
+                 <img height="320px" src="https://github.com/user-attachments/assets/836bb0fb-9b99-4fd2-8e38-a7e355940582"> </h4>
 
 <h1 align="center"> $$\textcolor{white}{\textnormal{Acces the table created.}}$$ </h1>
 
