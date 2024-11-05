@@ -7,7 +7,7 @@
 <h1 align="left"> $$\textcolor{white}{\textnormal{Tasks}}$$ </h1>
 <ul style="list-style-type:square">
     <li>Create an Amazon DynamoDB table.</li>
-    <li>Access the database created.</li>
+    <li>Access the table created.</li>
     <li>Update the database creating new itens.</li>
     <li>Query database itens.</li>
     <li>Repeat the process inserting new itens.</li>
@@ -34,6 +34,8 @@
 
 <p align="center">Table created successfully!<br>
                  <img height="320px" src="https://github.com/user-attachments/assets/836bb0fb-9b99-4fd2-8e38-a7e355940582"> </p>
+
+<h1 align="center"> $$\textcolor{white}{\textnormal{Acces the table created.}}$$ </h1>
 
 
 
