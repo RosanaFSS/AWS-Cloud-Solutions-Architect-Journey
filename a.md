@@ -1,23 +1,11 @@
 <h3>CloudFaster Academy, ADVC Program</h3>
-<h1>AWS Provision a highly available web environment</h1>
 <p>November 5, 2024<br></p>
 
-
 ![image](https://github.com/user-attachments/assets/94b37be4-0192-4c35-a499-a3bc5f4b4648)
-
-<p>Descrição:
-
-Imagens de máquina da Amazon (AMI)
-
-Uma Imagem de Máquina da Amazon (AMI) é um modelo que contém as informações necessárias para iniciar uma instância EC2. Ela inclui um ou mais snapshots do EBS, permissões de execução e um mapeamento de dispositivos de bloco. Você pode usar uma AMI existente, personalizar a instância e salvar essa configuração como uma AMI personalizada. As AMIs podem ser públicas, privadas ou compartilhadas com contas específicas. A Amazon oferece o Amazon Linux 2023, uma AMI otimizada para o EC2, sem custo adicional.
-
-
 
 Conteúdo do laboratório
 
 Neste laboratório iremos criar uma Instância, criar uma AMI a partir da Instância e subir uma nova instância com a AMI criada.
-
-
 
 Arquitetura do laboratório</p>
 
