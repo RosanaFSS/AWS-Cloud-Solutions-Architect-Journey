@@ -23,7 +23,7 @@ Tarefas a serem executadas
 6. Crie o bucket.
 7. Verifique a criação do bucket.
 
-8. 
+
 
 
 
