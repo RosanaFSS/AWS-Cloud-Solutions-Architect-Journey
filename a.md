@@ -62,5 +62,12 @@ Para testarmos, abra um navegador de sua preferência e cole o "endereço IPv4 p
 ![image](https://github.com/user-attachments/assets/8819a83f-4215-437d-a8dc-ecbce0e278bc)
 
 
+<p>Labs</p>
+<div align="center">
+
+| Date                  | Completed       | Available       | Blocked         | Total           |         
+| :-------------------- | :-------------: | :-------------: | :-------------: | :-------------: |
+| November 5, 2024      |         89, 75% |              24 |               5 |             118 |
 
 
+</div>
