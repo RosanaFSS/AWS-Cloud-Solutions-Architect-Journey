@@ -24,17 +24,16 @@ November 19, 2024</p>
 <h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Criando e Configurando uma VPC com o VPC Wizard}}$$<br>
 $$\textcolor{white}{\textnormal{Prática}}$$ </h1>
 <br>
+<br>
 <h3 align="center"> $$\textcolor{white}{\textnormal{Passo 1: Acesse a Console de Gerenciamento AWS}}$$ </h3>
 
+<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/2d22bbd6-c44c-48a5-af1a-1da5ce772fd9"> </p>
 
-![image](https://github.com/user-attachments/assets/1d695c60-de1f-4ef4-b8bb-a06432c3d916)
-
+<br>
 <h3 align="center"> $$\textcolor{white}{\textnormal{Passo 2: ANavegue até o serviço VPC}}$$ </h3>
 
-![image](https://github.com/user-attachments/assets/471abf55-a774-4f2e-bf05-e75abc54d2d6)
+<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/21269169-b41e-4de9-8950-b70fe6ab60a9"> </p>
 
-3. Crie um novo bucket
 
-![image](https://github.com/user-attachments/assets/bd809f4b-5001-4ee5-a3bb-59b3d5fa9ffd)
 
-4. Preencha as Configurações do Bucket
+
