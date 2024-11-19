@@ -17,7 +17,7 @@ November 19, 2024</p>
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/ac54e633-8806-4b69-95b1-4482cc52e15d"> </p>
 
 <h2  align="center" class="bold" style="font-weight: bold">Tasks</h2>
-<p align="center">1. Access the AWS Management Console<br> 2. Navigate to the Amazon VPC service<br>3. Create a VPC<br>4. Create Public and Private Subnets in 2 AZ´s</p>
+<p align="center">1. Access the AWS Management Console<br> 2. Navigate to the Amazon VPC service<br>3. Create a VPC<br>4. Create Public and Private Subnets in different AZ´s</p>
 
 <br>
 <p align="center">...</p>
@@ -43,7 +43,7 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/25762876-470a-4c49-b15c-de227f964494"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Step 4 - Create 2Public Subnets and 2 Private Subnets in 2 Availability Zones}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 4 - Create Public and Private Subnets in different AZ´s}}$$ </h3>
 
 <p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/46d24cf8-1e94-4247-aca3-487c486f2ed4"> </p>
 
