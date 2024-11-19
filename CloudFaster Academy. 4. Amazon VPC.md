@@ -25,25 +25,26 @@ November 19, 2024</p>
 $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 <br>
 <br>
-<h3 align="center"> $$\textcolor{white}{\textnormal{Step 1: Access the AWS Management Console}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 1 - Access the AWS Management Console}}$$ </h3>
 <p align="center">Go to the AWS website and log in using your credentials.</p>
 
 <p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/2d22bbd6-c44c-48a5-af1a-1da5ce772fd9"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Step 2: Navigate to the VPC service}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 2 - Navigate to the VPC service}}$$ </h3>
 <p align="center"> Click <code>services</code> and select <code>VPC</code> in the <code>networking and content delivery</code> section.</p>
 
 <p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/21269169-b41e-4de9-8950-b70fe6ab60a9"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Step 3: Create a VPC}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 3 - Create a VPC}}$$ </h3>
+<p align="center"> Click <code>Create VPC</code>.</p>
 
 <p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/25762876-470a-4c49-b15c-de227f964494"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Step 4: Create 2Public Subnets and 2 Private Subnets in 2 Availability Zones}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 4 - Create 2Public Subnets and 2 Private Subnets in 2 Availability Zones}}$$ </h3>
 
 <p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/46d24cf8-1e94-4247-aca3-487c486f2ed4"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 5: Crie 2 sub-redes públicas e 2 sub-redes privadas em 2 AZ´s}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 5 - Crie 2 sub-redes públicas e 2 sub-redes privadas em 2 AZ´s}}$$ </h3>
 
 Role a página para cima e verá um diagrama, como indicado abaix
 
