@@ -13,12 +13,12 @@ November 19, 2024</p>
 
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
 
-<br>
+<br><br>
 <h2  align="center" class="bold" style="font-weight: bold">Arquitetura</h2>
 
 ![image](https://github.com/user-attachments/assets/ac54e633-8806-4b69-95b1-4482cc52e15d)
 
-<br>
+<br><br>
 <h2  align="center" class="bold" style="font-weight: bold">Tarefas</h2>
 
 1. Acesse a console de gerenciamento da AWS.
