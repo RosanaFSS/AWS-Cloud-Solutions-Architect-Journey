@@ -8,36 +8,38 @@ November 19, 2024</p>
 <p align="center">O Amazon Virtual Private Cloud (<code>Amazon VPC</code>) oferece controle total sobre seu ambiente de rede virtual, incluindo posicionamento de recursos, conectividade e segurança. Comece a usar configurando sua VPC no console de serviço AWS. A VPC é o local onde podemos adicionar diversos recursos, como instâncias do Amazon Elastic Compute Cloud (EC2) e o Amazon Relational Database Service (RDS). Além disso, você pode configurar como suas VPCs se comunicam entre si, entre contas, zonas de disponibilidade (AZs) ou regiões da AWS.
 
 <br>
-<h2  align="center" class="bold" style="font-weight: bold">Conteúdo</h2>
-<p align="center">Neste laboratório você ira aprender a criar e configurar uma Virtual Private Cloud (VPC).</p>
+<h2  align="center" class="bold" style="font-weight: bold">Content</h2>
+<p align="center">In this lab you will learn how to create and configure an Amazon Virtual Private Cloud (VPC).</p>
 
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
 
-<h2  align="center" class="bold" style="font-weight: bold">Arquitetura</h2>
+<h2  align="center" class="bold" style="font-weight: bold">Architecture</h2>
 
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/ac54e633-8806-4b69-95b1-4482cc52e15d"> </p>
 
-<h2  align="center" class="bold" style="font-weight: bold">Tarefas</h2>
-<p align="center">1. Acesse a console de gerenciamento da AWS<br> 2. Navegue até o serviço VPC<br>3. Crie uma VPC<br>4. Crie subnets</p>
+<h2  align="center" class="bold" style="font-weight: bold">Tasks</h2>
+<p align="center">1. Access the AWS Management ConsoleS<br> 2. Navigate to the Amazon VPC service<br>3. Create a VPC<br>4. reate 2Public Subnets and 2 Private Subnets in 2 AZ´s</p>
 
 <br>
-<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Criando e Configurando uma VPC com o VPC Wizard}}$$<br>
-$$\textcolor{white}{\textnormal{Prática}}$$ </h1>
+<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Creating and Configuring a VPC with VPC Wizard}}$$<br>
+$$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 <br>
 <br>
-<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 1: Acesse a Console de Gerenciamento AWS}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 1: Access the AWS Management Console}}$$ </h3>
+<p>Go to the AWS website and log in using your credentials.</p>
 
 <p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/2d22bbd6-c44c-48a5-af1a-1da5ce772fd9"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 2: Navegue até o serviço VPC}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 2: Navigate to the VPC service}}$$ </h3>
+<p> Click <code>services</code> and select <code>VPC</code> in the <code>networking and content delivery</code> section.</p>
 
 <p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/21269169-b41e-4de9-8950-b70fe6ab60a9"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 3: Crie uma nova VPC}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 3: Create a VPC}}$$ </h3>
 
 <p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/25762876-470a-4c49-b15c-de227f964494"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 4: Crie 2 sub-redes públicas e 2 sub-redes privadas em 2 AZ´s}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Step 4: Create 2Public Subnets and 2 Private Subnets in 2 Availability Zones}}$$ </h3>
 
 <p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/46d24cf8-1e94-4247-aca3-487c486f2ed4"> </p>
 
