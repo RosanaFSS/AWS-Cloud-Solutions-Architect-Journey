@@ -16,6 +16,7 @@
 
 ![image](https://github.com/user-attachments/assets/ac54e633-8806-4b69-95b1-4482cc52e15d)
 
+<br>
 <h2>Tarefas a serem executadas</h2>
 
 1. Acesse a console de gerenciamento da AWS.
@@ -23,8 +24,8 @@
 3. Crie uma VPC.
 4. Crie subnets.
 
-
-
+<br>
+<h2>Passo 1: Faça login na AWS</h2>
 
 Passo 1: Faça login na AWS
 
