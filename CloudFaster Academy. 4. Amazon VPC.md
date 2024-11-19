@@ -23,8 +23,8 @@ November 19, 2024</p>
 <p align="center">1. Acesse a console de gerenciamento da AWS<br> 2. Navegue até o serviço VPC<br>3. Crie uma VPC<br>4. Crie subnets</p>
 
 <br>
-<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Criando e Configurando uma VPC com o VPC Wizard}}$$ </h1>
-<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Prática}}$$ </h1>
+<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Criando e Configurando uma VPC com o VPC Wizard}}$$<br>
+$$\textcolor{white}{\textnormal{Prática}}$$ </h1>
 <br>
 <h2>Passo 1: Faça login na AWS</h2>
 
