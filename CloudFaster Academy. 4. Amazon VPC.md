@@ -1,5 +1,5 @@
-<h2>CoudFaster Academy, Programa ADVC</h2>
-<p>November 19, 2024<br></p>
+<h2>CoudFaster Academy, Programa ADVC<br>
+Novembro 19, 2024</h2>
 <br>
 
 <h1>Amazon VPC</h1>
