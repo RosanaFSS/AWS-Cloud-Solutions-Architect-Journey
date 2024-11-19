@@ -38,21 +38,21 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/87bf68b4-20ee-4acc-8695-6f74d0d8ff30"> </p>
 
+<br>
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 3 - Start creating a new VPC}}$$ </h3>
 <p align="left">Click <code>Create VPC</code>.</p>
 
 <p align="left"> <img width="400px" src="https://github.com/user-attachments/assets/25762876-470a-4c49-b15c-de227f964494"> </p>
 
+<br>
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 4 - Create Public and Private Subnets in different AZ´s}}$$ </h3>
 <p align="left">It is possible to create several AZ's (1, 2 or 3) and determine the number of public and private subnets. In this lab, we will create two public subnets and two private subnets, so that we have two availability zones (AZ).</p>
 
 <p align="left"> <img width="400px" src="https://github.com/user-attachments/assets/46d24cf8-1e94-4247-aca3-487c486f2ed4"> </p>
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{Step 5 - Crie 2 sub-redes públicas e 2 sub-redes privadas em 2 AZ´s}}$$ </h3>
+<p align="left">Scroll up and you will see a diagram, as shown below.</p>
 
-Role a página para cima e verá um diagrama, como indicado abaix
-
-![image](https://github.com/user-attachments/assets/8836ca02-6a38-4134-b86b-edb065035446)
+<p align="left"> <img width="400px" src="https://github.com/user-attachments/assets/8836ca02-6a38-4134-b86b-edb065035446"> </p>
 
 Role a página para baixo e clique em "criar VPC".
 Agora, podemos ver a AWS provisionando a VPC. Clique em "visualizar VPC".
