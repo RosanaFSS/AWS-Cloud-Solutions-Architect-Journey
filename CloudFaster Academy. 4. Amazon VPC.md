@@ -29,7 +29,7 @@ $$\textcolor{white}{\textnormal{Prática}}$$ </h1>
 
 ![image](https://github.com/user-attachments/assets/1d695c60-de1f-4ef4-b8bb-a06432c3d916)
 
-2. Navegue até o Amazon S3.
+<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 2: ANavegue até o serviço VPC}}$$ </h3>
 
 ![image](https://github.com/user-attachments/assets/471abf55-a774-4f2e-bf05-e75abc54d2d6)
 
