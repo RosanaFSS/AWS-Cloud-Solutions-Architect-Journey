@@ -11,7 +11,7 @@ November 19, 2024</p>
 <h2  align="center" class="bold" style="font-weight: bold">Conteúdo</h2>
 <p>Neste laboratório você ira aprender a criar e configurar uma Virtual Private Cloud (VPC).</p>
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
+<p align="center"> <img width="500px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
 
 <br>
 <h2  align="center" class="bold" style="font-weight: bold">Arquitetura</h2>
