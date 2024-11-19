@@ -32,12 +32,12 @@ $$\textcolor{white}{\textnormal{Prática}}$$ </h1>
 <br>
 <h3 align="center"> $$\textcolor{white}{\textnormal{Passo 2: Navegue até o serviço VPC}}$$ </h3>
 
-<p align="center"> <img width="500px" src="https://github.com/user-attachments/assets/21269169-b41e-4de9-8950-b70fe6ab60a9"> </p>
+<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/21269169-b41e-4de9-8950-b70fe6ab60a9"> </p>
 
 <br>
 <h3 align="center"> $$\textcolor{white}{\textnormal{Passo 3: Crie uma nova VPC}}$$ </h3>
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/ef6f8c32-cd38-4697-8660-ca28c5b28d1a"> </p>
+<p align="center"> <img width="500px" src="https://github.com/user-attachments/assets/ef6f8c32-cd38-4697-8660-ca28c5b28d1a"> </p>
 
 <br>
 <h3 align="center"> $$\textcolor{white}{\textnormal{Passo 4: Crie sub-redes}}$$ </h3>
