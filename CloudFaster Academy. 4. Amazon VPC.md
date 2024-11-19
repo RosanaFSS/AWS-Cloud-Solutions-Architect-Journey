@@ -68,5 +68,6 @@ Now, we can see AWS provisioning the VPC. Click <code>View VPC</code>.</p>
 
 <br>
 <h3 align="left"> $$\textcolor{white}{\textnormal{Conclusion}}$$ </h3>
+<p align="left">n this lab, you learned how to create and configure a Virtual Private Cloud (VPC). We hope you gained a solid understanding of how to create and configure your Virtual Private Cloud on AWS.</p>
 
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/2480520a-e321-4f9e-b638-204244d104c7"> </p>
