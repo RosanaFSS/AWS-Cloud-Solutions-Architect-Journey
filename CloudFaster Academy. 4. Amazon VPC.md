@@ -53,7 +53,7 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 <br>
 <p align="left">Scroll up and you will see a diagram, as shown below.</p>
 
-<p align="left"> <img width="400px" src="https://github.com/user-attachments/assets/8836ca02-6a38-4134-b86b-edb065035446"> </p>
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/8836ca02-6a38-4134-b86b-edb065035446"> </p>
 
 <br>
 <p align="left">Scroll down the page and click <code>Create VPC</code>.<br>
