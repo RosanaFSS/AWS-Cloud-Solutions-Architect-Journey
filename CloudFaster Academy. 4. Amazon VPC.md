@@ -20,19 +20,19 @@ November 19, 2024</p>
 <p align="center">1. Access the AWS Management Console<br> 2. Navigate to the Amazon VPC service<br>3. Create a VPC<br>4. Create Public and Private Subnets in 2 AZ´s</p>
 
 <br>
-<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Creating and Configuring a VPC with VPC Wizard}}$$<br>
+<h1 align="left"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Creating and Configuring a VPC with VPC Wizard}}$$<br>
 $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 <br>
 <br>
-<h3 align="center"> $$\textcolor{white}{\textnormal{Step 1 - Access the AWS Management Console}}$$ </h3>
-<p align="center">Go to the AWS website and log in using your credentials.</p>
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 1 - Access the AWS Management Console}}$$ </h3>
+<p align="left">Go to the AWS website and log in using your credentials.</p>
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/2d22bbd6-c44c-48a5-af1a-1da5ce772fd9"> </p>
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/2d22bbd6-c44c-48a5-af1a-1da5ce772fd9"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Step 2 - Navigate to the VPC service}}$$ </h3>
-<p align="center"> Click <code>services</code> and select <code>VPC</code> in the <code>networking and content delivery</code> section.</p>
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 2 - Navigate to the VPC service}}$$ </h3>
+<p align="left"> Click <code>services</code> and select <code>VPC</code> in the <code>networking and content delivery</code> section.</p>
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/21269169-b41e-4de9-8950-b70fe6ab60a9"> </p>
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/21269169-b41e-4de9-8950-b70fe6ab60a9"> </p>
 
 <h3 align="center"> $$\textcolor{white}{\textnormal{Step 3 - Create a VPC}}$$ </h3>
 <p align="center"> Click <code>Create VPC</code>.</p>
