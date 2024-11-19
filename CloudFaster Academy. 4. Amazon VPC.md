@@ -32,8 +32,7 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/95182420-3ff9-4ac6-b6ff-45e1df9a365e"> </p>
 
-<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/2d22bbd6-c44c-48a5-af1a-1da5ce772fd9"> </p>
-
+<br>
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 2 - Navigate to the Amazon VPC service}}$$ </h3>
 <p align="left"> Click <code>services</code> and select <code>VPC</code> in the <code>networking and content delivery</code> section.</p>
 
