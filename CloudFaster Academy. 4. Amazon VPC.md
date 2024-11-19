@@ -15,7 +15,7 @@ November 19, 2024</p>
 
 <h2  align="center" class="bold" style="font-weight: bold">Arquitetura</h2>
 
-![image](https://github.com/user-attachments/assets/ac54e633-8806-4b69-95b1-4482cc52e15d)
+<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/ac54e633-8806-4b69-95b1-4482cc52e15d"> </p>
 
 <br>
 <h2  align="center" class="bold" style="font-weight: bold">Tarefas</h2>
