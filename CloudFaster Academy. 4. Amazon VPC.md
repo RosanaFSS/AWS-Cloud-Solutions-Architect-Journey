@@ -4,28 +4,23 @@
 ![image](https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d)
 
 
-![image](https://github.com/user-attachments/assets/eb99cf4b-84cd-4bdf-abcc-ba7ae6436a3c)
-
 Conteúdo do laboratório
 
-Neste laboratório você aprenderá a provisionar seu primeiro bucket no Amazon S3.
+Neste laboratório você ira aprender a criar e configurar uma Virtual Private Cloud (VPC).
 
 
 
 Arquitetura do laboratório
 
-![image](https://github.com/user-attachments/assets/a9b97665-4bd5-48e6-bea8-d0083d639290)
+![image](https://github.com/user-attachments/assets/ac54e633-8806-4b69-95b1-4482cc52e15d)
+
 
 Tarefas a serem executadas
 
-1. Faça login na AWS.
-2. Navegue até o Amazon S3.
-3. Crie um novo bucket
-4. Preencha as Configurações do Bucket
-5. Configure o versionamento. 
-6. Revise as configurações.
-7. Finalize a Criação do Bucket
-8. Verifique a Criação do Bucket
+1. Acesse a console de gerenciamento da AWS.
+2. Navegue até o serviço VPC.
+3. Crie uma VPC.
+4. Crie subnets.
 
 
 
