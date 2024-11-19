@@ -10,7 +10,7 @@ November 19, 2024</p>
 <h2  align="center" class="bold" style="font-weight: bold">Content</h2>
 <p align="center">In this lab you will learn how to create and configure an Amazon Virtual Private Cloud (VPC).</p>
 
-<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
+<p align="center"> <img width="950px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
 
 <h2  align="center" class="bold" style="font-weight: bold">Architecture</h2>
 
