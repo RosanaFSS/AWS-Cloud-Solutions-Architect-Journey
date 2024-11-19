@@ -61,6 +61,7 @@ Now, we can see AWS provisioning the VPC. Click <code>View VPC</code>.</p>
 
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/7cedaaef-0960-436e-8693-49bc03cb026f"> </p>
 
+<br>
 <p align="left">In the next image, we see the VPC created.</p>
 
 ![image](https://github.com/user-attachments/assets/cd61223a-e5fb-4487-86b2-0752e562d186)
