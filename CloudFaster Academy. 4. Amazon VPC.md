@@ -41,6 +41,26 @@ $$\textcolor{white}{\textnormal{Prática}}$$ </h1>
 
 <p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/46d24cf8-1e94-4247-aca3-487c486f2ed4"> </p>
 
+<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 5: Crie 2 sub-redes públicas e 2 sub-redes privadas em 2 AZ´s}}$$ </h3>
+
+Role a página para cima e verá um diagrama, como indicado abaix
+
+![image](https://github.com/user-attachments/assets/8836ca02-6a38-4134-b86b-edb065035446)
+
+Role a página para baixo e clique em "criar VPC".
+Agora, podemos ver a AWS provisionando a VPC. Clique em "visualizar VPC".
+
+![image](https://github.com/user-attachments/assets/f5b0b4bf-9fee-4ec9-87a9-5639bfef24c4)
+
+![image](https://github.com/user-attachments/assets/7cedaaef-0960-436e-8693-49bc03cb026f)
+
+
+Nessa tela, vemos a VPC criada.
+
+![image](https://github.com/user-attachments/assets/cd61223a-e5fb-4487-86b2-0752e562d186)
+
+
+![image](https://github.com/user-attachments/assets/17af7b22-3776-49bd-b619-fbb81bdf3e62)
 
 
 
