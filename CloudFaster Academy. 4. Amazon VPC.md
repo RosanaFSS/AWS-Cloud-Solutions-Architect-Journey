@@ -37,9 +37,9 @@ $$\textcolor{white}{\textnormal{Prática}}$$ </h1>
 
 <p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/25762876-470a-4c49-b15c-de227f964494"> </p>
 
-<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 4: Crie sub-redes}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 4: Crie 2 sub-redes públicas e 2 sub-redes privadas em 2 AZ´s}}$$ </h3>
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/6f0057db-a31e-4170-a354-539ab6d252c1"> </p>
+<p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/46d24cf8-1e94-4247-aca3-487c486f2ed4"> </p>
 
 
 
