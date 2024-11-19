@@ -9,7 +9,7 @@ November 19, 2024</p>
 
 <br>
 <h2  align="center" class="bold" style="font-weight: bold">Conteúdo</h2>
-<p align="center">Neste laboratório você ira aprender a criar e configurar uma Virtual Private Cloud (VPC).<br>
+<p align="center">Neste laboratório você ira aprender a criar e configurar uma Virtual Private Cloud (VPC).</p>
 
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
 
@@ -20,11 +20,7 @@ November 19, 2024</p>
 
 <br><br>
 <h2  align="center" class="bold" style="font-weight: bold">Tarefas</h2>
-
-1. Acesse a console de gerenciamento da AWS.
-2. Navegue até o serviço VPC.
-3. Crie uma VPC.
-4. Crie subnets.
+<p align="center">1. Acesse a console de gerenciamento da AWS.<br> 2. Navegue até o serviço VPC. <br>3. Crie uma VPC. <br>4. Crie subnets.</p>
 
 <br>
 <h2>Passo 1: Faça login na AWS</h2>
