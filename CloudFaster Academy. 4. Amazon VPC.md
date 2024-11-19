@@ -24,7 +24,7 @@ November 19, 2024</p>
 <h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Criando e Configurando uma VPC com o VPC Wizard}}$$<br>
 $$\textcolor{white}{\textnormal{Prática}}$$ </h1>
 <br>
-<h3 align="center"> $$\textcolor{#33fffe}{\textnormal{Passo 1: Acesse a Console de Gerenciamento AWS}}$$ </h3>
+<h3 align="center"> $$\textcolor{white}{\textnormal{Passo 1: Acesse a Console de Gerenciamento AWS}}$$ </h3>
 
 
 ![image](https://github.com/user-attachments/assets/1d695c60-de1f-4ef4-b8bb-a06432c3d916)
