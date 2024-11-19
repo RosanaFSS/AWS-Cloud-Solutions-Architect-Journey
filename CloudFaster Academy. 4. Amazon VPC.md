@@ -37,7 +37,7 @@ $$\textcolor{white}{\textnormal{Prática}}$$ </h1>
 <br>
 <h3 align="center"> $$\textcolor{white}{\textnormal{Passo 3: Crie uma nova VPC}}$$ </h3>
 
-<p align="center"> <img width="500px" src="https://github.com/user-attachments/assets/ef6f8c32-cd38-4697-8660-ca28c5b28d1a"> </p>
+<p align="center"> <img width="500px" src="https://github.com/user-attachments/assets/25762876-470a-4c49-b15c-de227f964494"> </p>
 
 <br>
 <h3 align="center"> $$\textcolor{white}{\textnormal{Passo 4: Crie sub-redes}}$$ </h3>
