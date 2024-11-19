@@ -34,7 +34,7 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <br>
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 2 - Navigate to the Amazon VPC service}}$$ </h3>
-<p align="left"> Click <code>services</code> and select <code>VPC</code> in the <code>networking and content delivery</code> section.</p>
+<p align="left"> Click <code>Services</code> and select <code>VPC</code> in the <code>Networking and content delivery</code> section.</p>
 
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/87bf68b4-20ee-4acc-8695-6f74d0d8ff30"> </p>
 
