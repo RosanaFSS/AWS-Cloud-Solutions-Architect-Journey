@@ -5,7 +5,8 @@ November 19, 2024</p>
 
 <br>
 <h2  align="center" class="bold" style="font-weight: bold"> Amazon VPC</h2>
-<p align="center">O Amazon Virtual Private Cloud (<code>Amazon VPC</code>) oferece controle total sobre seu ambiente de rede virtual, incluindo posicionamento de recursos, conectividade e segurança. Comece a usar configurando sua VPC no console de serviço AWS. A VPC é o local onde podemos adicionar diversos recursos, como instâncias do Amazon Elastic Compute Cloud (EC2) e o Amazon Relational Database Service (RDS). Além disso, você pode configurar como suas VPCs se comunicam entre si, entre contas, zonas de disponibilidade (AZs) ou regiões da AWS.
+<p align="center">Amazon Virtual Private Cloud (<code>Amazon VPC</code>) provides you complete control over your virtual network environment, including resource placement, connectivity, and security. Get started by configuring your VPC in the AWS service console. The VPC is where we can add various resources, such as Amazon Elastic Compute Cloud (EC2) instances and Amazon Relational Database Service (RDS). Additionally, you can configure how your VPCs communicate with each other, across accounts, Availability Zones (AZs), or AWS Regions.</p>
+ 
 
 <br>
 <h2  align="center" class="bold" style="font-weight: bold">Content</h2>
