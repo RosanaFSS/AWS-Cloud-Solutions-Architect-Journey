@@ -1,6 +1,7 @@
 <h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Criando e Configurando uma VPC com o VPC Wizard}}$$ </h1>
 <p align="center">CloduFaster Academy - Programa ADVC<br>
 November 19, 2024</p>
+<br>
 
 <h1>Amazon VPC</h1>
 <p>O <code>Amazon Virtual Private Cloud (Amazon VPC)</code> oferece controle total sobre seu ambiente de rede virtual, incluindo posicionamento de recursos, conectividade e segurança. Comece a usar configurando sua VPC no console de serviço AWS. A VPC é o local onde podemos adicionar diversos recursos, como instâncias do Amazon Elastic Compute Cloud (EC2) e o Amazon Relational Database Service (RDS). Além disso, você pode configurar como suas VPCs se comunicam entre si, entre contas, zonas de disponibilidade (AZs) ou regiões da AWS.</p>
