@@ -50,12 +50,15 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <p align="left"> <img width="400px" src="https://github.com/user-attachments/assets/46d24cf8-1e94-4247-aca3-487c486f2ed4"> </p>
 
+<br>
 <p align="left">Scroll up and you will see a diagram, as shown below.</p>
 
 <p align="left"> <img width="400px" src="https://github.com/user-attachments/assets/8836ca02-6a38-4134-b86b-edb065035446"> </p>
 
-Role a página para baixo e clique em "criar VPC".
-Agora, podemos ver a AWS provisionando a VPC. Clique em "visualizar VPC".
+<br>
+<p align="left">Scroll down the page and click <code>Create VPC</code>.<br>
+Now, we can see AWS provisioning the VPC. Click <code>View VPC</code>.</p>
+
 
 ![image](https://github.com/user-attachments/assets/f5b0b4bf-9fee-4ec9-87a9-5639bfef24c4)
 
