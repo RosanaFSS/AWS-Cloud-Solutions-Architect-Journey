@@ -26,8 +26,7 @@ November 19, 2024</p>
 <br>
 <h1 align="left"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Creating and Configuring a VPC with VPC Wizard}}$$<br>
 $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
-<br>
-<br>
+
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 1 - Access the AWS Management Console}}$$ </h3>
 <p align="left">Go to the AWS website and log in using your credentials.</p>
 
