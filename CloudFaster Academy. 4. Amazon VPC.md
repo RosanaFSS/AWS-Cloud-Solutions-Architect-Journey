@@ -10,9 +10,8 @@
 
 ![image](https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d)
 
-
-
-Arquitetura do laboratório
+<br>
+<h2>Arquitetura do Laboratório</h2>
 
 ![image](https://github.com/user-attachments/assets/ac54e633-8806-4b69-95b1-4482cc52e15d)
 
