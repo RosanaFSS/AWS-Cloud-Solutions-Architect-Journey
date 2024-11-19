@@ -1,5 +1,5 @@
-<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Criando e Configurando uma VPC com o VPC Wizard}}$$ </h1>
-<p align="center">CloduFaster Academy   -   Programa ADVC<br>
+<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Creating and Configuring a VPC with VPC Wizard}}$$ </h1>
+<p align="center">CloduFaster Academy   -   ADVC Program<br>
 November 19, 2024</p>
 <br>
 
