@@ -20,7 +20,8 @@ November 19, 2024</p>
 <p align="center">1. Access the AWS Management Console<br> 2. Navigate to the Amazon VPC service<br>3. Start creating a new VPC<br>4. Create Public and Private Subnets in different AZ´s</p>
 
 <br>
-<p align="center">...</p>
+<br>
+<p align="center">Let´s start!</p>
 
 
 <br>
