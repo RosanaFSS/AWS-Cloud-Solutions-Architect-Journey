@@ -20,6 +20,10 @@ November 19, 2024</p>
 <p align="center">1. Access the AWS Management Console<br> 2. Navigate to the Amazon VPC service<br>3. Create a VPC<br>4. Create Public and Private Subnets in 2 AZ´s</p>
 
 <br>
+<p align="center">...</p>
+
+
+<br>
 <h1 align="left"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Creating and Configuring a VPC with VPC Wizard}}$$<br>
 $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 <br>
