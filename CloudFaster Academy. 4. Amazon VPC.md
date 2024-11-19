@@ -30,9 +30,12 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 1 - Access the AWS Management Console}}$$ </h3>
 <p align="left">Go to the AWS website and log in using your credentials.</p>
 
+![image](https://github.com/user-attachments/assets/87bf68b4-20ee-4acc-8695-6f74d0d8ff30)
+
+
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/2d22bbd6-c44c-48a5-af1a-1da5ce772fd9"> </p>
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{Step 2 - Navigate to the VPC service}}$$ </h3>
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 2 - Navigate to the Amazon VPC service}}$$ </h3>
 <p align="left"> Click <code>services</code> and select <code>VPC</code> in the <code>networking and content delivery</code> section.</p>
 
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/21269169-b41e-4de9-8950-b70fe6ab60a9"> </p>
