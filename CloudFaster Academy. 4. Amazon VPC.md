@@ -3,7 +3,7 @@
 November 19, 2024</p>
 <br>
 
-<span> <h2 class="bold" style="font-weight: bold">Amazon VPC Bold</h2> </span>
+<span> <h2  align="center" class="bold" style="font-weight: bold"> Amazon VPC Bold</h2> </span>
 
 
 <h2 align="center"> $$\textcolor{#9ad3d2}{\textnormal{Amazon VPC}}$$ </h2>
