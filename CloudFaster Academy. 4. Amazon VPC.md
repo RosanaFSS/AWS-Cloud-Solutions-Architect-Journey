@@ -7,18 +7,17 @@ November 19, 2024</p>
 <h2  align="center" class="bold" style="font-weight: bold"> Amazon VPC</h2>
 <p align="center">O Amazon Virtual Private Cloud (<code>Amazon VPC</code>) oferece controle total sobre seu ambiente de rede virtual, incluindo posicionamento de recursos, conectividade e segurança. Comece a usar configurando sua VPC no console de serviço AWS. A VPC é o local onde podemos adicionar diversos recursos, como instâncias do Amazon Elastic Compute Cloud (EC2) e o Amazon Relational Database Service (RDS). Além disso, você pode configurar como suas VPCs se comunicam entre si, entre contas, zonas de disponibilidade (AZs) ou regiões da AWS.
 
-<br><br>
+<br>
 <h2  align="center" class="bold" style="font-weight: bold">Conteúdo</h2>
 <p align="center">Neste laboratório você ira aprender a criar e configurar uma Virtual Private Cloud (VPC).</p>
 
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
 
-<br>
 <h2  align="center" class="bold" style="font-weight: bold">Arquitetura</h2>
 
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/ac54e633-8806-4b69-95b1-4482cc52e15d"> </p>
 
-<br><br>
+<br>
 <h2  align="center" class="bold" style="font-weight: bold">Tarefas</h2>
 <p align="center">1. Acesse a console de gerenciamento da AWS<br> 2. Navegue até o serviço VPC<br>3. Crie uma VPC<br>4. Crie subnets</p>
 
