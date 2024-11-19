@@ -27,7 +27,6 @@
 <br>
 <h2>Passo 1: Faça login na AWS</h2>
 
-Passo 1: Faça login na AWS
 
 ![image](https://github.com/user-attachments/assets/1d695c60-de1f-4ef4-b8bb-a06432c3d916)
 
