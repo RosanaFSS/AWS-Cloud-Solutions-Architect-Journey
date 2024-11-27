@@ -6,7 +6,7 @@ Cloud Architect Program
 
 [002. Create a simple EC2 instance](https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/002.%20Amazon%20EC2.md)
 
-https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/003.%20Amazon%20VPC%20through%20AWS%20CLI.md
+003. [Using the AWS CLI installed on Windows, create a VPC that includes both a public and private subnet within the same Availability Zone, attach an Internet Gateway, and configure Route Tables](https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/003.%20Amazon%20VPC%20through%20AWS%20CLI.md)
 
 https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/004.%20Amazon%20DynamoDB%20and%20AWS%20Lambda.md
 
