@@ -7,3 +7,5 @@ https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/001.%20Amazon%2
 https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/002.%20Amazon%20EC2.md
 
 https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/003.%20Amazon%20VPC%20through%20AWS%20CLI.md
+
+https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/004.%20Amazon%20DynamoDB%20and%20AWS%20Lambda.md
