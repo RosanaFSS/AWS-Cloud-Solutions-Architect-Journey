@@ -8,6 +8,6 @@ Cloud Architect Program
 
 003. [Using the AWS CLI installed on Windows, create a VPC that includes both a public and private subnet within the same Availability Zone, attach an Internet Gateway, and configure Route Tables](https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/003.%20Amazon%20VPC%20through%20AWS%20CLI.md)
 
-004. [](https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/004.%20Amazon%20DynamoDB%20and%20AWS%20Lambda.md)
+004. [Amazon DynamoDB & AWS Lambda](https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/004.%20Amazon%20DynamoDB%20and%20AWS%20Lambda.md)
 
 005. [](https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/005.%20%20Elastic%20Load%20Balancer%20%26%20Amazon%20EC2%20Auto%20Scaling%20Group.md)
