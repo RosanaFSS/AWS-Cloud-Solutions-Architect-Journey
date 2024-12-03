@@ -20,3 +20,8 @@
 <br>
 
 005. [Elastic Load Balancer & Amazon EC2 Auto Scaling Group](https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/005.%20%20Elastic%20Load%20Balancer%20%26%20Amazon%20EC2%20Auto%20Scaling%20Group.md)
+
+<br>
+
+006. A
+
