@@ -1,7 +1,6 @@
 # AWS hands-on
-## Cloud Architect Program
-<br>
-##PROZ AWS Arquitet@s
+## Cloud Architect Program<br>
+PROZ AWS Arquitet@s
 <br>
 
 
