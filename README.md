@@ -3,4 +3,4 @@
 
 <br>
 
-001. [Amazon EC2 Backup and Restore using AWS Backup](https://github.com/RosanaFSS/AWS-Projects/blob/PROZ-Arquitet%40s/001.%20Amazon%20VPC%20through%20AWS%20Management%20Console.md)
+001. [Amazon EC2 Backup and Restore using AWS Backup](https://github.com/RosanaFSS/AWS-Projects/blob/AWS-Training-and-Certification/001.%20Amazon%20EC2%20Backup%20and%20Restore%20using%20AWS%20Backup.md)
