@@ -7,4 +7,4 @@
 
 <br>
 
-003. [Security Monitoring](https://github.com/RosanaFSS/AWS-Projects/blob/AWS-Training-and-Certification/002.%20Security%20Monitoring.md)
+002. [Security Monitoring](https://github.com/RosanaFSS/AWS-Projects/blob/AWS-Training-and-Certification/002.%20Security%20Monitoring.md)
