@@ -9,6 +9,6 @@
 
 002. [Security Monitoring](https://github.com/RosanaFSS/AWS-Projects/blob/AWS-Training-and-Certification/002.%20Security%20Monitoring.md)
 
-3. <br>
+<br>
 
 003. [Amazon Rekognition](https://github.com/RosanaFSS/AWS-Projects/blob/AWS-Training-and-Certification/003.%20%20Amazon%20Rekognition.md)
