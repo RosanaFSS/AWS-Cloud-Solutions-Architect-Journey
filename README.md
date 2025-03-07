@@ -1,4 +1,4 @@
-# AWS Training & Certification, AWS Skill Builder
+# AWS Training & Certification
 ## AWS hands-on
 
 <br>
@@ -19,7 +19,7 @@
 
 <br>
 
-## AWS learning paths
+## AWS Partner
 
 001.<br>
 002.<br>
