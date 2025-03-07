@@ -1,2 +1,2 @@
-# AWS hands-on
+# AWS Projects and Joutney
 
