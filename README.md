@@ -1,5 +1,5 @@
-# AWS hands-on
-## AWS Training & Certification, AWS Skill Builder
+# AWS Training & Certification, AWS Skill Builder
+## AWS hands-on
 
 <br>
 
@@ -18,3 +18,8 @@
 004. [Create a Static Website with Amazon Simple Storage Service, AmazonS3](https://github.com/RosanaFSS/AWS-Projects/blob/AWS-Training-and-Certification/004%20.%20%20Create%20a%20Static%20HTML%20Website%20with%20Amazon%20S3.md)
 
 <br>
+
+## AWS learning paths
+
+001.<br>
+002.<br>
