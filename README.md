@@ -1,5 +1,5 @@
 # AWS hands-on
-## AWS Training and Certification
+## AWS Training & Certification, AWS Skill Builder
 
 <br>
 
