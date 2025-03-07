@@ -8,9 +8,9 @@ https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/f62cffa4
 
 <div align="center">
 
-| Skill                                | Certificate                | Level            | Completion Date     | Hands-on QTY |
+| Year | Month, Day | Skill                                | Certificate                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
-| Security Governance at Scale  |<img src="https://github.com/user-attachments/assets/06925ed6-5687-4577-8647-67852ac4dcc8" style="width:280px;"/> |       |           |  |  | 
+| 2023 | August, 09 | Security Governance at Scale  |<img src="https://github.com/user-attachments/assets/06925ed6-5687-4577-8647-67852ac4dcc8" style="width:280px;"/> |       |           |  |  | 
 
 
 </div>
