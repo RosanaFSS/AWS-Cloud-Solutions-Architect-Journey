@@ -1,2 +1,2 @@
-# AWS Projects and Joutney
+# AWS Projects and Journey
 
