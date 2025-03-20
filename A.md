@@ -20,8 +20,9 @@
     <li> Hybrid</li>
 </ol></p>
 
+<br><br>
 
-<h2>6 <code>advantages</code> of Cloud Computing</h2>
+<h2>6 <code>Advantages</code> of Cloud Computing</h2>
 <ol type="1.  ">
     <li> Pay-as-you-go</li>
     <li> Benefit from massive economies of scale</li>
