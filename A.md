@@ -2,6 +2,15 @@
 
 <p align="left">AWS Certified Solutions Architect - Associate (SAA-C03) ➡️ <a href="https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf"> Exam Guide</a>.</p>
 
+<h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 1 - Design Secure Architectures}}$$</h1>
+
+<h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 2 -Design Resilient Architectures}}$$</h1>
+
+<h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 3 -Design High-Performing Architectures}}$$</h1>
+
+<h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 4 -Design Resilient Architectures}}$$</h1>
+
+
 <div align="center">
 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     | Badges    |
