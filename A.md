@@ -4,6 +4,10 @@
 
 <p>__________</p>
 
+| Domain 1                             |Domain 2                              |Domain 3                              |Domain 4                              |
+|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
+|Design Secure Architectures           |Design Resilient Architectures        |Design High-Performing Architectures  |Design Cost-Optimized Architectures   |
+
 <h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 1 - Design Secure Architectures}}$$</h1>
 <h3>30% of scored content</h3>
 
