@@ -1,4 +1,4 @@
-> QUICZ is a very simple format for creating multiple choice questions with clear human-readability in mind. What syntax is it inspired by and based on?<br>
+> 1. Lorem Ypsum?<br><br><a id='1.'></a>
 >> ⬛  &nbsp;&nbsp; Lorem Ypsum<br>
 >> ⬛  &nbsp;&nbsp; Lorem Ypsum<br>
 >> ✅  &nbsp;&nbsp; Lorem Ypsum<br>
