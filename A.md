@@ -2,7 +2,7 @@
 
 <p align="left">AWS Certified Solutions Architect - Associate (SAA-C03) ➡️ <a href="https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf"> Exam Guide</a>.</p>
 
-| Domain 1 - 30%                       |Domain 2 - 26%                        |Domain 3 - 24%                        |Domain 4 - 20%                        |
+| Domain 1 - 30%<br>Design Secure Architectures                       |Domain 2 - 26%<br>Design Resilient Architectures                        |Domain 3 - 24%<br>Design High-Performing Architectures                        |Domain 4 - 20%<br>Design Cost-Optimized Architectures                        |
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
 |Design Secure Architectures           |Design Resilient Architectures        |Design High-Performing Architectures  |Design Cost-Optimized Architectures   |
 
