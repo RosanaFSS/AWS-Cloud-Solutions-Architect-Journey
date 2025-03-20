@@ -1,8 +1,4 @@
-> QUICZ is a very simple format for creating 
-multiple choice questions with clear 
-human-readability in mind. What syntax is it 
-inspired by and based on?
-
-+ markdown
-- python
-- html 
+> QUICZ is a very simple format for creating multiple choice questions with clear human-readability in mind. What syntax is it inspired by and based on?
+[(_)] markdown
+[(_)]- python
+[(_)]- html 
