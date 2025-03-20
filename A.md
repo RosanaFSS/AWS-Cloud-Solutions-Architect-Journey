@@ -2,28 +2,11 @@
 
 <p align="left">AWS Certified Solutions Architect - Associate (SAA-C03) ➡️ <a href="https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf"> Exam Guide</a>.</p>
 
-<p>__________</p>
-
-| Domain 1                             |Domain 2                              |Domain 3                              |Domain 4                              |
+| Domain 1, 30%                        |Domain 2, 26%                         |Domain 3, 24%                         |Domain 4, 20%                         |
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
 |Design Secure Architectures           |Design Resilient Architectures        |Design High-Performing Architectures  |Design Cost-Optimized Architectures   |
 
-<h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 1 - Design Secure Architectures}}$$</h1>
-<h3>30% of scored content</h3>
 
-
-<h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 2 - Design Resilient Architectures}}$$</h1>
-<h3>26% of scored content</h3>
-
-<h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 3 - Design High-Performing Architectures}}$$</h1>
-<h3>24% of scored content</h3>
-
-<h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 4 - Design Cost-Optimized Architectures}}$$</h1>
-<h3>20% of scored content</h3>
-
-<br>
-
-<p>__________</p>
 
 <h2>6 advantages of Cloud Computing</h2>
 <ol type="1.  ">
