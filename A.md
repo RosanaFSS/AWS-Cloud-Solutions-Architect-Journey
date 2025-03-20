@@ -5,6 +5,7 @@
 <h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 1 - Design Secure Architectures}}$$</h1>
 <h3>30% of scored content</h3>
 
+--------------
 
 <h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 2 - Design Resilient Architectures}}$$</h1>
 <h3>26% of scored content</h3>
