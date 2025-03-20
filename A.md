@@ -1,8 +1,7 @@
----
+___
+How to separate question and answer?
 
-front
+:question:
 
-?
-
-back
----
+Questions and answers can be separated by...
+___
