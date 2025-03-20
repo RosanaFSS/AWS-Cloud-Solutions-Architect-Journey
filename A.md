@@ -27,6 +27,16 @@
 </ul>
 
 <br>
+<br>
+<br>
+
+<p>This room is the second in the Nmap series (part of the <em>Introduction to Network Security module</em>).<br>
+<ol type="1. ">
+    <li><a href="https://tryhackme.com/r/room/nmap01">Nmap Live Host Discover</a></li>
+    <li><a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a></li>
+    <li><a href="https://tryhackme.com/r/room/nmap03">Nmap Advanced Port Scans</a></li>
+    <li><a href="https://tryhackme.com/r/room/nmap04">Nmap Post Port Scans</a></li>
+</ol></p>
 
 
 <div align="center">
