@@ -1,4 +1,4 @@
-> 1. Lorem Ypsum?<br><br><a id='1.'></a>
+> 1. Lorem Ypsum?<a id='1.'></a>
 >> ⬛  &nbsp;&nbsp; Lorem Ypsum<br>
 >> ⬛  &nbsp;&nbsp; Lorem Ypsum<br>
 >> ✅  &nbsp;&nbsp; Lorem Ypsum<br>
