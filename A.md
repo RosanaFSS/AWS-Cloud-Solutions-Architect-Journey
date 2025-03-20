@@ -19,11 +19,7 @@
 
 | Deployment Models                     |Advantages                        |C                       |D                      |
 |:------------------------------------|:------------------------------------|:------------------------------------|:------------------------------------|
-|<ol type="1.  ">
-    <li> <code>On-premises ➡️ companies and organizations host and maintain hardware such as compute, storage, and networking equipment in their own data centers</code></li>
-    <li> <code>Cloud</code> ➡️ companies do not have to manage and maintain their own hardware and data centers.</li>
-    <li> <code>Hybrid</code> ➡️ is a way to connect infrastructure and applications between cloud-based resources and existing resources that are not located in the cloud. </li>
-</ol></p>          |<ol type="1.  ">
+|<ol type="1.  "><li> <code>On-premises ➡️ companies and organizations host and maintain hardware such as compute, storage, and networking equipment in their own data centers</code></li><li> <code>Cloud</code> ➡️ companies do not have to manage and maintain their own hardware and data centers.</li><li> <code>Hybrid</code> ➡️ is a way to connect infrastructure and applications between cloud-based resources and existing resources that are not located in the cloud. </li></ol></p>| <ol type="1.  ">
     <li> Pay-as-you-go</li>
     <li> Benefit from massive economies of scale</li>
     <li> Stop guessing capacity</li>
