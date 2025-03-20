@@ -1,5 +1,8 @@
-___
-How to separate question and answer?
+> QUICZ is a very simple format for creating 
+multiple choice questions with clear 
+human-readability in mind. What syntax is it 
+inspired by and based on?
 
-:grey_question: Questions and answers can be separated by...
-___
++ markdown
+- python
+- html 
