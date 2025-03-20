@@ -7,6 +7,8 @@
 |Lorem Ypsum           |Lorem Ypsum        |Lorem Ypsum |Lorem Ypsum   |
 
 
+<h3 align="center">...</h3>
+
 <br><br>
 
 <h2 align="left"><code>Cloud Computing</code> ➡️ is the on-demand delivery of IT resources with primarily pay-as-you-go pricing.</h2>
