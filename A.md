@@ -5,6 +5,7 @@
 <h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 1 - Design Secure Architectures}}$$</h1>
 <h3>30% of scored content</h3>
 
+
 <h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 2 - Design Resilient Architectures}}$$</h1>
 <h3>26% of scored content</h3>
 
@@ -13,6 +14,19 @@
 
 <h1 align="left">$$\textcolor{#F79400}{\textnormal{Domain 4 - Design Cost-Optimized Architectures}}$$</h1>
 <h3>20% of scored content</h3>
+
+<br>
+<br>
+<br>
+
+<ul style="list-style-type:square">
+    <li>Explore the tools inside the REMnux VM</li>
+    <li>Learn how to use tools to analyse potentially malicious documents effectively</li>
+    <li>Learn how to simulate a fake network to aid in the analysis</li>
+    <li>Be familiar with the tools used to analyse memory images</li>
+</ul>
+
+<br>
 
 
 <div align="center">
