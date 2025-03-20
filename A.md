@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<h2 align="left"><code>Cloud Computing</code> Cloud computing is the on-demand delivery of IT resources with primarily pay-as-you-go pricing.</h2>
+<h2 align="left"><code>Cloud Computing</code> ➡️ is the on-demand delivery of IT resources with primarily pay-as-you-go pricing.</h2>
 
 
 <h2>6 advantages of Cloud Computing</h2>
