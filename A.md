@@ -18,6 +18,22 @@
 <h3>20% of scored content</h3>
 
 <br>
+
+<p>__________</p>
+
+<h2>Six advantages of Cloud Computing</h2>
+<ol type="1. ">
+    <li>Pay-as-you-go</li>
+    <li>Benefit from massive economies of scale</li>
+    <li>Stop guessing capacity</li>
+    <li>Increase speed and agility</li>
+    <li>Realize cost savings</li>
+    <li>Go global in minutes</li>
+</ol></p>
+
+
+
+<br>
 <br>
 <br>
 
