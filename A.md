@@ -15,9 +15,9 @@
 
 <h2 align="left"><code>Cloud Computing</code> Deployment Models</h2>
 <ol type="1.  ">
-    <li> On-premises</li>
-    <li> Cloud</li>
-    <li> Hybrid</li>
+    <li> <code>On-premises</code></li>
+    <li> <code>Cloud</code> ➡️ companies do not have to manage and maintain their own hardware and data centers.</li>
+    <li> <code>Hybrid</code> ➡️ is a way to connect infrastructure and applications between cloud-based resources and existing resources that are not located in the cloud. </li>
 </ol></p>
 
 <br><br>
