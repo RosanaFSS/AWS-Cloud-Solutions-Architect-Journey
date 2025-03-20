@@ -1,4 +1,4 @@
-<h1 align="left">AWS Certified Solutions Architect - Associate (SAA-C03).</h1>
+<h1 align="left">AWS Certified Solutions Architect - Associate (SAA-C03)</h1>
 
 <p align="left">SAA-C03 <a href="https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf"> Exam Guide</a>.</p>
 
