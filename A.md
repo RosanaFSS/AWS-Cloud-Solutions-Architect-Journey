@@ -15,7 +15,7 @@
 
 <h3 align="left"><code>Cloud Computing</code> ➡️ is the on-demand delivery of IT resources with primarily pay-as-you-go pricing.</h3>
 
-<h3 align="left"><code>Regions</code> ➡️ are geographic locations worldwide where AWS hosts its data centers.  AWS Region is associated with a geographical name and a Region code.</h3>
+<h3 align="left"><code>Regions</code> ➡️ are geographic locations worldwide where AWS hosts its data centers.<br> AWS Region is associated with a geographical name and a Region code.</h3>
 
 <br><br>
 
