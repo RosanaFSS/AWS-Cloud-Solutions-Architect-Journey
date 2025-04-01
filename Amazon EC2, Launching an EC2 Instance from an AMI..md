@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hands-on ADVC method, Value Cloud Architect<br>CloudFaster Academy</h1>
 <br>
 
-<h2 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;">Launching an EC2 Instance from an AMI</h2>
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;">Launching an EC2 Instance from an AMI</h1>
 
 ![image](https://github.com/user-attachments/assets/94b37be4-0192-4c35-a499-a3bc5f4b4648)
 
