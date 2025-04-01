@@ -7,6 +7,81 @@
 
 <div align="center">
 
+<h2 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Hands-on ADVC method, Value Cloud Architect</h2>
+
+<div style="background-color: black; padding: 15px; border-radius: 5px;">
+
+<table style="width: 100%; border-collapse: collapse; background-color: black; color:gray;">
+  <tr>
+    <th style="width: auto; text-align: left; vertical-align: top;">Service</th>
+    <th style="width: auto text-align: left; vertical-align: top;">Description</th>
+    <th style="width: auto; text-align: left; vertical-align: top;">Completion Date</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        Amazon S3<br>
+        <img width="40px" src="     "><br>
+        Storage
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="     ">Amazon Console</a>, Navigating the Management Console <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="        ">ℹ️</a> to access Management Console official docs.
+    </td>
+    <td style="vertical-align: top;">2023, Sep 2</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        Amazon EC2<br>
+        <img width="40px" src="     "><br>
+       Compute
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="        ">XXXX</a>, XXXX <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/ec2/">ℹ️</a> to access Amazon EC2 official docs
+    </td>
+    <td style="vertical-align: top;">2023, Sep 18</td>
+  </tr>
+    <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        Amazon VPC<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/5f8af611-0874-4c89-a126-9ff8257bc99b"><br>
+       Networking & Content Delivery
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="Amazon VPC, Creating and Configuring a VPC with VPC Wizard.md">Amazon VPC</a>, Creating and Configuring a VPC with the VPC Wizard <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/vpc/">ℹ️</a> to access Amazon VPC official docs
+    </td>
+    <td style="vertical-align: top;">2023, Sep 18</td>
+  </tr>
+    <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        Amazon DynamoDB<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"><br>
+      Database
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="Amazon DynamoDB, Your First Table in NoSQL.md">Amazon DynamoDB</a>, Your First Table in NoSQL <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/dynamodb/">ℹ️</a> to access Amazon DynamoDB official docs.
+    </td>
+    <td style="vertical-align: top;">2023, Sep 18</td>
+  </tr>
+  
+</table>
+</div>
+
+
+<br><br><br>
+
+<div align="center">
+
 <h2 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Solutions Architect Immersion</h2>
 
 <div style="background-color: black; padding: 15px; border-radius: 5px;">
