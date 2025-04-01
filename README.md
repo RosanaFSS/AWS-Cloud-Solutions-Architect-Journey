@@ -25,7 +25,7 @@ CloudFaster Academy - Cloud Architect Program
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5550c1b8-3b3d-42bf-b0a5-aaeda3a4b69c"><br>Storage</h6> |✅ &nbsp; Amazon EBS, Editando um volume EBS já existente                     |2023, Nov 14  |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5550c1b8-3b3d-42bf-b0a5-aaeda3a4b69c"><br>Storage</h6> |✅ &nbsp; Amazon EBS, Ctiando seu primeiro Bucket                             |2023, Sep 2 |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"> <br>Database</h6> |✅ &nbsp; [Amazon DynamoDB](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/005.%20%20Amazon%20DynamoDB.md), sua primeira tabela no NoSQL|2023, Sep 2  |
-| |✅ &nbsp; [EC@ + ELB + EC2](), Amazon C2, Provisionado um serviço web com EC2 + ELB _ EC2 Auto Scaling|2023, Nov 11  |
+| |✅ &nbsp; [EC@ + ELB + EC2](),<br> &nbsp; &nbsp; &nbsp; Amazon C2, Provisionado um serviço web com EC2 + ELB _ EC2 Auto Scaling|2023, Nov 11  |
 | |✅ &nbsp; [EC@ + ELB + EC2](), Amazon C2, Provisionado um serviço web com EC2 + ELB _ EC2 Auto Scaling|2023, Nov 11  |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Conhecendo AWS Identity and Access Management (IAM)       |2023, Sep 3|
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Criando uma política de senha    |2023, Nove 14|
