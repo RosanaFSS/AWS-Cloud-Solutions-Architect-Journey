@@ -99,9 +99,9 @@
 
 
 
+<br><br><br>
 
 
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5f8af611-0874-4c89-a126-9ff8257bc99b"><br>Networking & Content Delivery </h6>|✅ &nbsp; [Amazon VPC](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/004.%20Amazon%20VPC%2C%20Creating%20and%20Configuring%20a%20VPC%20with%20VPC%20Wizard.md), Creating and Configuring a VPC with the VPC Wizard    |2024, Nov 19     |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"><br>Database </h6> |✅ &nbsp; [Amazon DynamoDB](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/005.%20%20Amazon%20DynamoDB.md), Your First Table in NoSQL|2023, Sep 18 |
 | |<br><h3><em> Método ADVC</em></h3>                              |                                         |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/12d9ce41-dc0d-4532-aaf7-f8859093e249"><br>Management & Governance </h6> |✅ &nbsp; [AWS Console](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/006.%20AWS%20Console.md), Navigating the Management Console      |2023, Sep 2    |
