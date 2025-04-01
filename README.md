@@ -30,19 +30,10 @@
     </td>
     <td style="vertical-align: top;">2024, Nov 5</td>
   </tr>
-
-  <tr>
-    <td style="text-align: center; vertical-align: top; background-color: black;">Amazon EC2<br><img width="70px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>Compute</td>
-    <td style="text-align: left; vertical-align: top; background-color: black;">
-      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md" style="color: white;">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/" style="color: white;">ℹ️</a> to access EC2 official docs
-    </td>
-    <td style="vertical-align: top; background-color: black;">2024, Nov 5</td>
-  </tr>
 </table>
 </div>
 
-
+<br><br><br>
 
 <div align="center">
 
