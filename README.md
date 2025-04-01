@@ -33,7 +33,11 @@
 </table>
 </div>
 
+
+
 <br><br><br>
+
+
 
 <div align="center">
 
@@ -50,16 +54,16 @@
   <tr>
     <td align="center" style="vertical-align: top;">
       <h6>
-        Amazon EC2<br>
-        <img width="60px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
-        Compute
+        Amazon S3<br>
+        <img width="60px" src="https://github.com/user-attachments/assets/fd1bac06-7145-4056-8a43-b56f34c6378c"><br>
+        Storage
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
+      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-5Journey/blob/CloudFaster-Academy/001.%20Amazon%20S3.md">Amazon S3</a>, Creating your first Bucket <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access EC2 official docs
     </td>
-    <td style="vertical-align: top;">2024, Nov 5</td>
+    <td style="vertical-align: top;">2024, Sep 8</td>
   </tr>
 
   <tr>
@@ -77,18 +81,6 @@
 
 
 
-
-<br>
-<br>
-
-
-<div align="center">
-
-|Service|Description                                                        |Completion Date                                  |
-|:---: |:------------------------------------------------------------------|:------------------------------------------------|
-  
-| |<br><h3><em>Imersão Solutions Architect</em></h3>                              |                                         |
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/fd1bac06-7145-4056-8a43-b56f34c6378c"><br>Storage </h6>|✅ &nbsp; [Amazon S3](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-5Journey/blob/CloudFaster-Academy/001.%20Amazon%20S3.md), Creating your first Bucket        |2023, Sep 18                          |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>Compute </h6>|✅ &nbsp; [Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/003.%20Amazon%20EC2%2C%20Provisioning%20a%20Web%20Server.md), Provisioning Your First Web Server<br> &nbsp; &nbsp; &nbsp; &nbsp; Click <a  href="https://docs.aws.amazon.com/ec2/"> ℹ️ here</a> to access EC2 official docs</h6>             |2023, Sep 18   |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5f8af611-0874-4c89-a126-9ff8257bc99b"><br>Networking & Content Delivery </h6>|✅ &nbsp; [Amazon VPC](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/004.%20Amazon%20VPC%2C%20Creating%20and%20Configuring%20a%20VPC%20with%20VPC%20Wizard.md), Creating and Configuring a VPC with the VPC Wizard    |2024, Nov 19     |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"><br>Database </h6> |✅ &nbsp; [Amazon DynamoDB](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/005.%20%20Amazon%20DynamoDB.md), Your First Table in NoSQL|2023, Sep 18 |
