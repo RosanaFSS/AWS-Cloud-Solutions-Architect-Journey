@@ -6,17 +6,15 @@
 
 <div align="center">
 
-<div style="background-color: black; padding: 15px; border-radius: 5px;">
-
 <h3 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h3>
 
 <div style="background-color: black; padding: 15px; border-radius: 5px;">
 
-<table style="width: 100%; border-collapse: collapse; background-color: black; color: white;">
+<table style="width: 100%; border-collapse: collapse; background-color: black; color:gray;">
   <tr>
-    <th style="width: 40%; text-align: left; vertical-align: top;">Service</th>
-    <th style="width: 50%; text-align: left; vertical-align: top;">Description</th>
-    <th style="width: 10%; text-align: left; vertical-align: top;">Completion Date</th>
+    <th style="width: auto; text-align: left; vertical-align: top;">Service</th>
+    <th style="width: auto text-align: left; vertical-align: top;">Description</th>
+    <th style="width: auto; text-align: left; vertical-align: top;">Completion Date</th>
   </tr>
   <tr>
     <td align="center" style="vertical-align: top;">
