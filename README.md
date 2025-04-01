@@ -6,9 +6,10 @@ CloudFaster Academy - Cloud Architect Program
 
 
 |Description                                                    |Date                                     |
-|:--------------------------------------------------------------|----------------------------------------:|
+|:--------------------------------------------------------------|:----------------------------------------|
 |                                                               |                                         |
-|[Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md), |Subindo uma [EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md) através de uma AMI                |2024, November 5                         | 
+|[Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md)|2024, November 5 |
+|Subindo uma [EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md) através de uma AMI                |2024, November 5                         | 
 |[Amazon S3](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md), Criando seu primeiro bucket                         |2024, November 5                         |
 |[Amazon S3](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/002.%20Amazon%20S3.md), Criando seu primeiro bucket                         |2024, November 5                         |
 |[Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/003.%20Amazon%20EC2%2C%20Provisioning%20a%20Web%20Server.md), Provisionadno seu primeiro servidor web            |2024, November 5                         |
