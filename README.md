@@ -73,7 +73,7 @@
     </td>
     <td style="vertical-align: top;">2023, Sep 3</td>
   </tr>
-      <tr>
+  <tr>
     <td align="center" style="vertical-align: top;">
       <h6>
         AWS IAM<br>
@@ -82,11 +82,68 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="  ">AWS IAM</a>, Creating a Password Policy <br>
+      ✅ &nbsp; <a href="AWS IAM, Creating a Password Policy.md">AWS IAM</a>, Creating a Password Policy <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
     <td style="vertical-align: top;">2023, Nov 14</td>
   </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        AWS IAM<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
+        Security, Identity, & Compliance
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="AWS IAM, Generating an Access Key and Secret Key for an IAM User.md">AWS IAM</a>, Generating an Access Key and Secret Key for an IAM User <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
+    </td>
+    <td style="vertical-align: top;">2023, Nov 14</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        AWS IAM<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
+        Security, Identity, & Compliance
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="AWS IAM, Revoking Access and Disabling a User.md">AWS IAM</a>, Revoking Access and Disabling a User <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
+    </td>
+    <td style="vertical-align: top;">2023, Nov 14</td>
+  </tr>
+    <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        AWS IAM<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
+        Security, Identity, & Compliance
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="AWS IAM, Revoking Access and Disabling a User.md">AWS IAM</a>, Revoking Access and Disabling a User <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
+    </td>
+    <td style="vertical-align: top;">2023, Nov 14</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        AWS Secrets Manager<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/5dd77230-b874-479d-a163-804a92bcac8f"><br>
+        Security, Identity, & COmpliance
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="AWS Secrets Manager, Creating and Accessing My First Secret in AWS.md">AWS Secrets Manager</a>, Creating and Accessing My First Secret in AWS <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href=" ">ℹ️</a> to access AWS IAM official docs
+    </td>
+    <td style="vertical-align: top;">2023, Nov 14</td>
+  </tr>
+  
   
 </table>
 </div>
@@ -197,18 +254,11 @@
     <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
 </table>
-</div>
 
 
+<br><br><br>
 
 
-
-
-
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Creating Your First User                      |2023, Nov 13|
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8a795182-00e8-44d0-8f75-73480f73fffa"><br> Management & Governance </h6> |✅ &nbsp; AWS Trusted Advisor, Understanding the Service           |2023, Nov 13|
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5f8af611-0874-4c89-a126-9ff8257bc99b"><br>Networking & Content Delivery </h6> |✅ &nbsp; Amazon VPC,  Creating and Configuring a VPC with the VPC Wizard    |2023, Sep 2  |
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>Compute <h6>|✅ &nbsp; Amazon EC2,  Provisioning Your First Web Server<br> &nbsp; &nbsp; &nbsp; &nbsp; Click <a  href="https://docs.aws.amazon.com/ec2/"> ℹ️ here</a> to access EC2 official docs</h6>                 |2023, Sep 2  |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5550c1b8-3b3d-42bf-b0a5-aaeda3a4b69c"><br>Storage</h6>|✅ &nbsp; Amazon EBS, Attaching a New EBS Volume to Amazon EC2 - Linux    |2023, Nov 13  |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5550c1b8-3b3d-42bf-b0a5-aaeda3a4b69c"><br>Storage</h6>|✅ &nbsp; Amazon EBS, Attaching a New EBS Volume to Amazon EC2 - Windows  |2023, Nov 14  |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5550c1b8-3b3d-42bf-b0a5-aaeda3a4b69c"><br>Storage</h6> |✅ &nbsp; Amazon EBS, Modifying an Existing EBS Volume                    |2023, Nov 14  |
@@ -216,12 +266,6 @@
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"> <br>Database</h6> |✅ &nbsp; [Amazon DynamoDB](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/005.%20%20Amazon%20DynamoDB.md),  Your First Table in NoSQL|2023, Sep 2  |
 | |✅ &nbsp; [EC@ + ELB + EC2](),<br> &nbsp; &nbsp; &nbsp; Amazon C2, Provisionado um serviço web com EC2 + ELB _ EC2 Auto Scaling|2023, Nov 11  |
 | |✅ &nbsp; [EC@ + ELB + EC2](), Amazon C2, Provisionado um serviço web com EC2 + ELB _ EC2 Auto Scaling|2023, Nov 11  |
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Creating a Password Policy    |2023, Nove 14|
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Generating an Access Key and Secret Key for an IAM User    |2023, Nov 14|
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Revoking Access and Disabling a User|2024, Feb 9|
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5dd77230-b874-479d-a163-804a92bcac8f"><br>Security, Identity, & COmpliance </h6> |✅ &nbsp; AWS Secrets Manager, Creating and Accessing My First Secret in AWS|2024, Feb 9|
 
 
 
-
-</div>
