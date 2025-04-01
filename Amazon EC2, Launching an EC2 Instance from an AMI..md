@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h3 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Launching an EC2 Instance from an AMI</h3>
+<h3 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;">Launching an EC2 Instance from an AMI</h3>
 
 <br>
 
