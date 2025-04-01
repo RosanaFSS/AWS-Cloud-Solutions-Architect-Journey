@@ -27,7 +27,7 @@
     </td>
     <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="Amazon S3, Creating your first Bucket.md"">Amazon S3</a>, Creating your first Bucket <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon S3 official docs
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/s3/">ℹ️</a> to access Amazon S3 official docs
     </td>
     <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
