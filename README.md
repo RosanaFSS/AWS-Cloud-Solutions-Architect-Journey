@@ -1,7 +1,7 @@
 < AWS hands-on
 CloudFaster Academy - Cloud Architect Program
 
-<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">CloudFaster Academy</h1>
+<p align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">CloudFaster Academy</p>
 
 
 <div align="center">
