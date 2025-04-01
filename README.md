@@ -4,40 +4,6 @@
 <br>
 
 
-<div align="center">
-
-<h2 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h2>
-
-<div style="background-color: black; padding: 15px; border-radius: 5px;">
-
-<table style="width: 100%; border-collapse: collapse; background-color: black; color:gray;">
-  <tr>
-    <th style="width: auto; text-align: left; vertical-align: top;">Service</th>
-    <th style="width: auto text-align: left; vertical-align: top;">Description</th>
-    <th style="width: auto; text-align: left; vertical-align: top;">Completion Date</th>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">
-      <h6>
-        Amazon EC2<br>
-        <img width="40px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
-        Compute
-      </h6>
-    </td>
-    <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="Amazon EC2, Launching an EC2 Instance from an AMI.md">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access Amazon EC2 official docs
-    </td>
-    <td style="vertical-align: top;">2023, Sep 18</td>
-  </tr>
-</table>
-</div>
-
-
-
-<br><br><br>
-
-
 
 <div align="center">
 
@@ -114,6 +80,35 @@
 
 
 <br><br><br>
+
+<div align="center">
+
+<h2 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h2>
+
+<div style="background-color: black; padding: 15px; border-radius: 5px;">
+
+<table style="width: 100%; border-collapse: collapse; background-color: black; color:gray;">
+  <tr>
+    <th style="width: auto; text-align: left; vertical-align: top;">Service</th>
+    <th style="width: auto text-align: left; vertical-align: top;">Description</th>
+    <th style="width: auto; text-align: left; vertical-align: top;">Completion Date</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        Amazon EC2<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
+        Compute
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="Amazon EC2, Launching an EC2 Instance from an AMI.md">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access Amazon EC2 official docs
+    </td>
+    <td style="vertical-align: top;">2023, Sep 18</td>
+  </tr>
+</table>
+</div>
 
 
 
