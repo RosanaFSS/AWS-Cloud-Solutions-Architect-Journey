@@ -4,7 +4,7 @@ CloudFaster Academy - Cloud Architect Program
 <div align="center">
 
 
-|:----:|Description                                                        |Completion Date                                  |
+|Service Icon|Description                                                        |Completion Date                                  |
 |:---: |:------------------------------------------------------------------|:------------------------------------------------|
 |      | <br><h3><em>Imersão Cloud Practitioner</em></h3>                  |                                         |
 |<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"> </p> |✅ &nbsp; Subindo uma [EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md) através de uma AMI                |2024, November 5                         | 
