@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h3 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h3>
+<h2 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h2>
 
 <div style="background-color: black; padding: 15px; border-radius: 5px;">
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<h3 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Solutions Architect Immersion</h3>
+<h2 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Solutions Architect Immersion</h2>
 
 <div style="background-color: black; padding: 15px; border-radius: 5px;">
 
