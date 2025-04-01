@@ -28,7 +28,7 @@
       ✅ &nbsp; <a href="Amazon EC2, Launching an EC2 Instance from an AMI.md">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access Amazon EC2 official docs
     </td>
-    <td style="vertical-align: top;">2024, Nov 5</td>
+    <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
 </table>
 </div>
@@ -63,7 +63,7 @@
       ✅ &nbsp; <a href="Amazon S3, Creating your first Bucket.md"">Amazon S3</a>, Creating your first Bucket <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon S3 official docs
     </td>
-    <td style="vertical-align: top;">2024, Sep 8</td>
+    <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
   <tr>
     <td align="center" style="vertical-align: top;">
@@ -77,7 +77,7 @@
       ✅ &nbsp; <a href="Amazon EC2, Provisioning Your First Web Server.md">Amazon EC2</a>, Provisioning Your First Web Server <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon EC2 official docs
     </td>
-    <td style="vertical-align: top;">2024, Sep 18</td>
+    <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
     <tr>
     <td align="center" style="vertical-align: top;">
@@ -91,7 +91,7 @@
       ✅ &nbsp; <a href="Amazon VPC, Creating and Configuring a VPC with VPC Wizard.md">Amazon VPC</a>, Creating and Configuring a VPC with the VPC Wizard <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon VPC official docs
     </td>
-    <td style="vertical-align: top;">2024, Nov 19</td>
+    <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
     <tr>
     <td align="center" style="vertical-align: top;">
