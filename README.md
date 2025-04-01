@@ -4,7 +4,7 @@
 <br>
 
 
-<h2 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h2>
+<h3 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h3>
 
 <div align="center">
   
