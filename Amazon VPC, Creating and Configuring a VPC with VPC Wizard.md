@@ -2,14 +2,14 @@
 <br>
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;"> Amazon VPC, Creating and Configuring a VPC with the VPC Wizard</h1>
 
+<p align="center"> <img width="950px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
+
 <br>
 <h2  align="center" class="bold" style="font-weight: bold"> Amazon VPC</h2>
 <p align="center">Amazon Virtual Private Cloud (<code>Amazon VPC</code>) provides you complete control over your virtual network environment, including resource placement, connectivity, and security. Get started by configuring your VPC in the AWS service console. The VPC is where we can add various resources, such as Amazon Elastic Compute Cloud (EC2) instances and Amazon Relational Database Service (RDS). Additionally, you can configure how your VPCs communicate with each other, across accounts, Availability Zones (AZs), or AWS Regions.</p>
  
 <h2  align="center" class="bold" style="font-weight: bold">Content</h2>
 <p align="center">In this lab you will learn how to create and configure an Amazon Virtual Private Cloud (VPC).</p>
-
-<p align="center"> <img width="950px" src="https://github.com/user-attachments/assets/31354de0-a940-4a0c-a1b3-9dff8c13e95d"> </p>
 
 <h2  align="center" class="bold" style="font-weight: bold">Architecture</h2>
 
