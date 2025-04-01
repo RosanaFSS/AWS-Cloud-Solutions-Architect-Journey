@@ -2,13 +2,15 @@
 CloudFaster Academy - Cloud Architect Program
 
 
+
+
 <div align="center">
 
 
 | |Description                                                        |Date                                     |
 |:---: |:------------------------------------------------------------------|:----------------------------------------|
 | | <h3><em>Imersão Cloud Practitioner</em></h3>                              |                                         |
-| |✅ &nbsp; Subindo uma [EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md) através de uma AMI                |2024, November 5                         | 
+|<p align="center"> <img width="60px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"> </p> |✅ &nbsp; Subindo uma [EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md) através de uma AMI                |2024, November 5                         | 
 | |<br><h3><em>Imersão Solutions Architect</em></h3>                              |                                         |
 ||✅ &nbsp; [Amazon S3](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-5Journey/blob/CloudFaster-Academy/001.%20Amazon%20S3.md), Criando seu primeiro bucket                         |2023, September 18 & 2024, November                          |
 ||✅ &nbsp; [Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/003.%20Amazon%20EC2%2C%20Provisioning%20a%20Web%20Server.md), Provisionadno seu primeiro servidor web            |2023, September 18 & 2024, November 5                         |
