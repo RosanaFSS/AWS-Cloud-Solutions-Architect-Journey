@@ -6,7 +6,7 @@ CloudFaster Academy - Cloud Architect Program
 
 
 | |Description                                                        |Date                                     |
-| |:------------------------------------------------------------------|:----------------------------------------|
+|:---: |:------------------------------------------------------------------|:----------------------------------------|
 | | <h3><em>Imersão Cloud Practitioner</em></h3>                              |                                         |
 | |✅ &nbsp; Subindo uma [EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md) através de uma AMI                |2024, November 5                         | 
 | <br><h3><em>Imersão Solutions Architect</em></h3>                              |                                         |
