@@ -1,6 +1,7 @@
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hands-on ADVC method, Value Cloud Architect<br>CloudFaster Academy</h1>
 <br>
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;">Amazon EC2, Provisioning Your First Web Server</h1>
+
 ![image](https://github.com/user-attachments/assets/b9f6f367-d4db-4015-9e56-647b55ac46aa)
 
 No laboratório da CloudFaster Academy, aprendi a acessar a console de gerenciamento da AWS e o Amazon EC2, além de criar um security group e uma instância EC2, pude realizar testes para verificar o acesso ao servidor web. 🚀☁️
