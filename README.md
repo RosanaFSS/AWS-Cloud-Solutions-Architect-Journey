@@ -95,11 +95,11 @@
   </tr>
     <tr>
     <td align="center" style="vertical-align: top;">
-      <h6>
+      <h7>
         Amazon DynamoDB<br>
         <img width="40px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"><br>
       Database
-      </h6>
+      </h7>
     </td>
     <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="Amazon DynamoDB, Your First Table in NoSQL.md">Amazon DynamoDB</a>, Your First Table in NoSQL <br>
