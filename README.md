@@ -95,17 +95,17 @@
   </tr>
     <tr>
     <td align="center" style="vertical-align: top;">
-      <h7>
+      <h4>
         Amazon DynamoDB<br>
         <img width="40px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"><br>
       Database
-      </h7>
+      </h4>
     </td>
     <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="Amazon DynamoDB, Your First Table in NoSQL.md">Amazon DynamoDB</a>, Your First Table in NoSQL <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/dynamodb/">ℹ️</a> to access Amazon DynamoDB official docs.
     </td>
-    <td style="vertical-align: top;">2024, Nov 19</td>
+    <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
   
 </table>
