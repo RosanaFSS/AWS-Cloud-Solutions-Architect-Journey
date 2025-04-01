@@ -1,7 +1,6 @@
-<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{Amazon VPC, Creating and Configuring a VPC with VPC Wizard}}$$ </h1>
-<p align="center">CloudFaster Academy   -   ADVC Program<br> 
-November 19, 2024</p>
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hands-on ADVC method, Value Cloud Architect<br>CloudFaster Academy</h1>
 <br>
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;"> Amazon VPC, Creating and Configuring a VPC with the VPC Wizard</h1>
 
 <br>
 <h2  align="center" class="bold" style="font-weight: bold"> Amazon VPC</h2>
