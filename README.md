@@ -26,7 +26,7 @@
     </td>
     <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access EC2 official docs
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access Amazon EC2 official docs
     </td>
     <td style="vertical-align: top;">2024, Nov 5</td>
   </tr>
@@ -61,7 +61,7 @@
     </td>
     <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-5Journey/blob/CloudFaster-Academy/001.%20Amazon%20S3.md">Amazon S3</a>, Creating your first Bucket <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access EC2 official docs
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon S3 official docs
     </td>
     <td style="vertical-align: top;">2024, Sep 8</td>
   </tr>
