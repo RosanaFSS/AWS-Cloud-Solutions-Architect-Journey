@@ -17,7 +17,7 @@
     <td align="center" style="vertical-align: top;">
       <h6>
         Amazon EC2<br>
-        <img width="70px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
+        <img width="60px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
         Compute
       </h6>
     </td>
@@ -34,31 +34,7 @@
 
 <h3 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h3>
 
-<div align="center">
-  
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <th style="width: 400px;">Service</th>
-    <th style="width: 500px;">Description</th>
-    <th style="width: 150px;">Completion Date</th>
-  </tr>
-  <tr>
-    <td align="center" valign=top;">
-      <h6>
-        Amazon EC2<br>
-        <img width="70px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
-        Compute
-    </h6>
-   </td>
-    <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access EC2 official docs
-    </td>
-    <td>2024, Nov 5</td>
-  </tr>
-</table>
 
-</div>
 
 
 
