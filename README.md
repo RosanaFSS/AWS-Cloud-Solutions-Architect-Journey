@@ -22,7 +22,6 @@
       </h6>
     </td>
     <td>
-      <h3><em>Cloud Practitioner Immersion</em></h3>
       ✅ &nbsp; [Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md), Launching an EC2 Instance from an AMI <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click <a href="https://docs.aws.amazon.com/ec2/">ℹ️ here</a> to access EC2 official docs
     </td>
