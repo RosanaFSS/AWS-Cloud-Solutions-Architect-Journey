@@ -95,11 +95,11 @@
   </tr>
     <tr>
     <td align="center" style="vertical-align: top;">
-      <h4>
+      <h6>
         Amazon DynamoDB<br>
         <img width="40px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"><br>
       Database
-      </h4>
+      </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="Amazon DynamoDB, Your First Table in NoSQL.md">Amazon DynamoDB</a>, Your First Table in NoSQL <br>
@@ -115,10 +115,10 @@
 
 <br><br><br>
 
-Amazon DynamoDB, Your First Table in NoSQL.md
 
 
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"><br>Database </h6> |✅ &nbsp; [Amazon DynamoDB](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/005.%20%20Amazon%20DynamoDB.md), Your First Table in NoSQL|2023, Sep 18 |
+
+
 | |<br><h3><em> Método ADVC</em></h3>                              |                                         |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/12d9ce41-dc0d-4532-aaf7-f8859093e249"><br>Management & Governance </h6> |✅ &nbsp; [AWS Console](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/006.%20AWS%20Console.md), Navigating the Management Console      |2023, Sep 2    |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/09857e8b-83b9-41ad-a1b3-11c8fe90c7e1"><br>Cloud Financial Management </h6>|✅ &nbsp; [AWS Budgets](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/007.%20AWS%20Budgets.md), Creating a Budget Alert in the Billing Console |2023, Nov 13   |
