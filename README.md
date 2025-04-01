@@ -14,13 +14,13 @@
     <th style="width: 500px;">Description</th>
     <th style="width: 150px;">Completion Date</th>
   </tr>
-  <tr>
+  <tr>  &nbsp; &nbsp; &nbsp; &nbsp;
     <td align="center">
-      <h6> &nbsp; &nbsp; &nbsp; &nbsp;
+      <h6>
         <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
         Compute
-      &nbsp; &nbsp; &nbsp; &nbsp;</h6>
-    </td>
+    </h6>
+    &nbsp; &nbsp; &nbsp; &nbsp; </td>
     <td>
       ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click <a href="https://docs.aws.amazon.com/ec2/">ℹ️ here</a> to access EC2 official docs
