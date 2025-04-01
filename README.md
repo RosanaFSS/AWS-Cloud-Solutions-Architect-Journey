@@ -10,7 +10,7 @@
   
 <table>
   <tr>
-    <th style="width: 300px;">Service</th>
+    <th style="width: 400px;">Service</th>
     <th style="width: 500px;">Description</th>
     <th style="width: 150px;">Completion Date</th>
   </tr>
