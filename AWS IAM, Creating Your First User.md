@@ -37,11 +37,57 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 1 - Log in to your AWS account}}$$ </h3>
+<p align="left">Go to the AWS website and log in using your credentials.</p>
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/78b6acd5-d364-4774-a809-8a7f24a7072f"> </p>
+
+<br>
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 2 - Access the AWS IAM service}}$$ </h3>
+<p align="left"> Click <code>Services</code>, select <code>IAM</code> in the <code>Security, Identity, & Compliance</code> section.</p>
+
+
+![image](https://github.com/user-attachments/assets/42733687-15f6-47ec-a00a-39a869726033)
+
+<br>
+
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 3 - Create the first user}}$$ </h3>
 
+<p align="left"> Click <code>Users</code> in the <code>Access management</code> section.</p>
+
+![image](https://github.com/user-attachments/assets/91788229-542b-46f4-a7f1-a35ae81cfde2)
+
+<br>
+
+<p align="left"> Click <code>Create user</code>.</p>
+
+<br>
+
+<p align="left"> Type <code>User name</code> and click <code>Next</code>.</p>
+
+<br>
+
+<p align="left"> Define <code>Permission options</code> toggling the one you need for the user.<br> I will choose <code>Add user to group</code>.<br> Click <code>Next</code>.<br><code>Review</code> and if its correct, click <code>Create user</code>.</p>
+
+
+![image](https://github.com/user-attachments/assets/35adbd58-a7eb-4caa-ae6e-fc67b7c15d8e)
+
+
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 4 - Verify the user has been created}}$$ </h3>
+
+
+![image](https://github.com/user-attachments/assets/89ffa635-c3d8-4d77-a916-8f1e901ff79e)
+
+
+<br>
+
+<p align="left"> Clicked<code>View user</code>.</p>
+
+![image](https://github.com/user-attachments/assets/40878bbe-a543-49e8-aca6-217599bac130)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5e87c6ae-18fd-46d1-a4e5-41aef6f5fa11)
 
 
