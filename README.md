@@ -15,14 +15,14 @@ CloudFaster Academy - Cloud Architect Program
 |<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"> </p> |✅ &nbsp; [Amazon DynamoDB](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/005.%20%20Amazon%20DynamoDB.md), sua primeira tabela no NoSQL|2023, September 18 &  2025, Janunary 16  |
 | |<br><h3><em> Método ADVC</em></h3>                              |                                         |
 |<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/12d9ce41-dc0d-4532-aaf7-f8859093e249"> </p> |✅ &nbsp; [AWS Console](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/006.%20AWS%20Console.md), Conhecendo a console de gerenciamento                                |2023, September 2 &  2025, April 1       |
-||✅ &nbsp; [AWS Budgets](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/007.%20AWS%20Budgets.md), Criando um alerta de Budget na console de Billing                            |2023, November 13 &  2025, April 1       |
-| |✅ &nbsp; AWS IAM, Criando seu primeiro usuário                               |2023, November 13|
-| |✅ &nbsp; AWS Trusted Advisor, Conhecendo o serviço                           |2023, November 13|
-| |✅ &nbsp; Amazon VPC, Criando e configurando uma VPC com o VPC Wizard         |2023, September 2  |
+|<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/09857e8b-83b9-41ad-a1b3-11c8fe90c7e1"> </p>|✅ &nbsp; [AWS Budgets](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/007.%20AWS%20Budgets.md), Criando um alerta de Budget na console de Billing                            |2023, November 13 &  2025, April 1       |
+|<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"> </p> |✅ &nbsp; AWS IAM, Criando seu primeiro usuário                               |2023, November 13|
+|<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8a795182-00e8-44d0-8f75-73480f73fffa"> </p> |✅ &nbsp; AWS Trusted Advisor, Conhecendo o serviço                           |2023, November 13|
+|<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5f8af611-0874-4c89-a126-9ff8257bc99b"> </p> |✅ &nbsp; Amazon VPC, Criando e configurando uma VPC com o VPC Wizard         |2023, September 2  |
 |<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"> </p> |✅ &nbsp; Amazon EC2, cProvisionadno seu primeiro servidor web                |2023, September 2  |
-| |✅ &nbsp; Amazon EBS, Adicionando um novo volume EBS na Amazon EC2 - Linux    |2023, November 13  |
-||✅ &nbsp; Amazon EBS, Adicionando um novo volume EBS na Amazon EC2 - Windows  |2023, November 14  |
-| |✅ &nbsp; Amazon EBS, Editando um volume EBS já existente                     |2023, November 14  |
+|<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5550c1b8-3b3d-42bf-b0a5-aaeda3a4b69c">|✅ &nbsp; Amazon EBS, Adicionando um novo volume EBS na Amazon EC2 - Linux    |2023, November 13  |
+|<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5550c1b8-3b3d-42bf-b0a5-aaeda3a4b69c">|✅ &nbsp; Amazon EBS, Adicionando um novo volume EBS na Amazon EC2 - Windows  |2023, November 14  |
+|<p align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5550c1b8-3b3d-42bf-b0a5-aaeda3a4b69c"> |✅ &nbsp; Amazon EBS, Editando um volume EBS já existente                     |2023, November 14  |
 | |✅ &nbsp; Amazon EBS, Ctiando seu primeiro Bucket                             |2023, September 2 |
 
 
