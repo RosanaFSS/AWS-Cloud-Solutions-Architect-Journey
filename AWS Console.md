@@ -33,7 +33,6 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 
 <br>
 <h2  align="center" class="bold" style="font-weight: bold">Arquitetura</h2>
-<p align="center">
-<p align="left"> <img width="900px" src="https:/"https://github.com/user-attachments/assets/25037795-ba38-4b5c-8bb1-f9e2318244e3"> </p>
+<p align="center"> <img width="900px" src="https:/"https://github.com/user-attachments/assets/25037795-ba38-4b5c-8bb1-f9e2318244e3"> </p>
 
 
