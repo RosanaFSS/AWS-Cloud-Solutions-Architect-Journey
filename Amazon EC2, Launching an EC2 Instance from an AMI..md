@@ -3,8 +3,6 @@
 
 <h2 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;">Launching an EC2 Instance from an AMI</h2>
 
-<br>
-
 ![image](https://github.com/user-attachments/assets/94b37be4-0192-4c35-a499-a3bc5f4b4648)
 
 Conteúdo do laboratório
