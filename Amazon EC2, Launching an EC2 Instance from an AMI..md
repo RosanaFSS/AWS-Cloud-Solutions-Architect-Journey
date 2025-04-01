@@ -1,5 +1,11 @@
-<h3>CloudFaster Academy, ADVC Program</h3>
-<p>November 5, 2024<br></p>
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hands-on ADVC method, Value Cloud Architect<br>CloudFaster Academy</h1>
+<p align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Since August 2023</p>
+<br>
+<br>
+
+<h3 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Launching an EC2 Instance from an AMI</h3>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/94b37be4-0192-4c35-a499-a3bc5f4b4648)
 
