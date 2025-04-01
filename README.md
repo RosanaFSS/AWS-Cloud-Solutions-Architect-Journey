@@ -74,7 +74,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/003.%20Amazon%20EC2%2C%20Provisioning%20a%20Web%20Server.md">Amazon EC2/a>, Provisioning Your First Web Server<br>
+      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/003.%20Amazon%20EC2%2C%20Provisioning%20a%20Web%20Server.md">Amazon EC2</a>, Provisioning Your First Web Server <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon EC2 official docs
     </td>
     <td style="vertical-align: top;">2024, Sep 18</td>
@@ -83,7 +83,7 @@
     <td align="center" style="vertical-align: top;">
       <h6>
         Amazon VPC<br>
-        <img width="40px" src=""https://github.com/user-attachments/assets/5f8af611-0874-4c89-a126-9ff8257bc99b"><br>
+        <img width="40px" src="https://github.com/user-attachments/assets/5f8af611-0874-4c89-a126-9ff8257bc99b"><br>
        Networking & Content Delivery
       </h6>
     </td>
