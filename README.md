@@ -20,14 +20,14 @@
   <tr>
     <td align="center" style="vertical-align: top;">
       <h6>
-        Amazon S3<br>
-        <img width="40px" src="     "><br>
-        Storage
+        AWS Management Console<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/12d9ce41-dc0d-4532-aaf7-f8859093e249"><br>
+        Management & Governance
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="     ">Amazon Console</a>, Navigating the Management Console <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="        ">ℹ️</a> to access Management Console official docs.
+      ✅ &nbsp; <a href="AWS Management Console, Navigating the Management Console .md">AWS Console</a>, Navigating the Management Console <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/console/">ℹ️</a> to access Management Console official docs.
     </td>
     <td style="vertical-align: top;">2023, Sep 2</td>
   </tr>
@@ -189,8 +189,8 @@
 
 
 
-| |<br><h3><em> Método ADVC</em></h3>                              |                                         |
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/12d9ce41-dc0d-4532-aaf7-f8859093e249"><br>Management & Governance </h6> |✅ &nbsp; [AWS Console](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/006.%20AWS%20Console.md), Navigating the Management Console      |2023, Sep 2    |
+
+
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/09857e8b-83b9-41ad-a1b3-11c8fe90c7e1"><br>Cloud Financial Management </h6>|✅ &nbsp; [AWS Budgets](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/007.%20AWS%20Budgets.md), Creating a Budget Alert in the Billing Console |2023, Nov 13   |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Creating Your First User                      |2023, Nov 13|
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8a795182-00e8-44d0-8f75-73480f73fffa"><br> Management & Governance </h6> |✅ &nbsp; AWS Trusted Advisor, Understanding the Service           |2023, Nov 13|
