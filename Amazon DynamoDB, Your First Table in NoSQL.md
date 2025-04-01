@@ -2,6 +2,7 @@
 <br>
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;"> Amazon DynamoDB, Your First Table in NoSQL</h1>
 
+![image](https://github.com/user-attachments/assets/a651ffb5-5889-45a0-afbd-ecb1bfa604a3)
 
 
 <br>
