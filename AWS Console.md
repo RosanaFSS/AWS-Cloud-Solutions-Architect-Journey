@@ -84,5 +84,7 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 <h3 align="left"> $$\textcolor{white}{\textnormal{Conclusão}}$$ </h3>
 <p align="left">n this lab, you learned how to create and configure a Virtual Private Cloud (VPC). We hope you gained a solid understanding of how to create and configure your Virtual Private Cloud on AWS.</p>
 
-<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/2480520a-e321-4f9e-b638-204244d104c7"> </p>
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/035cda75-e0da-47ca-870b-d8ffcd6672b4"> </p>
+
+
 
