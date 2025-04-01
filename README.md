@@ -17,7 +17,7 @@
   <tr>
     <td align="center">
       <h6>
-        <img width="400px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
+        <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"> &nbsp; &nbsp; &nbsp; &nbsp;<br>
         Compute
       </h6>
     </td>
