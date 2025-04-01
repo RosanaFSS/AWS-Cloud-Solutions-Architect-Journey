@@ -34,16 +34,16 @@
   <tr>
     <td align="center" style="vertical-align: top;">
       <h6>
-        Amazon EC2<br>
-        <img width="40px" src="     "><br>
-       Compute
+        AWS Budgets<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/09857e8b-83b9-41ad-a1b3-11c8fe90c7e1"><br>
+        Cloud Financial Management
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="        ">XXXX</a>, XXXX <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/ec2/">ℹ️</a> to access Amazon EC2 official docs
+      ✅ &nbsp; <a href="AWS Budgets. Creating a Budget Alert in the Billing Console.md">AWS Budgets</a>, Creating a Budget Alert in the Billing Console <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/aws-cost-management/aws-budgets/">ℹ️</a> to access AWS Budgets official docs.
     </td>
-    <td style="vertical-align: top;">2023, Sep 18</td>
+    <td style="vertical-align: top;">2023, Nov 13</td>
   </tr>
     <tr>
     <td align="center" style="vertical-align: top;">
@@ -191,7 +191,6 @@
 
 
 
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/09857e8b-83b9-41ad-a1b3-11c8fe90c7e1"><br>Cloud Financial Management </h6>|✅ &nbsp; [AWS Budgets](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/007.%20AWS%20Budgets.md), Creating a Budget Alert in the Billing Console |2023, Nov 13   |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Creating Your First User                      |2023, Nov 13|
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8a795182-00e8-44d0-8f75-73480f73fffa"><br> Management & Governance </h6> |✅ &nbsp; AWS Trusted Advisor, Understanding the Service           |2023, Nov 13|
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/5f8af611-0874-4c89-a126-9ff8257bc99b"><br>Networking & Content Delivery </h6> |✅ &nbsp; Amazon VPC,  Creating and Configuring a VPC with the VPC Wizard    |2023, Sep 2  |
