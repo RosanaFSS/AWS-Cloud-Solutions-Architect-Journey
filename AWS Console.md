@@ -25,4 +25,15 @@ Suporte a vários usuários: permite a criação de contas de usuário com difer
 Atualizações constantes: a AWS continua a evoluir e expandir seus serviços, e a console é regularmente atualizada para refletir novas funcionalidades e melhorias.<br>
 
 Assistência e documentação: fornece acesso a uma vasta documentação e recursos de aprendizado, além de suporte técnico para resolver problemas e dúvidas.</p>
-</p>
+
+<br>
+<h2  align="center" class="bold" style="font-weight: bold">Conteúdo</h2>
+<p align="center">
+  <p>Neste laboratório iremos navegar na console da AWS com o objetivo de demonstrar as principais funcionalidades e localização dos recursos.</p>
+
+<br>
+<h2  align="center" class="bold" style="font-weight: bold">Arquitetura</h2>
+<p align="center">
+<p align="left"> <img width="900px" src="https:/"https://github.com/user-attachments/assets/25037795-ba38-4b5c-8bb1-f9e2318244e3"> </p>
+
+
