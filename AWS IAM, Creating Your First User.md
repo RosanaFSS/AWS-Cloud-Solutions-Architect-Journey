@@ -31,5 +31,17 @@ Verify the user has been created.</p>
 
 <br>
 
+<br>
+<h1 align="left"> $$\textcolor{#33fffe}{\textnormal{AWS IAM, Creating Your First User}}$$<br>
+$$\textcolor{white}{\textnormal{Practice}}$$ </h1>
+
+
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 1 - Log in to your AWS account}}$$ </h3>
+
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 2 - Access the AWS IAM service}}$$ </h3>
+
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 3 - Create the first user}}$$ </h3>
+
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 4 - Verify the user has been created}}$$ </h3>
 
 
