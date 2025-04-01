@@ -1,14 +1,26 @@
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hands-on ADVC method, Value Cloud Architect<br>CloudFaster Academy</h1>
-<p align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Since August 2023</p><br>
+<p align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Since August 2023</p>
+<br>
+<br>
+
+
+<h2 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h2>
+
+<div align="center">
+
+|Service|Description                                                        |Completion Date                                  |
+|:---: |:------------------------------------------------------------------|:------------------------------------------------|
+|      | <br><h3><em> Cloud Practitioner Immserion</em></h3>                  |                                         |
+|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>Compute <h6> |✅ &nbsp; [Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md), Launching an EC2 Instance from an AMI <br> &nbsp; &nbsp; &nbsp; &nbsp; Click <a  href="https://docs.aws.amazon.com/ec2/"> ℹ️ here</a> to access EC2 official docs</h6>         |2024, Nov 5                         | 
+
+</div>
 
 
 <div align="center">
 
-
 |Service|Description                                                        |Completion Date                                  |
 |:---: |:------------------------------------------------------------------|:------------------------------------------------|
-|      | <br><h3><em>Imersão Cloud Practitioner</em></h3>                  |                                         |
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>Compute <h6> |✅ &nbsp; [Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md), Launching an EC2 Instance from an AMI <br> &nbsp; &nbsp; &nbsp; &nbsp; Click <a  href="https://docs.aws.amazon.com/ec2/"> ℹ️ here</a> to access EC2 official docs</h6>         |2024, Nov 5                         | 
+  
 | |<br><h3><em>Imersão Solutions Architect</em></h3>                              |                                         |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/fd1bac06-7145-4056-8a43-b56f34c6378c"><br>Storage </h6>|✅ &nbsp; [Amazon S3](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-5Journey/blob/CloudFaster-Academy/001.%20Amazon%20S3.md), Creating your first Bucket        |2023, Sep 18                          |
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>Compute </h6>|✅ &nbsp; [Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/003.%20Amazon%20EC2%2C%20Provisioning%20a%20Web%20Server.md), Provisioning Your First Web Server<br> &nbsp; &nbsp; &nbsp; &nbsp; Click <a  href="https://docs.aws.amazon.com/ec2/"> ℹ️ here</a> to access EC2 official docs</h6>             |2023, Sep 18   |
