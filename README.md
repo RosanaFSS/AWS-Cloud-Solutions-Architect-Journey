@@ -74,7 +74,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href=https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/003.%20Amazon%20EC2%2C%20Provisioning%20a%20Web%20Server.md">Amazon EC2/a>,Provisioning Your First Web Server<br>
+      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/003.%20Amazon%20EC2%2C%20Provisioning%20a%20Web%20Server.md">Amazon EC2/a>, Provisioning Your First Web Server<br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon EC2 official docs
     </td>
     <td style="vertical-align: top;">2024, Sep 18</td>
@@ -88,7 +88,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href=https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/004.%20Amazon%20VPC%2C%20Creating%20and%20Configuring%20a%20VPC%20with%20VPC%20Wizard.md">Creating and Configuring a VPC with the VPC Wizard<br>
+      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/004.%20Amazon%20VPC%2C%20Creating%20and%20Configuring%20a%20VPC%20with%20VPC%20Wizard.md">Creating and Configuring a VPC with the VPC Wizard<br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon VPC official docs
     </td>
     <td style="vertical-align: top;">2024, Nov 19</td>
