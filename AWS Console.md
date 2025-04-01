@@ -1,10 +1,10 @@
 <h1 align="center"> $$\textcolor{#33fffe}{\textnormal{AWS, Conhecendo a console de gerenciamento}}$$ </h1>
 <p align="center">CloudFaster Academy   -   ADVC Program<br> 
-September 028, <bold>2023</bold>  &nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;  March 31, 2025</p>
+September 02, <bold>2023</bold>  &nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;  April 1, 2025</p>
 <br>
 
 <br>
-<h2  align="center" class="bold" style="font-weight: bold"> AWS Console</h2>
+<h2  align="center" class="bold" style="font-weight: bold"> AWS Console<br>Conhecendo a console de gerenciamento</h2>
 <p align="center">
 <p>A console permite aos usuários gerenciar e monitorar seus serviços e recursos da AWS. Seguindo os principais pontos desse laboratório, sendo:<br> 
 
