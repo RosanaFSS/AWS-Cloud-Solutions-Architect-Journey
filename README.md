@@ -24,5 +24,6 @@ CloudFaster Academy - Cloud Architect Program
 |Amazon EBS, Adicionando um novo volume EBS na Amazon EC2 - Windows  |2023, November 14  |
 |Amazon EBS, Editando um volume EBS já existente                     |2023, November 14  |
 |Amazon EBS, Ctiando seu primeiro Bucket                             |2023, September 2 |
+| <br><h3> Método ADVC</h3>                              |                                         |
 
 </div>
