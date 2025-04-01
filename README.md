@@ -24,7 +24,7 @@
    </td>
     <td style="text-align: left;">
       ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click <a href="https://docs.aws.amazon.com/ec2/">ℹ️ here</a> to access EC2 official docs
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access EC2 official docs
     </td>
     <td>2024, Nov 5</td>
   </tr>
