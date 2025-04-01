@@ -1,5 +1,6 @@
-<h3>CloudFaster Academy, ADVC Program</h3>
-<p>November 5, 2024<br></p> 
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hands-on ADVC method, Value Cloud Architect<br>CloudFaster Academy</h1>
+<br>
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;">Creating your first Bucket</h1>
 
 ![image](https://github.com/user-attachments/assets/eb99cf4b-84cd-4bdf-abcc-ba7ae6436a3c)
 
