@@ -41,7 +41,7 @@
     </td>
     <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="Amazon EC2, Provisioning Your First Web Server.md">Amazon EC2</a>, Provisioning Your First Web Server <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon EC2 official docs
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/ec2/">ℹ️</a> to access Amazon EC2 official docs
     </td>
     <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
@@ -103,7 +103,7 @@
     </td>
     <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="Amazon EC2, Launching an EC2 Instance from an AMI.md">Amazon EC2</a>, Launching an EC2 Instance from an AMI <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://docs.aws.amazon.com/ec2/">ℹ️</a> to access Amazon EC2 official docs
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/ec2/">ℹ️</a> to access Amazon EC2 official docs
     </td>
     <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
