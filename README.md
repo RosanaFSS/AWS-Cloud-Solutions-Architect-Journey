@@ -17,7 +17,7 @@
   <tr>
     <td align="center">
       <h6>
-        Amazon EC2
+        Amazon EC2<br>
         <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
         Compute
     </h6>
