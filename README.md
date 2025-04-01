@@ -6,6 +6,8 @@
 
 <h2 align="center" style="font-family: 'Impact', sans-serif; color: #FF9900; font-size: 40px;">Cloud Practitioner Immersion</h2>
 
+<div align="center">
+  
 <table>
   <tr>
     <th style="width: 150px;">Service</th>
@@ -27,7 +29,7 @@
   </tr>
 </table>
 
-
+</div>
 
 
 
