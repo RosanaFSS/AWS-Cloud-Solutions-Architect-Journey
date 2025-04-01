@@ -8,6 +8,32 @@
 
 <div align="center">
 
+<table>
+  <tr>
+    <th style="width: 150px;">Service</th>
+    <th style="width: 300px;">Description</th>
+    <th style="width: 150px;">Completion Date</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <h6>
+        <img width="50px" src="https://github.com/user-attachments/assets/8763b49d-154f-4df2-bfd1-d702e3746987"><br>
+        Compute
+      </h6>
+    </td>
+    <td>
+      <h3><em>Cloud Practitioner Immersion</em></h3>
+      ✅ &nbsp; [Amazon EC2](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/000.%20%20Amazon%20EC2%2C%20AMI.md), Launching an EC2 Instance from an AMI <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click <a href="https://docs.aws.amazon.com/ec2/">ℹ️ here</a> to access EC2 official docs
+    </td>
+    <td>2024, Nov 5</td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
 |Service|Description                                                        |Completion Date                                  |
 |:---: |:------------------------------------------------------------------|:------------------------------------------------|
 |      | <br><h3><em> Cloud Practitioner Immserion</em></h3>                  |                                         |
