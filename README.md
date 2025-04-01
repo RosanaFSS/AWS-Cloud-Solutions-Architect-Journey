@@ -48,30 +48,44 @@
     <tr>
     <td align="center" style="vertical-align: top;">
       <h6>
-        Amazon VPC<br>
-        <img width="40px" src="https://github.com/user-attachments/assets/5f8af611-0874-4c89-a126-9ff8257bc99b"><br>
-       Networking & Content Delivery
+        AWS IAM<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
+        Security, Identity, & Compliance
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="Amazon VPC, Creating and Configuring a VPC with VPC Wizard.md">Amazon VPC</a>, Creating and Configuring a VPC with the VPC Wizard <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/vpc/">ℹ️</a> to access Amazon VPC official docs
+      ✅ &nbsp; <a href="  ">AWS IAM</a>, Creating Your First User <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
-    <td style="vertical-align: top;">2023, Sep 18</td>
+    <td style="vertical-align: top;">2023, Nov 13</td>
   </tr>
     <tr>
     <td align="center" style="vertical-align: top;">
       <h6>
-        Amazon DynamoDB<br>
-        <img width="40px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"><br>
-      Database
+        AWS IAM<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
+        Security, Identity, & Compliance
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="Amazon DynamoDB, Your First Table in NoSQL.md">Amazon DynamoDB</a>, Your First Table in NoSQL <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/dynamodb/">ℹ️</a> to access Amazon DynamoDB official docs.
+      ✅ &nbsp; <a href="  ">AWS IAM</a>, Understanding AWS Identity and Access Management (IAM) <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
-    <td style="vertical-align: top;">2023, Sep 18</td>
+    <td style="vertical-align: top;">2023, Sep 3</td>
+  </tr>
+      <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        AWS IAM<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
+        Security, Identity, & Compliance
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="  ">AWS IAM</a>, Creating a Password Policy <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
+    </td>
+    <td style="vertical-align: top;">2023, Nov 14</td>
   </tr>
   
 </table>
@@ -202,7 +216,6 @@
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/ce2dcea5-a2ec-48d7-8178-c5651c82a5ec"> <br>Database</h6> |✅ &nbsp; [Amazon DynamoDB](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/005.%20%20Amazon%20DynamoDB.md),  Your First Table in NoSQL|2023, Sep 2  |
 | |✅ &nbsp; [EC@ + ELB + EC2](),<br> &nbsp; &nbsp; &nbsp; Amazon C2, Provisionado um serviço web com EC2 + ELB _ EC2 Auto Scaling|2023, Nov 11  |
 | |✅ &nbsp; [EC@ + ELB + EC2](), Amazon C2, Provisionado um serviço web com EC2 + ELB _ EC2 Auto Scaling|2023, Nov 11  |
-|<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Understanding AWS Identity and Access Management (IAM)       |2023, Sep 3|
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Creating a Password Policy    |2023, Nove 14|
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Generating an Access Key and Secret Key for an IAM User    |2023, Nov 14|
 |<h6 align="center"> <img width="50px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>Security, Identity, & Compliance </h6> |✅ &nbsp; AWS IAM, Revoking Access and Disabling a User|2024, Feb 9|
