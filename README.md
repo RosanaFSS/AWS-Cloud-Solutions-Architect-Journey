@@ -88,7 +88,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/004.%20Amazon%20VPC%2C%20Creating%20and%20Configuring%20a%20VPC%20with%20VPC%20Wizard.md">Creating and Configuring a VPC with the VPC Wizard <br>
+      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/004.%20Amazon%20VPC%2C%20Creating%20and%20Configuring%20a%20VPC%20with%20VPC%20Wizard.md">Amazon VPC</a>,Creating and Configuring a VPC with the VPC Wizard <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon VPC official docs
     </td>
     <td style="vertical-align: top;">2024, Nov 19</td>
