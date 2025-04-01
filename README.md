@@ -60,7 +60,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-5Journey/blob/CloudFaster-Academy/001.%20Amazon%20S3.md">Amazon S3</a>, Creating your first Bucket <br>
+      ✅ &nbsp; <a href=Creating your first Bucket">Amazon S3</a>, Creating your first Bucket <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon S3 official docs
     </td>
     <td style="vertical-align: top;">2024, Sep 8</td>
