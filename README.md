@@ -55,7 +55,7 @@
     </td>
     <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="Amazon VPC, Creating and Configuring a VPC with VPC Wizard.md">Amazon VPC</a>, Creating and Configuring a VPC with the VPC Wizard <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="      ">ℹ️</a> to access Amazon VPC official docs
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/vpc/">ℹ️</a> to access Amazon VPC official docs
     </td>
     <td style="vertical-align: top;">2023, Sep 18</td>
   </tr>
