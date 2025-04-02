@@ -146,6 +146,20 @@
   <tr>
     <td align="center" style="vertical-align: top;">
       <h6>
+        AWS IAM<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
+        Security, Identity, & Compliance
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; Adding a <a href="  ">IAM</a> Role in EC2 to access an Amazon S3 bucket<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
+    </td>
+    <td style="vertical-align: top;">   </td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
         AWS Secrets Manager<br>
         <img width="40px" src="https://github.com/user-attachments/assets/5dd77230-b874-479d-a163-804a92bcac8f"><br>
         Security, Identity, & COmpliance
