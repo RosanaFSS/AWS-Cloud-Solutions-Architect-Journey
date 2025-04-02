@@ -82,6 +82,20 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
+      ✅ &nbsp; <a href="AWS IAM, Creating a Password Policy.md">AWS IAM</a>, Creating a Password Policy <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
+    </td>
+    <td style="vertical-align: top;">2023, Nov 14</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h6>
+        AWS IAM<br>
+        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
+        Security, Identity, & Compliance
+      </h6>
+    </td>
+    <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="">AWS IAM</a>, Creating a Password Policy and a IAM Role<br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
@@ -110,35 +124,6 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS IAM, Creating a Password Policy.md">AWS IAM</a>, Creating a Password Policy <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
-    </td>
-    <td style="vertical-align: top;">2023, Nov 14</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">
-      <h6>
-        AWS IAM<br>
-        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
-        Security, Identity, & Compliance
-      </h6>
-    </td>
-    <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS IAM, Generating an Access Key and Secret Key for an IAM User.md">AWS IAM</a>, Generating an Access Key and Secret Key for an IAM User <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
-    </td>
-    <td style="vertical-align: top;">2023, Nov 14</td>
-  </tr>
-  <tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">
-      <h6>
-        AWS IAM<br>
-        <img width="40px" src="https://github.com/user-attachments/assets/74e6bff8-42f1-4aad-b754-102e927cab30"><br>
-        Security, Identity, & Compliance
-      </h6>
-    </td>
-    <td style="text-align: left; vertical-align: top;">
       ✅ &nbsp; <a href="AWS IAM, Revoking Access and Disabling a User.md">AWS IAM</a>, Revoking Access and Disabling a User <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
@@ -153,10 +138,10 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS IAM, Revoking Access and Disabling a User.md">AWS IAM</a>, Revoking Access and Disabling a User <br>
+      ✅ &nbsp; <a href="  ">AWS IAM</a>, Provisioning aa IAM user with IaC <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
-    <td style="vertical-align: top;">2023, Nov 14</td>
+    <td style="vertical-align: top;">   </td>
   </tr>
   <tr>
     <td align="center" style="vertical-align: top;">
