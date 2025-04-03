@@ -65,10 +65,63 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/6be2e446-537a-43b4-b5eb-35bc740dd93c)
+
+![image](https://github.com/user-attachments/assets/71be9678-bbba-42b3-a875-394fcaa16100)
+
 
 <br>
 
 
+![image](https://github.com/user-attachments/assets/c281365a-d156-41b1-bc6f-456da6944262)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f4b0f5e6-6995-4075-b3d4-a0a9244ae36d)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d95d47d5-7747-4c16-9e38-6508e90f7b1c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a96095be-f428-4527-b1e2-bdaa51493119)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/cc930145-55a5-47a6-8776-6d36fd58254d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c3676549-76d5-4bf0-9633-acab4f435378)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/767eea9c-77fd-4400-a1b0-4190704f43d4)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/41e32614-0b2d-448c-ad6b-eaad07edcf4c)
+
+<br>
+
+
+
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 4 - Create a role.}}$$ </h3>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/94cbbb23-e3d7-4ef8-a971-f40d9fc35e35)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/568c9ca5-01f5-4fba-8dd7-deb3905b4ca0)
+
+<br>
+
+
+
+
 
