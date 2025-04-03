@@ -39,10 +39,43 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 <p align="left">Go to the AWS website and log in using your credentials.</p>
 
 
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/78b6acd5-d364-4774-a809-8a7f24a7072f"> </p>
+
+<br>
+
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 2 - Access the AWS IAM service through the console.}}$$ </h3>
 
 
+![image](https://github.com/user-attachments/assets/42733687-15f6-47ec-a00a-39a869726033)
+
+<br>
+
+
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 3 - Create an IAM password policy.}}$$ </h3>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/6be2e446-537a-43b4-b5eb-35bc740dd93c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ab35ada2-2fbc-41e0-8638-660465535b15)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c14cb0a1-9134-48df-8908-d817474cf7ad)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c8a9dd8b-b66d-4182-9819-c008ea22ffad)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/395011aa-5086-4354-89c0-585d6addc55d)
+
+
+
+
 
 
 
