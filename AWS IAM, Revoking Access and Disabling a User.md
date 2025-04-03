@@ -71,3 +71,9 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 6 - Remove the access of the created user.}}$$ </h3>
 
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/8b52c514-2448-45a8-bcfd-d425d6fd1eab)
+
+
