@@ -121,6 +121,40 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <br>
 
+<p>Click <code>Next</code>.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/10969a77-d5dc-48d8-a53e-a7eb63bd890e)
+
+<br>
+
+<p>Click <code>Next</code>.</p>
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/35ca7a28-7d93-4b65-abe2-6e1ec19fc188)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7512c8b5-e206-4325-9c27-b164c3de1d13)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e706679b-188e-4777-a533-172200b257f5)
+
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/49dabfcb-eaff-4285-bca9-cef3c0e12312)
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/4d13286b-181d-4234-80dc-8ab6d669ecfd)
+
+
 
 
 
