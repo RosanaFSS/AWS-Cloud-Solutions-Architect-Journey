@@ -86,5 +86,12 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/035cda75-e0da-47ca-870b-d8ffcd6672b4"> </p>
 
+<br>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f68e2a97-ade4-44f9-b4ea-a643c4fe495a)
+
+
 
 
