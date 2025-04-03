@@ -101,7 +101,10 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 5 - Log in to the account with your new user.}}$$ </h3>
 
-https://054959394458.signin.aws.amazon.com/console
+
+![image](https://github.com/user-attachments/assets/99033d55-274c-444e-bb66-e9cbfd627b2d)
+
+
 
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 6 - Remove the access of the created user.}}$$ </h3>
