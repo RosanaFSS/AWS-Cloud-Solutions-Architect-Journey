@@ -38,7 +38,8 @@ In this lab, you will learn to create an IAM user and generate an access key.</p
 <h2  align="center" class="bold" style="font-weight: bold">Tasks</h2>
 <p align="center">Access the AWS Management Console.<br>
 Create an IAM user.<br>
-Create an Access Key.</p>
+Check the user created<br>
+Create an Access Key and a Secret Key.</p>
 
 <br>
 <p align="center">Let´s start!</p>
@@ -76,13 +77,72 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 
 <br>
 
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/dcf7a274-bf83-46d0-9dcf-68a3e38f602c"> </p>
+
+<br>
 
 
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/441123d7-959f-48e3-b5f9-557ff9de6324"> </p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 3 - Check the user created.}}$$ </h3>
+
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/da84b578-71b6-44eb-a562-2fe6bc3c4544"> </p>
+
+<br>
+
+
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 4 - Create an Access Key and a Secret Key.</p>}}$$ </h3>
+
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/65b41cda-1827-4b01-9229-7fb59f330168"> </p>
+
+
+<br>
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/f5d4d7a0-4efb-495e-b3cd-9c0d91b593a4"> </p>
+
+
+<br>
+
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/3b0ed2a4-f99d-4f26-9223-94ac46a364f5"> </p>
+
+<br>
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/6a6532dc-cb8a-4733-8e62-0eabe0f76e4f"> </p>
+
+
+
+<br>
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/8c934c11-8f2e-490e-b227-e231bdcc992e"> </p>
 
 
 
 <br>
 
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{Step 3 - Create an Access Key.}}$$ </h3>
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/b1c504e8-4cdf-4253-a303-b35f03832fa4"> </p>
 
+<br>
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/e8b02312-8f2b-479c-9f70-7413be6ca030"> </p>
+
+
+<br>
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/244fe3b6-455d-41d0-aafa-8638eb6581b8"> </p>
+
+
+<br><br>
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/fc93d036-844b-43ef-8810-6c88e71df4ab"> </p>
+
+
+<br>
+<br>
+
+<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/69deb2a8-4311-4bdd-adf2-86741ee8a4a0"> </p>
