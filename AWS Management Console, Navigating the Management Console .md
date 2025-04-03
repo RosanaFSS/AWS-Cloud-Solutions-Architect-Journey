@@ -15,6 +15,8 @@ Lab Content<br>
 September 02, <bold>2023</bold>  &nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;  April 1, 2025</p>
 <br>
 
+![Hands-on](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/AWS%20Management%20Console%2C%20Navigating%20the%20Management%20Console.gif)
+
 <br>
 <h2  align="center" class="bold" style="font-weight: bold"> AWS Console<br>Conhecendo a console de gerenciamento</h2>
 <p align="center">
