@@ -57,6 +57,15 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 <br>
 <h3 align="left"> $$\textcolor{white}{\textnormal{1 - Acesse a console de gerenaciamento de AWS}}$$ </h3>
 
+<br>
+
+![image](https://github.com/user-attachments/assets/38ce2efb-18c0-4f61-9092-09e2d8dafa0f)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/6736bde2-ad86-406b-84e2-640c87266bc2)
+
+
 
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{2- Encontre os Servicços}}$$ </h3>
@@ -66,27 +75,36 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{3 - Navege pelos Serviços$$ </h3>
 
-![image](https://github.com/user-attachments/assets/c1e3f576-133f-4a34-a445-76d0f27eaec1)
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{4 - Alterne entre os Serviços$$ </h3>
-
-![image](https://github.com/user-attachments/assets/3efb325e-c376-423e-8381-2bd8e4c24d19)
+![image](https://github.com/user-attachments/assets/def71739-ff02-4907-97e9-e894d2e24aa4)
 
 <br>
 
->![image](https://github.com/user-attachments/assets/42da1ddc-6996-4687-a37d-8edba9325a74)
 
-![image](https://github.com/user-attachments/assets/e5840723-91c9-495a-9f00-03dfac2b395e)
+
+<h3 align="left"> $$\textcolor{white}{\textnormal{4 - Alterne entre os Serviços$$ </h3>
+
+
+![image](https://github.com/user-attachments/assets/49d3f683-1189-4a0b-be15-22be80778db6)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/481aea34-dc44-4f85-8711-0b877b2f15e7)
+
+<br>
+
 
 
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{5 - Personalize seu paindel de controle$$ </h3>
 
-![image](https://github.com/user-attachments/assets/e5840723-91c9-495a-9f00-03dfac2b395e)
+![image](https://github.com/user-attachments/assets/09f0a4cf-1c0b-4001-a8e0-8729f940e14b)
 
 <br>
 
-![image](https://github.com/user-attachments/assets/ead371c5-be96-4f38-a54e-d9abaefeda56)
+![image](https://github.com/user-attachments/assets/c10070d1-9e32-4a21-b011-b3e72dd0cc01)
+
 
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{6 - Conheça as configuração da conta$$ </h3>
