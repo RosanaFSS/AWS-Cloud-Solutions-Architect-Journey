@@ -68,7 +68,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS IAM, Understanding AWS Identity and Access Management (IAM).md">AWS IAM</a>, Understanding AWS Identity and Access Management (IAM) <br>
+      ✅ &nbsp; <a href="AWS IAM, Understanding AWS Identity and Access Management (IAM).md">AWS IAM</a>, <code><strong>Understanding AWS Identity and Access Management (IAM) </strong><c/code> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
     <td style="vertical-align: top;">2023, Sep 3</td>
@@ -82,7 +82,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS IAM, Creating a Password Policy.md">AWS IAM</a>, Creating a Password Policy <br>
+      ✅ &nbsp; <a href="AWS IAM, Creating a Password Policy.md">AWS IAM</a>,  <code><strong>Creating a Password Policy </strong></code> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
     <td style="vertical-align: top;">2023, Nov 14</td>
@@ -96,7 +96,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS IAM, Creating a Password Policy and an IAM Role.md">AWS IAM</a>, Creating a Password Policy and an IAM Role<br>
+      ✅ &nbsp; <a href="AWS IAM, Creating a Password Policy and an IAM Role.md">AWS IAM</a>,  <code><strong>Creating a Password Policy and an IAM Rol</strong></code><br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
     <td style="vertical-align: top;">2024, Feb 8</td>
@@ -110,7 +110,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS IAM, Generating an Access Key and Secret Key for an IAM User.md">AWS IAM</a>, Generating an Access Key and Secret Key for an IAM User <br>
+      ✅ &nbsp; <a href="AWS IAM, Generating an Access Key and Secret Key for an IAM User.md">AWS IAM</a>,  <code><strong>Generating an Access Key and Secret Key for an IAM User</strong></code> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
     <td style="vertical-align: top;">2023, Nov 14</td>
@@ -124,7 +124,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS IAM, Revoking Access and Disabling a User.md">AWS IAM</a>, Revoking Access and Disabling a User <br>
+      ✅ &nbsp; <a href="AWS IAM, Revoking Access and Disabling a User.md">AWS IAM</a>,  <code><strong>Revoking Access and Disabling a User </strong></code> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
     <td style="vertical-align: top;">2023, Feb 9</td>
