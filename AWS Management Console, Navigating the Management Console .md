@@ -8,11 +8,6 @@
 <p align="center"> In this lab we will navigate the AWS console with the aim of demonstrating the main functionalities and location of resources.</p>
 
 
-<h1 align="center"> $$\textcolor{#33fffe}{\textnormal{AWS, Conhecendo a console de gerenciamento}}$$ </h1>
-<p align="center">CloudFaster Academy   -   ADVC Program<br> 
-September 02, <bold>2023</bold>  &nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;  April 1, 2025</p>
-<br>
-
 ![Hands-on](https://github.com/RosanaFSS/AWS-Cloud-Solutions-Architect-Journey/blob/CloudFaster-Academy/AWS%20Management%20Console%2C%20Navigating%20the%20Management%20Console.gif)
 
 <br>
