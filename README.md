@@ -127,7 +127,7 @@
       ✅ &nbsp; <a href="AWS IAM, Revoking Access and Disabling a User.md">AWS IAM</a>, Revoking Access and Disabling a User <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
-    <td style="vertical-align: top;">2023, Nov 14</td>
+    <td style="vertical-align: top;">2023, Feb 9</td>
   </tr>
     <tr>
     <td align="center" style="vertical-align: top;">
