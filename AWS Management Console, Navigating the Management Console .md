@@ -1,3 +1,18 @@
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hands-on ADVC method, Value Cloud Architect<br>CloudFaster Academy</h1>
+<br>
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;">AWS Management Console</h1>
+
+<h2  align="center" class="bold" style="font-weight: bold">Revoking Access and Disabling a User</h2>
+<p align="center">AWS Identity and Access Management (IAM)<br>
+
+AWS Identity and Access Management (IAM) is a service from Amazon Web Services that allows you to securely manage access to AWS services and resources. With IAM, you can control who can perform specific actions on specific AWS resources, providing a critical layer of security and access management in your cloud infrastructure.</p>
+
+<h2  align="center" class="bold" style="font-weight: bold">Content</h2>
+<p align="center">
+
+Lab Content<br>
+
+
 <h1 align="center"> $$\textcolor{#33fffe}{\textnormal{AWS, Conhecendo a console de gerenciamento}}$$ </h1>
 <p align="center">CloudFaster Academy   -   ADVC Program<br> 
 September 02, <bold>2023</bold>  &nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;  April 1, 2025</p>
