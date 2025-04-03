@@ -2,11 +2,6 @@
 <br>
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;">AWS IAM, Revoking Access and Disabling a User</h1>
 
-
-![image](https://github.com/user-attachments/assets/a7cbc480-62cb-4cb1-a36c-ac5879ab4082)
-
-
-
 <h2  align="center" class="bold" style="font-weight: bold">Revoking Access and Disabling a User</h2>
 <p align="center">AWS Identity and Access Management (IAM)<br>
 
@@ -21,7 +16,8 @@ In this lab, you will learn how to create a user in IAM, grant and revoke access
 
 <h2  align="center" class="bold" style="font-weight: bold">Architecture</h2>
 
-![image](https://github.com/user-attachments/assets/74bae7af-d48a-40e9-acc6-72265300f29b)
+
+![image](https://github.com/user-attachments/assets/a7cbc480-62cb-4cb1-a36c-ac5879ab4082)
 
 
 
