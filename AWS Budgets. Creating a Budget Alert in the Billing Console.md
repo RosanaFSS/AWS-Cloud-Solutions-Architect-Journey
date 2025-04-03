@@ -52,3 +52,8 @@ September 02, <bold>2023</bold>  &nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;  April 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Conclusão}}$$ </h3>
 
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/beca1b9f-29a0-4f5a-bf43-9edc35603861"> </p>
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/6d0fcf2e-17d3-4ef2-b18e-66e49e9fe688)
+
