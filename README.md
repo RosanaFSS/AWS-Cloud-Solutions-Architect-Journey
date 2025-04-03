@@ -40,7 +40,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS Budgets. Creating a Budget Alert in the Billing Console.md">AWS Budgets</a>, <code>Creating a Budget Alert in the Billing Console</code> <br>
+      ✅ &nbsp; <a href="AWS Budgets. Creating a Budget Alert in the Billing Console.md">AWS Budgets</a>,  <code><strong>Creating a Budget Alert in the Billing Console </strong>code></code>strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/aws-cost-management/aws-budgets/">ℹ️</a> to access AWS Budgets official docs.
     </td>
     <td style="vertical-align: top;">2023, Nov 13</td>
@@ -54,7 +54,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS IAM, Creating Your First User.md">AWS IAM</a>, Creating Your First User <br>
+      ✅ &nbsp; <a href="AWS IAM, Creating Your First User.md">AWS IAM</a>,  <code><strong>Creating Your First User </strong>code></code>strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/iam/">ℹ️</a> to access AWS IAM official docs
     </td>
     <td style="vertical-align: top;">2023, Nov 13</td>
