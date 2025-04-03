@@ -63,14 +63,13 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 ![image](https://github.com/user-attachments/assets/6736bde2-ad86-406b-84e2-640c87266bc2)
 
 
+<h3 align="left"> $$\textcolor{white}{\textnormal{2 - Encontre os Servicços}}$$ </h3>
 
-
-<h3 align="left"> $$\textcolor{white}{\textnormal{2- Encontre os Servicços}}$$ </h3>
 
 ![image](https://github.com/user-attachments/assets/2711e64b-f04c-412f-bb63-606274847e54)
 
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{3 - Navege pelos Serviços$$ </h3>
+<h3 align="left"> $$\textcolor{white}{\textnormal{3 - Navege pelos Serviços}}$$ </h3>
 
 
 ![image](https://github.com/user-attachments/assets/def71739-ff02-4907-97e9-e894d2e24aa4)
@@ -79,7 +78,7 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 
 
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{4 - Alterne entre os Serviços$$ </h3>
+<h3 align="left"> $$\textcolor{white}{\textnormal{4 - Alterne entre os Serviços}}$$ </h3>
 
 
 ![image](https://github.com/user-attachments/assets/49d3f683-1189-4a0b-be15-22be80778db6)
@@ -94,7 +93,7 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 
 
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{5 - Personalize seu paindel de controle$$ </h3>
+<h3 align="left"> $$\textcolor{white}{\textnormal{5 - Personalize seu paindel de controle}}$$ </h3>
 
 ![image](https://github.com/user-attachments/assets/09f0a4cf-1c0b-4001-a8e0-8729f940e14b)
 
@@ -104,7 +103,7 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 
 
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{6 - Conheça as configuração da conta$$ </h3>
+<h3 align="left"> $$\textcolor{white}{\textnormal{6 - Conheça as configuração da conta}}$$ </h3>
 
 ![image](https://github.com/user-attachments/assets/afd1a0cf-7e26-4b28-b887-f298a3589d04)
 
