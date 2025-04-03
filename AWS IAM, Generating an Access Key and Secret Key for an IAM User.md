@@ -94,7 +94,7 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 <br>
 
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{Step 3 -  4 - Create an Access Key and a Secret Key.}}$$ </h3>
+<h3 align="left"> $$\textcolor{white}{\textnormal{Step 4 - Create an Access Key and a Secret Key.}}$$ </h3>
 
 
 <p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/65b41cda-1827-4b01-9229-7fb59f330168"> </p>
