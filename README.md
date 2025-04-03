@@ -26,7 +26,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS Management Console, Navigating the Management Console .md">AWS Management Console</a>, Navigating the Management Console <br>
+      ✅ &nbsp; <a href="AWS Management Console, Navigating the Management Console .md">AWS Management Console</a>, <code>Navigating the Management Console</code> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/console/">ℹ️</a> to access Management Console official docs.
     </td>
     <td style="vertical-align: top;">2023, Sep 2</td>
@@ -40,7 +40,7 @@
       </h6>
     </td>
     <td style="text-align: left; vertical-align: top;">
-      ✅ &nbsp; <a href="AWS Budgets. Creating a Budget Alert in the Billing Console.md">AWS Budgets</a>, Creating a Budget Alert in the Billing Console <br>
+      ✅ &nbsp; <a href="AWS Budgets. Creating a Budget Alert in the Billing Console.md">AWS Budgets</a>, <code>Creating a Budget Alert in the Billing Console</code> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; Click here <a href="https://aws.amazon.com/aws-cost-management/aws-budgets/">ℹ️</a> to access AWS Budgets official docs.
     </td>
     <td style="vertical-align: top;">2023, Nov 13</td>
