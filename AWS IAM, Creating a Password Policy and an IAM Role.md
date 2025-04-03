@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hands-on ADVC method, Value Cloud Architect<br>CloudFaster Academy</h1>
 <br>
-<h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;"> AWS IAM, Creating a Password Policy</h1>
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: '#FF9900'; font-size: 40px;"> AWS IAM, Creating a Password Policy and an IAM Role</h1>
 
 
 ![image](https://github.com/user-attachments/assets/d0235768-fbb1-4f0d-97a7-b7c0f526b3a0)
