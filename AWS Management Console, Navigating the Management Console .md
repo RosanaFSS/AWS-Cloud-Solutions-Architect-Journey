@@ -44,7 +44,7 @@ Assistência e documentação: fornece acesso a uma vasta documentação e recur
 
 
 
-<h3 align="left"> $$\textcolor{white}{\textnormal{2- Encontre os Servicços}$$ </h3>
+<h3 align="left"> $$\textcolor{white}{\textnormal{2- Encontre os Servicços}}$$ </h3>
 
 ![image](https://github.com/user-attachments/assets/2711e64b-f04c-412f-bb63-606274847e54)
 
