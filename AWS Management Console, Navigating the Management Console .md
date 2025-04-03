@@ -5,9 +5,7 @@
 
 
 <h2  align="center" class="bold" style="font-weight: bold">Content</h2>
-<p align="center">
-
-Lab Content<br>
+<p align="center"> In this lab we will navigate the AWS console with the aim of demonstrating the main functionalities and location of resources.</p>
 
 
 <h1 align="center"> $$\textcolor{#33fffe}{\textnormal{AWS, Conhecendo a console de gerenciamento}}$$ </h1>
