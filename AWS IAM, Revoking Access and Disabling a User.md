@@ -58,15 +58,50 @@ $$\textcolor{white}{\textnormal{Practice}}$$ </h1>
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 3 - Create your first user.}}$$ </h3>
 
 
-<p align="left"> <img width="900px" src="https://github.com/user-attachments/assets/da84b578-71b6-44eb-a562-2fe6bc3c4544"> </p>
+<br>
+
+![image](https://github.com/user-attachments/assets/7ef90859-5ab0-46fc-8c80-fc24ac710982)
 
 <br>
+
+![image](https://github.com/user-attachments/assets/e8ad10f6-821f-49a9-ad11-f1d6acb43706)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/2a145f86-1c18-4bcb-9d3f-36ea61165640)
+
+
+
 
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 4 -Verify the user created.}}$$ </h3>
 
+![image](https://github.com/user-attachments/assets/82c42607-2451-44e3-a263-3a1a74141767)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5884d180-a8f8-4897-9692-97065a20dda8)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8d9e52c1-5d7e-493f-bcf3-229e01cacb9c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4ec6ff06-beb6-40a3-afc8-ffb06c3e7446)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8bf8781f-6a34-4f78-b777-32a2f2393d54)
+
+<p>Clicke <code>Close</code>.</p>
+
+
+
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 5 - Log in to the account with your new user.}}$$ </h3>
+
+https://054959394458.signin.aws.amazon.com/console
 
 
 <h3 align="left"> $$\textcolor{white}{\textnormal{Step 6 - Remove the access of the created user.}}$$ </h3>
