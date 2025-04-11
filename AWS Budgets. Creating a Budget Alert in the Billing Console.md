@@ -10,7 +10,7 @@ September 02, <bold>2023</bold>  &nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;  April 
 <br>
 
 <br>
-<h2  align="center" class="bold" style="font-weight: bold"> AWS Budgest</h2>
+<h2  align="center" class="bold" style="font-weight: bold"> AWS Budgets</h2>
 <p align="center">
 <p>O AWS Budgets é uma ferramenta que permite os usuários monitorarem e controlarem seus gastos, na plataforma da AWS. Estabelece limites personalizados para diferentes serviços, regiões ou para a conta como um todo. Além disso, oferece recursos de alerta, como notificações por e-mail ou Amazon Simple Notification Service (SNS), para informar os usuários quando os gastos atingem os níveis pré-definidos.
 </p>
