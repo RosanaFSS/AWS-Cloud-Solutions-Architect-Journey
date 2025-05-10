@@ -22,10 +22,12 @@
 <p>It is a highly available and scalable Domain Name System (DNS) web service. You can use Route 53 to perform 3 main functions in any combination: </p>
 
 <ul style="list-style-type:square">
-    <li>Register domain names</li>
-    <li>DNS routing &nbsp; | &nbsp; route internet traffic to the resources for your domain</li>
-    <li>Health checking &nbsp; | &nbsp; Check the health of your resources</li>
+    <li>Register domain names<br><br></li>
+    <li>DNS routing &nbsp; | &nbsp; route internet traffic to the resources for your domain<br><br></li>
+    <li>Health checking &nbsp; | &nbsp; Check the health of your resources<br></li>
 </ul></p>
+
+<br>
 
 <h2><strong>Amazon Route 53</strong> &nbsp; | &nbsp; 8 routing policy types</h2>
 
