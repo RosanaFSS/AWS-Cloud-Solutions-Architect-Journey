@@ -19,8 +19,8 @@
 
 <ul style="list-style-type:square">
     <li>Register domain names</li>
-    <li>DNS routing | route internet traffic to the resources for your domain</li>
-    <li>Health checking | Check the health of your resources</li>
+    <li>DNS routing &nbsp; | &nbsp; route internet traffic to the resources for your domain</li>
+    <li>Health checking &nbsp; | &nbsp; Check the health of your resources</li>
 </ul></p>
 
 <h2><code>Amazon Route 53</code> Routing Policy</h2>
