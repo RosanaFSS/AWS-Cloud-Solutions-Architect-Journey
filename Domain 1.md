@@ -27,7 +27,7 @@
     <li>Health checking &nbsp; | &nbsp; Check the health of your resources</li>
 </ul></p>
 
-<h2><code>Amazon Route 53</code> &nbsp; | &nbsp; Routing Policy</h2>
+<h2><strong>Amazon Route 53</strong> &nbsp; | &nbsp; Routing Policy</h2>
 
 <p><ol type="1. ">
     <li><a href="https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-simple.html">Simple routing policy</a> &nbsp; | &nbsp; Use for a single resource that performs a given function for your domain, for example, a web server that serves content for the example.com website.<br> You can use simple routing policy for records in a <code>private</code> hosted zone.<br><br></li>
