@@ -6,7 +6,7 @@
 
 <div align="center">
   
-|<h3>Design<br> Secure Architectures</h3><p>Domain <code>1</code><br>30%</p>|<h3>Design<br> Resilient Architectures</h3><p>Domain <code>2</code><br>26%</p>|<h3>Design High-<br>Performing<br>Architectures</h3><p>Domain <code>3</code><br>24%</p>|<h2>Design Cost-Optimized Architectures </h2><h4>Domain 4 - 20%</h4>|
+|<h3>Design<br> Secure Architectures</h3><p>Domain <code>1</code><br>30%</p>|<h3>Design<br> Resilient Architectures</h3><p>Domain <code>2</code><br>26%</p>|<h3>Design High-<br>Performing<br>Architectures</h3><p>Domain <code>3</code><br>24%</p>|<h3>Design<br>Cost-Optimized<br>Architectures</h3><p>Domain <code>4</code><br>20%</p>|
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
 |-                                    |-                                    |-                                    |-   |
 
