@@ -14,6 +14,15 @@
 
 <br>
 
+<h2><code>Amazon Route 53</code></h2>
+<p>It is a highly available and scalable Domain Name System (DNS) web service. You can use Route 53 to perform 3 main functions in any combination: </p>
+
+<ul style="list-style-type:square">
+    <li>Register domain names</li>
+    <li>DNS routing | route internet traffic to the resources for your domain</li>
+    <li>Health checking | Check the health of your resources</li>
+</ul></p>
+
 <h2><code>Amazon Route 53</code> Routing Policy</h2>
 
 <p><ol type="1. ">
