@@ -10,3 +10,9 @@
 </div>
 
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Domain 1</h1>
+
+
+<br>
+
+<h2>Route 53 Routing Policy</h2>
+<p></p><code>Simple routing policy</code> : use for a single resource that performs a given function for your domain, for examples, a web server that servers content for the example.com website.<br>
