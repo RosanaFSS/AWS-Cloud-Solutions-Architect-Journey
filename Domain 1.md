@@ -14,7 +14,7 @@
 
 <br>
 
-<h2><strong>Amazon Route 53</strong></h2>
+<h2><bold>Amazon Route 53</bold></h2>
 <p>It is a highly available and scalable Domain Name System (DNS) web service. You can use Route 53 to perform 3 main functions in any combination: </p>
 
 <ul style="list-style-type:square">
