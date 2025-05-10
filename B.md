@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Certified Solutions Architect - Associate </h1>
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">AWS Certified Solutions Architect - Associate, AWS SAA-C01</h1>
 <p align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Domain 1</p>
 <br>
 <br>
