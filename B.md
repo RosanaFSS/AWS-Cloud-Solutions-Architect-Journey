@@ -6,7 +6,7 @@
 
 <div align="center">
   
-|<h2>Design Secure Architectures</h2><h4>Domain 1 - 30%</h4>|<h2>Design Resilient Architectures</h2><h4>Domain 2 - 26%</h4>|Domain 3 - 24%<br>Design High-Performing Architectures                         |Domain 4 - 20%<br>Design Cost-Optimized Architectures                       |
+|<h2>Design Secure Architectures</h2><h4>Domain 1 - 30%</h4>|<h2>Design Resilient Architectures</h2><h4>Domain 2 - 26%</h4>||<h2>Design High-Performing Architectures/h2><h4>Domain 3 - 24%|<h2>Design Cost-Optimized Architectures </h2><h4>Domain 4 - 20%</h4>|
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
 |-                                    |-                                    |-                                    |-   |
 
