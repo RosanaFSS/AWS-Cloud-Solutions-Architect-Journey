@@ -23,10 +23,10 @@
     <li>Health checking &nbsp; | &nbsp; Check the health of your resources</li>
 </ul></p>
 
-<h2><code>Amazon Route 53</code> Routing Policy</h2>
+<h2><code>Amazon Route 53</code> &nbsp; | &nbsp; Routing Policy</h2>
 
 <p><ol type="1. ">
-    <li><a href="https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-simple.html">Simple routing policy</a> | Use for a single resource that performs a given function for your domain, for example, a web server that serves content for the example.com website.<br> You can use simple routing policy for records in a <code>private</code> hosted zone.<br><br></li>
+    <li><a href="https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-simple.html">Simple routing policy</a> &nbsp; | &nbsp; Use for a single resource that performs a given function for your domain, for example, a web server that serves content for the example.com website.<br> You can use simple routing policy for records in a <code>private</code> hosted zone.<br><br></li>
     <li><a href="https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-failover.html">Failover routing policy</a> |  Use when you want to configure active-passive failover.<br> You can use Failover routing policy for records in a <code>private</code> hosted zone.<br><br></li>
     <li><a href="https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-geo.html">Geolocation routing policy</a> |  Use when you want to route traffic based on the location of your users.<br> You can use geolocation routing for records in both <code>public</code> and <code>private</code> hosted zones.<br><br></li>
     <li><a href="https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-geoproximity.html">Geoproximity routing policy</a> | Use when you want to route traffic based on the location of your resources and, optionally, shift traffic from resources in one location to resources in another location. <br>You can use geoproximity routing to create records in a <code>private</code> hosted zone.<br><br></li>
