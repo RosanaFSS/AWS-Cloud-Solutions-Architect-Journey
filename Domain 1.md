@@ -40,3 +40,7 @@
     <li><a href="https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-weighted.html">Weighted routing policy</a> &nbsp; | &nbsp; lets you associate multiple resources with a single domain name (example.com) or subdomain name (acme.example.com) and choose how much traffic is routed to each resource.<br>You can use weighted routing policy for records in a  <code>private</code> hosted zone.</li>
 </ol></p>
 
+
+</body>
+</html>
+
